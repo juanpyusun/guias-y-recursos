@@ -226,6 +226,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - Listado de Emojis para usar dentro de Github <br>
 
+- [Editor md](https://pandao.github.io/editor.md/en.html) - Editor de Markdown <br>
+
 ***
 
 ## **6. Python**
@@ -275,6 +277,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Infinity Free](https://www.infinityfree.net/) <br>
 
 - [Pages Github](https://pages.github.com/) <br>
+
+- [1freehosting](https://www.1freehosting.com/) <br>
 
 ***
 
@@ -367,7 +371,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Neumorphism](https://neumorphism.io/#e0e0e0) - Generador de cajas CSS <br>
 
-- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) <br>
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Plantillas de estilos para botones <br>
 
 - [Wait Animate](https://waitanimate.wstone.uk/) - Tiempos de espera de animaciones CSS <br>
 
@@ -390,6 +394,38 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto <br>
 
 - [Pure CSS](https://purecss.io/) - Modulos responsive CSS <br>
+
+- [Free Frontend](https://freefrontend.com/) - Plantillas Frontend <br>
+
+- [Drawkit](https://www.drawkit.com/) - Ilustraciones gratuitas <br>
+
+- [Flaticon](https://www.flaticon.com/) - Ilustraciones gratuitas <br>
+
+- [The noun project](https://thenounproject.com/photos/) - Stock de imagenes <br>
+
+- [Wiki media](https://commons.wikimedia.org/wiki/Main_Page) - Wiki de archivos multimedia <br>
+
+- [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes <br>
+
+- [Unplash](https://unsplash.com/es) - Stock de imagenes <br>
+
+- [Unraw](https://undraw.co/) - Stock de ilustraciones <br>
+
+- [StockSnap](https://stocksnap.io/) - Stock de imagenes <br>
+
+- [Remixicon](https://remixicon.com/) - Stock de iconos <br>
+
+- [Public Domain Archive](https://www.publicdomainarchive.com/) - Stock de imagenes antiguas <br>
+
+- [Picsum](https://picsum.photos/) - Stock de imagenes <br>
+
+- [Picjumbo](https://picjumbo.com/) - Stock de imagenes <br>
+
+- [Vecteezy](https://www.vecteezy.com/free-photos) - Stock de imagenes <br>
+
+- [Openmoji](https://openmoji.org/) - Stock de emojis <br>
+
+- [New old stock](https://nos.twnsnd.co/) - Stock ded imagenes antiguas<br>
 
 ***
 
@@ -464,6 +500,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo <br>
 
 - [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON <br>
+
+- [Json Editor online](https://jsoneditoronline.org/) - Editor ded archivos JSON <br>
 
 - [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
 
