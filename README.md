@@ -1,9 +1,19 @@
 
+
 # **Coleccion de recursos y paginas**
 Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
 ## indice
-1. 
-2. 
+1. [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#1-cursos-y-sitios-de-aprendizaje)<br>
+2. [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
+3. [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#3-foros-y-sitios-de-contribucion)<br>
+4. [Datos](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#4-datos)<br>
+5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#5-git-y-github)<br>
+6. [Python](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#6-python)<br>
+7. [Hosting](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#7-hosting)<br>
+8. [Desarrollo web y Banco de multimedia](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#8-desarrollo-web-y-banco-de-multimedia)<br>
+9. [SQL](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#9-sql)<br>
+10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#10-sitios-para-aprender-jugando)<br>
+11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#11-distintas-herramientas)<br>
 
 
 ***
@@ -66,7 +76,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Educative](https://www.educative.io/) - Plataforma para el desarrollo de habilidades <br>
 
-- [Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail&refid=9cd9d99c-3597-4b9b-b044-5b9213216efc) - Curso sobre los servicios de AWS <br>
+- [Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) - Curso sobre los servicios de AWS <br>
 
 - [Tech Interview Hanbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) - Tecnicas y patrones de ejercicios para pruebas de entrevistas <br>
 
@@ -84,12 +94,19 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa visual sobre tutoriales de distintas tecnologias <br>
 
-- [The Algorithms](https://the-algorithms.com/es) - Tutoriales sobre distintos algoritmos escritos en distintos lenguajes<br>
+- [The Algorithms](https://the-algorithms.com/es) - Tutoriales sobre distintos algoritmos escritos en distintos lenguajes <br>
 
-- [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias<br>
+- [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias <br>
 
-- []() - <br>
+- [Flyncer](https://flyncer.com/) - Cursos, retos y oportunidades laborales <br>
 
+- [Acervolima](https://es.acervolima.com/) - Comunidad de tutoriales y Experiencias sobre entrevistas de trabajo en IT <br>
+
+- [Studio Code](https://studio.code.org/courses) - Distintos cursos gratuitos o de pago <br>
+
+- [30 Seconds of code](https://www.30secondsofcode.org/) - Bases de tutoriales, preguntas y retos de distintos niveles de aprendizaje <br>
+
+- [Dev Docs](https://devdocs.io/) - Documentacion de distintos lenguajes de programacion <br>
 
 ***
 
@@ -108,21 +125,27 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [CodePen](https://codepen.io/) - Red social para desarrolladores con retos y pruebas de codigo <br>
 
-- []() - <br>
+- [TopCoder](https://www.topcoder.com/challenges) - Retos y tareas para aprender tecnologias <br>
 
-- []() - <br>
+- [Project Euler](https://projecteuler.net/) - Retos de matematicas y computacion <br>
 
-- []() - <br>
+- [Exercism](https://exercism.org/) - Distintos tipos de ejericios para la practica en mas de 60 lenguajes informaticos <br>
 
-- []() - <br>
+- [Code Wars](https://www.codewars.com/) - Retos para entrenar las habilidades en el desarrollo de codigo <br>
 
-- []() - <br>
+- [Leet Code](https://leetcode.com/) - Comunidad con preguntas y retos para disintas tecnologias <br>
 
-- []() - <br>
+- [Sphere Online Judge](https://www.spoj.com/) - Comunidad para preguntar y resolver inquietudes de codigos <br>
 
-- []() - <br>
+- [Edabit](https://edabit.com/) - Comunidad con miles de desafios y ejercicios en distintos lenguajes <br>
 
-- []() - <br>
+- [Dev Challenges](https://devchallenges.io/) - Retos para mejorar habilidades de desarrollo <br>
+
+- [Retos de Programacion](https://retosdeprogramacion.com/) - Ejercicios para mejorar la logica y el desarrollo de aplicaciones <br>
+
+- [PortSwigger](https://portswigger.net/web-security) - Laboratorio de practicas para ciberseguridad <br>
+
+- [Hack the Box](https://www.hackthebox.com/) - Retos de ciberseguridad <br>
 
 ***
 
@@ -133,51 +156,56 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Malt](https://www.malt.es/) - Busqueda de consultores freelancer externos <br>
 
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
+- [Stack Overflow](https://stackoverflow.com/) - Foro para la consulta de dudas <br>
 
 ***
 
-## **4. Bases de datos**
+## **4. Datos**
 *Datos de todo tipo y naturaleza*
 
 - [Kaggle](https://www.kaggle.com/learn) - Bases y concursos para el analisis de datos <br>
 
-- []() - <br>
+- [Schema](https://schema.org/) - Datos estructurados <br>
 
-- []() - <br>
+- [Open Corporates](https://opencorporates.com/) - Datos corporativos <br>
 
-- []() - <br>
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/datatools/lcd) - National Oceanic and Atmospheric Administration <br>
 
-- []() - <br>
+- [World Bank](https://data.worldbank.org/) - Datos del banco mundial <br>
 
-- []() - <br>
+- [Open AQ](https://openaq.org/#/) - Datos sobre la calidad del aire <br>
 
-- []() - <br>
+- [Salud Data](https://saludata.saludcapital.gov.co/osb/) - Base de datos sobre la salud Colombiana <br>
 
-- []() - <br>
+- [Data UN](https://data.un.org/) - Datos estadisticos Mundiales <br>
 
-- []() - <br>
+- [WHO](https://www.who.int/data/gho) - Datos sobre World Health Organization <br>
 
-- []() - <br>
+- [538](https://data.fivethirtyeight.com/) - Datos deportivos y estadisticas varias <br>
 
-- []() - <br>
+- [Google Trends](https://trends.google.com/trends/?geo=CO) - Busqueda y tendencias de google <br>
+
+- [Google Public Data](https://www.google.com/publicdata/directory) - Estadisticas y atos publicos google <br>
+
+- [Google Data Search](https://datasetsearch.research.google.com/) - Busqueda de conjunto de datos y estadisticas google <br>
+
+- [Pokemon Api](https://pokeapi.co/) - Base de datos de Pokemon <br>
+
+- [Data NASA](https://data.nasa.gov/) - Estadisticas y Datos NASA<br>
+
+- [Data Gov Singapur](https://data.gov.sg/) <br>
+
+- [Data Gov Australian](https://data.gov.au/) <br>
+
+- [Data Gov UK](https://www.data.gov.uk/) <br>
+
+- [Data Gov España](https://datos.gob.es/es/catalogo) <br>
+
+- [Data Gov US](https://data.gov/) <br>
+
+- [Data Gov Colombia](https://www.datos.gov.co/) <br>
+
+- [Data World](https://data.world/) <br>
 
 ***
 
@@ -196,13 +224,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Skills Github](https://skills.github.com/) - Cursos interactivos para principiantes o avanzados sobre Github <br>
 
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - Listado de Emojis para usar dentro de Github <br>
 
 ***
 
@@ -211,101 +233,298 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Data Science Python](https://axiomatic-ticket-4ff.notion.site/DS-Personal-05e8eaca244747b69c203d6239d54be7) - Introduccion al analisis de Datos <br>
 
-- []() - <br>
+- [Python anywhere](https://www.pythonanywhere.com/) - Hospedaje para Python gratis limitado o de pago <br>
 
-- []() - <br>
+- [Introduccion a los Sistemas Inteligentes 2022-2](https://fagonzalezo.github.io/2021.deeplearning/intro.html) - Fundamentos de Deep Learning Universidad de Antioquia <br>
 
-- []() - <br>
+- [PY4E](https://www.py4e.com/) - Curso online de Python para todos de cero a experto <br>
 
-- []() - <br>
+- [NSA Python](https://archive.org/details/comp3321/mode/2up?q=device) - Documento de aprendizaje por parte del NSA <br>
 
-- []() - <br>
+- [NASA Python](https://astg606.github.io/py_courses/beginner_python/) - Curso acelerado de Python <br>
 
-- []() - <br>
+- [Python For Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI) - Viedocurso de 13 Horas para aprender fundamentos de Python <br>
 
-- []() - <br>
+- [Python for Data Science](https://www.edx.org/es/course/python-for-data-science-2) - Herramientas y tecnicas para la ciencia de datos con Python <br>
 
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
-- []() - <br>
-
+- [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - Minicurso para los fundamentos de ciencia de datos con Python<br>
 
 ***
 
 ## **7. Hosting**
-*sitios web para el despliegue de servicios web*
+*sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
 
-- []() - <br>
+- [Heroku](https://www.heroku.com/) <br>
 
-- []() - <br>
+- [Somee](https://somee.com/) <br>
 
-- []() - <br>
+- [Linode](https://login.linode.com) <br>
 
-- []() - <br>
+- [Azure](https://azure.microsoft.com/es-es/) <br>
 
-- []() - <br>
+- [AWS](https://aws.amazon.com/es/) <br>
 
-- []() - <br>
+- [Google Cloud](https://cloud.google.com/?hl=es) <br>
 
-- []() - <br>
+- [Render](https://render.com/) <br>
 
-- []() - <br>
+- [Next](https://vercel.com/) <br>
 
-- []() - <br>
+- [Netlify](https://www.netlify.com/) <br>
 
-- []() - <br>
+- [Infinity Free](https://www.infinityfree.net/) <br>
 
-- []() - <br>
-
-- []() - <br>
+- [Pages Github](https://pages.github.com/) <br>
 
 ***
 
-## **8. HTML y CSSS**
-*Templates, guias y herramientas para la edicion web*
+## **8. Desarrollo web y Banco de multimedia**
+*Templates, guias y herramientas para la edicion web, Banco de imagenes, editores y  mockups*
 
-- []() - <br>
+- [Frontend Mentor](https://www.frontendmentor.io/) - Retos variados sobre HTML, CSS, Javascript<br>
 
-- []() - <br>
+- [Excalidraw](https://excalidraw.com/) - Tablero Virtual <br>
 
-- []() - <br>
+- [Flipsnack](https://www.flipsnack.com/) - Creacion de catalogos online <br>
 
-- []() - <br>
+- [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
 
-- []() - <br>
+- [Remove Background](https://www.remove.bg/es/t/change-background) - Remueve el fondo de las fotos <br>
 
-- []() - <br>
+- [Upscale](https://www.upscale.media/es) - Mejora la calidad de imagenes <br>
 
-- []() - <br>
+- [Nohat](https://nohat.cc/login?redirecto=tool/findstock) - Stock de imagenes <br>
 
-- []() - <br>
+- [Freepik](https://www.freepik.es/) - Stock de imagenes <br>
 
-- []() - <br>
+- [Pexels](https://www.pexels.com/es-es/) - Stock de imagenes <br>
+
+- [Stock Vault](https://www.stockvault.net/) - Stock de imagenes <br>
+
+- [Kaedim3d](https://www.app.kaedim3d.com/login) - Generador de modelos 3D a partir de imagenes <br>
+
+- [Admin lte](https://adminlte.io/) - Plantillas de diseño web <br>
+
+- [CSS Reference](https://cssreference.io/) - Guia visual de CSS <br>
+
+- [CSS Gradient](https://cssgradient.io/) - Generador de Gradientes de color de CSS <br>
+
+- [CSS Grid](https://cssgrid-generator.netlify.app/) - Generador de Grid CSS <br>
+
+- [CSS Matic](https://www.cssmatic.com/box-shadow) - Generador Box shadow CSS y otras herramientas <br>
+
+- [CSS Layout](https://csslayout.io/) -Generador de elementos CSS <br>
+
+- [Uiverse](https://uiverse.io/) - Elementos de interfaz CSS <br>
+
+- [Baseline](https://baseline.is/tools/css-photo-filters/) - Generador de filtro de fotos con CSS <br>
+
+- [Feeling Studio](https://feelingstudio.es/) - Figma tutorial y plantillas web <br>
+
+- [Designs System for Figma](https://www.designsystemsforfigma.com/) - Coleccion de plantillas Figma <br>
+
+- [Uizard](https://uizard.io/es/) - Generador de plantillas a partir de una foto <br>
+
+- [Patterns](https://www.patterns.dev/) - Libro sobre los patrones de desarrollo web <br>
+
+- [Do Factory](https://dofactory.com/net/design-patterns) - Patrones de desarrollo C# y tutoriales <br>
+
+- [Utopia](https://utopia.fyi/) - Plantillas de diseño responsive <br>
+
+- [Ui Buttons](https://ui-buttons.web.app/) - Generador de diseño de botones <br>
+
+- [Coolors](https://coolors.co/) - Paleta de colores <br>
+
+- [My font](https://www.myfonts.com/pages/whatthefont) - Identificar el nombre de la fuente de texto <br>
+
+- [Free Icons](https://freeicons.io/) - Stock de iconos para desarrollo <br>
+
+- [Mockup tree](https://mockuptree.com/) - Stock de Mockups <br>
+
+- [Shape Dividers](https://shapedividers.com) - Generador de divisores SVG <br>
+
+- [Couleur](https://couleur.io/) - Paleta de colores <br>
+
+- [UI deck](https://uideck.com/) - Plantillas HTML <br>
+
+- [Naevner](https://naevner.com/) - Generador de descripcion de colores con codigo HEX <br>
+
+- [Meta Tags](https://metatags.io/) - Generador de Meta Tags <br>
+
+- [Bootstrapmade](https://bootstrapmade.com/) - Plantillas de Bootstrap <br>
+
+- [W3Layout](https://w3layouts.com/) - Plantillas de Bootstrap y Wordpress <br>
+
+- [One Page Love](https://onepagelove.com/) - Plantillas y recursos <br>
+
+- [Theme Wagon](https://themewagon.com/theme-price/free) - Plantillas desarrollo web <br>
+
+- [HTML5 up](https://html5up.net/) - Plantillas HTML5 <br>
+
+- [CSS Tricks](https://css-tricks.com/guides/) - Trucos y consejos CSS <br>
+
+- [CSS Hell](https://csshell.dev/) - Errores comunes con CSS <br>
+
+- [Neumorphism](https://neumorphism.io/#e0e0e0) - Generador de cajas CSS <br>
+
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) <br>
+
+- [Wait Animate](https://waitanimate.wstone.uk/) - Tiempos de espera de animaciones CSS <br>
+
+- [Best CSS Button](https://www.bestcssbuttongenerator.com/) - Generador de botones con CSS <br>
+
+- [Generator](https://html-css-js.com/css/generator/) - Generador de HTML CSS <br>
+
+- [Bennettfeely](https://bennettfeely.com/clippy/) - Generador de imagenes con bordes geometricos CSS <br>
+
+- [Animista](https://animista.net/) - Generador de animaciones CSS <br>
+
+- [Get Bootstrap](https://getbootstrap.com/) - Generador de plantillas Bootstrap <br>
+
+- [Chart Js](https://www.chartjs.org/) - Generador de graficas en JS <br>
+
+- [Dev Samples](https://www.devsamples.com/) - Ejemplos de desarrollo web <br>
+
+- [Font Flipper](https://fontflipper.com/upload) - Fuentes e imagenes <br>
+
+- [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto <br>
+
+- [Pure CSS](https://purecss.io/) - Modulos responsive CSS <br>
 
 ***
 
-## **9. Distintas Herramientas**
+## **9. SQL**
+*Tutoriales y herramientas de SQL y otros lenguajes para base de datos*
+
+- [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger<br>
+
+- [DB Diagram](https://dbdiagram.io/home) - Diagramas sobre bases de datos relacionales<br>
+
+***
+
+## **10. Sitios para Aprender Jugando**
+*Minijuegos para aprender algunas tecnologias*
+
+- [Code Combat](https://codecombat.com/) - Sitio para aprender Python, JavaScript y C++ <br>
+  
+- [CheckiO](https://checkio.org) - Sitio para aprender Python y JavaScript <br>
+  
+- [Schemaverse](https://schemaverse.com) - Sitio para aprender PostgreSQL <br>
+
+- [Code Monkey](https://codemonkey.com) - Sitio para el aprendizaje de lenguajes de programacion para niños <br>
+
+- [Scratch](https://scratch.mit.edu/) - Lenguaje de programacion facil de entender y crear aplicaciones animadas para niños <br>
+
+- [Blockly](https://blockly.games/) - Lenguaje de programacion basado en bloques para desarrollar la logica en niños <br>
+
+- [Coding Games](https://www.codingame.com/) - Juegos desafios para aprender distintos lenguajes de programacion <br>
+
+- [Flexbox Zombie](https://mastery.games/flexboxzombies/) - Juego desafio para aprender CSS <br>
+
+- [Flexbox Defense](http://www.flexboxdefense.com) - Juego desafios para aprender CSS <br>
+
+- [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego desafios para aprender CSS <br>
+
+- [CSS Diner](https://flukeout.github.io/) - Juego desafios para aprender CSS <br>
+
+- [Grid Garden](https://cssgridgarden.com/#es) - Juego desafios para aprender CSS <br>
+
+- [Coding Fantasy](https://codingfantasy.com/games/css-grid-attack) - Juego de misiones para aprender CSS <br>
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - Juego desafios para aprender SQL <br>
+
+- [Not Pron](https://notpron.com/) - Juego de retos y adivinanzas varias <br>
+
+***
+
+## **11. Distintas Herramientas**
 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring <br>
 
-- []() - <br>
+- [Tech Empower](https://www.techempower.com/benchmarks/#section=data-r21) - Analisis de los distintos Framework <br>
 
-- []() - <br>
+- [Regex](https://regex101.com/) - Analisis de expresiones regulares en distintos lenguajes <br>
 
-- []() - <br>
+- [Blackbox](https://www.useblackbox.io/landingPage) - Buscador avanzado de codigo <br>
 
-- []() - <br>
+- [You](https://you.com/code) - Buscador avanzado de codigo <br>
 
-- []() - <br>
+- [Appsheet](https://about.appsheet.com/home/) - Solucion a distintas situaciones sin necesidad de usar codigo <br>
 
-- []() - <br>
+- [Barcode to PC](https://barcodetopc.com/) - Convertir el celular en un lector de codigo de barras <br>
 
-- []() - <br>
+- [Notion](https://www.notion.so) - Manejo de proyectos <br>
 
-- []() - <br>
+- [Data Viz](https://datavizproject.com/) - Distintas Visualizaciones de datos <br>
+
+- [Construct](https://www.construct.net/en) - Diseño y creacion de videojuegos en Construct <br>
+
+- [Excel formula Bot](https://excelformulabot.com/) - AI para analizar formulas de excel <br>
+
+- [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo <br>
+
+- [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON <br>
+
+- [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
+
+- [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
+
+- [OEIS](https://oeis.org/) - Buscador de Sucesiones Y series Matematicas <br>
+
+- [Insecam](http://www.insecam.org/en/byrating/) - Live Camaras sin proteccion <br>
+
+- [Shodan](https://www.shodan.io/) - Buscador de dispositivos conectados a internet <br>
+
+- [Pimeyes](ps://pimeyes.com/en) - Face Search Engine Reverse Image Search <br>
+
+- [Ahmia](https://ahmia.fi/) - Buscador de servicios ocultos en la red TOR <br>
+
+- [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion <br>
+
+- [El libro Free](https://elibrofree.blogspot.com/) - Buscador de Libros <br>
+
+- [Z-Lib](https://es.z-lib.org/) - Buscador de libros <br>
+
+- [LibGen](https://libgen.is/) - Buscador de libros <br>
+
+- [12ft](https://12ft.io/) - Bypass paywall sites <br>
+
+- [Tiny Wow](https://tinywow.com/) - Convertidor de archivos y herramientas online <br>
+
+- [Convertio](https://convertio.co/es/) - Convertidor de archivos multimedia online <br>
+
+- [Save Tweet Videos](https://www.savetweetvid.com/) - Descarga de videos en twitter <br>
+
+- [Pc Builds](https://pc-builds.com/) - Analisis de Hardware <br>
+
+- [Virus Total](https://www.virustotal.com) - Antivirus Online <br>
+
+- [Zoho](https://www.zoho.com/es-xl/) - Plataforma para la gestion de negocios con Dominio propio <br>
+
+- [Ninite](https://ninite.com/) - Multiple Instalador de software <br>
+
+- [Power Automate](https://powerautomate.microsoft.com/es-es/) - Automatizacion de servicios de Microsoft <br>
+  
+- [Zapier](https://zapier.com/) - Automatizacion de servicios empresariales <br>
+
+- [Temp Mail](https://temp-mail.org/) - Servicio de correo temporal <br>
+
+- [CryptPad](https://cryptpad.fr/) - Servicio encriptado de almacenamiento de archivos <br>
+
+- [AI Jenni](https://jenni.ai/) - AI para escritura de texto <br>
+  
+- [QuillBot](https://quillbot.com/) - Servicio de parafraseo <br>
+
+- [AI Smodin](https://smodin.io/es/escritor) - AI para generar textos <br>
+  
+- [AI Copy](https://www.copy.ai/) - AI para generar textos <br>
+
+- [Speedwrite](https://speedwrite.com/) - Generadores de texto <br>
+
+- [AI Resume](https://resumeglow.com/) - AI para generar perfiles profesionales <br>
+  
+- [Descript](https://www.descript.com/overdub) - Text-to-speech model of your voice <br>
+
+- [Anthiago](https://anthiago.com/) - Distintas herramientas, Convierte videos en texto <br>
 
 ***
