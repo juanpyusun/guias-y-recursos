@@ -1,4 +1,3 @@
-
 # **Coleccion de recursos y paginas**
 Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
 ## indice
@@ -271,6 +270,22 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Dashboards](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/) - Curso en udemy sobre Dashboards usando Plotly y Dash <br>
 
+- [Python Web scraping](https://realpython.com/python-web-scraping-practical-introduction/) - Guia de introduccion a web scraping <br>
+
+- [Real Python](https://realpython.com/) - Tutoriales varios sobre Python <br>
+  
+- [Career Advice](https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/) - Relato sobre el uso de web scraping para conseguir trabajo <br>
+
+- [Web scraping ethics](https://research.aimultiple.com/web-scraping-ethics/) - ¿Es el web scraping legal? <br>
+  
+- [Spiders and crawlers](https://cfiesler.medium.com/spiders-and-crawlers-and-scrapers-oh-my-law-and-ethics-of-researchers-violating-terms-of-service-27496894f6de) - Etica y legalidad del web scraping <br>
+  
+- [Scrapeth is site](https://www.scrapethissite.com/pages/) - Website para practicar web scraping <br>
+  
+- [Qwone](http://qwone.com/~jason/20Newsgroups/) - Website para practicar web scraping y analisis de texto con mas de 20.000 documentos <br>
+
+- [Python financial newsfeed](https://www.freecodecamp.org/news/use-python-spacy-streamlit-to-build-structured-financial-newsfeed/) - Curso para practicar web scraping <br>
+
 ***
 
 ## **7. Hosting**
@@ -324,7 +339,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Frontend Mentor](https://www.frontendmentor.io/) - Retos variados sobre HTML, CSS, Javascript<br>
 
 - [Flipsnack](https://www.flipsnack.com/) - Creacion de catalogos online <br>
-
 
 - [Kaedim3d](https://www.app.kaedim3d.com/login) - Generador de modelos 3D a partir de imagenes <br>
 
