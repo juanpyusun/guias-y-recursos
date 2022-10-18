@@ -100,7 +100,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [The Algorithms](https://the-algorithms.com/es) - Tutoriales sobre distintos algoritmos escritos en distintos lenguajes <br>
 
-
 - [Flyncer](https://flyncer.com/) - Cursos, retos y oportunidades laborales <br>
 
 - [Acervolima](https://es.acervolima.com/) - Comunidad de tutoriales y Experiencias sobre entrevistas de trabajo en IT <br>
@@ -124,6 +123,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Neetcode](https://neetcode.io/) - Videotutoriales para practicar entrevistas y pruebas <br>
 
 - [R4DS](https://es.r4ds.hadley.nz/) - Curso de R para ciencia de datos <br>
+
+- [Learn Microsoft](https://learn.microsoft.com/en-us/training/browse/?expanded=azure) - Cursos de microsoft <br>
 
 ***
 
@@ -492,14 +493,32 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
+- [Codepen](https://codepen.io/) - Proyectos de arte creados con CSS <br>
+
 ***
 
 ## **9. SQL**
 *Tutoriales y herramientas de SQL y otros lenguajes para base de datos*
 
-- [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger<br>
+- [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger <br>
 
-- [DB Diagram](https://dbdiagram.io/home) - Diagramas sobre bases de datos relacionales<br>
+- [DB Diagram](https://dbdiagram.io/home) - Diagramas sobre bases de datos relacionales <br>
+
+- [SQL curso](https://youtu.be/HXV3zeQKqGY) - Videocurso para principiantes de 4 horas <br>
+
+- [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - Tutorial sobre SQL <br>
+
+- [Introduction SQL](https://www.coursera.org/learn/intro-sql?ranMID=40328&ranEAID=d2gvurItCFk&ranSiteID=d2gvurItCFk-UV_YKtenJ0UIVqqvZtdJtg&siteID=d2gvurItCFk-UV_YKtenJ0UIVqqvZtdJtg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=d2gvurItCFk) - Curso en coursera sobre SQL <br>
+
+- [SQL completo](https://youtu.be/uUdKAYl-F7g) - Videocurso completo de 2 horas <br>
+
+- [SQL bolt](https://sqlbolt.com/) - Curso completo <br>
+
+- [SQL course](https://www.sqlcourse.com/) - Curso basico y avanzado <br>
+
+- [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) - Curso basico sobre SQL <br>
+
+- [Getting Started](https://colab.research.google.com/github/SamwelJane/Copy-of-SQL-Programming---Getting-Started-with-Databases/blob/master/Copy_of_SQL_Programming_Getting_Started_with_Databases.ipynb) - Notebook para aprender SQL <br>
 
 ***
 
