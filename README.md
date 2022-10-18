@@ -4,7 +4,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 1. [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)<br>
 2. [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
 3. [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos#3-foros-y-sitios-de-contribucion)<br>
-4. [Datos](https://github.com/juanpyusun/guias-y-recursos#4-datos)<br>
+4. [Datasets](https://github.com/juanpyusun/guias-y-recursos#4-datasets)<br>
 5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#5-git-y-github)<br>
 6. [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)<br>
 7. [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)<br>
@@ -182,7 +182,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **4. Datos**
+## **4. Datasets**
 *Datos de todo tipo y naturaleza*
 
 - [Kaggle](https://www.kaggle.com/learn) - Bases y concursos para el analisis de datos <br>
