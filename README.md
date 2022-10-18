@@ -314,7 +314,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Lenguaje JS](https://lenguajejs.com/) - Tutoriales sobre desarrollo web y sus diversas tecnologias <br>
 
-- [CodeNation](https://teaching.codenation.com/) - Ejercicios dded HTML  y CSS <br>
+- [CodeNation](https://teaching.codenation.com/) - Ejercicios de HTML  y CSS <br>
 
 - [Full Stack Open](https://fullstackopen.com/es/) - Aprendizaje de distintas tecnologias para el desarrollo web <br>
 
