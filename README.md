@@ -685,7 +685,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 
 ## **15. Herramientas ficha ADSO-6**
-*diversas herramientas utilizadas para el desarrollo ded la ficha ADSO-6*
+*diversas herramientas utilizadas para el desarrollo de la ficha ADSO-6*
 
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
 
