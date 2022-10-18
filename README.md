@@ -1,5 +1,4 @@
 
-
 # **Coleccion de recursos y paginas**
 Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
 ## indice
@@ -10,17 +9,23 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#5-git-y-github)<br>
 6. [Python](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#6-python)<br>
 7. [Hosting](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#7-hosting)<br>
-8. [Desarrollo web y Banco de multimedia](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#8-desarrollo-web-y-banco-de-multimedia)<br>
+8. [Desarrollo web y movil](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#8-desarrollo-web-y-movil)<br>
 9. [SQL](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#9-sql)<br>
 10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#10-sitios-para-aprender-jugando)<br>
 11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#11-distintas-herramientas)<br>
-
+12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#12-libros-y-articulos)<br>
+13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#13-banco-y-editor-de-imagenes)<br>
+14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#14-banco-de-apis-para-consumir)<br>
 
 ***
 ***
 
 ## **1. Cursos y sitios de Aprendizaje**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
+
+- [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa visual sobre tutoriales de distintas tecnologias <br>
+
+- [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias <br>
 
 - [Digital Innovation One](https://www.dio.me/es) - Comunidad educativa gratuita para desarrolladores <br>
 
@@ -50,7 +55,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
   
 - [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Cursos, editores de codigo en linea y tutoriales <br>
   
-- [The Odin Project](https://www.theodinproject.com/) - Desarrollo web <br>
+- [The Odin Project](https://www.theodinproject.com/) - Cursos sobre desarrollo web <br>
   
 - [FrontEndMaster](https://frontendmasters.com/) - Cursos de pago con vista previa gratuita <br>
 
@@ -92,11 +97,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Te lo explico con gatitos](https://teloexplicocongatitos.com/) - Tutoriales y explicaciones amenas sobre distintas tecnologias <br>
 
-- [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa visual sobre tutoriales de distintas tecnologias <br>
-
 - [The Algorithms](https://the-algorithms.com/es) - Tutoriales sobre distintos algoritmos escritos en distintos lenguajes <br>
 
-- [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias <br>
 
 - [Flyncer](https://flyncer.com/) - Cursos, retos y oportunidades laborales <br>
 
@@ -104,9 +106,21 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Studio Code](https://studio.code.org/courses) - Distintos cursos gratuitos o de pago <br>
 
+- [Cognitive Class](https://cognitiveclass.ai) - Cursos gratuitos especialmente machine learning con certificado IBM <br>
+
+- [Datacamp](https://www.datacamp.com/onboarding) - Cursos sobre Python, R y SQL para el analisis de datos <br>
+
+- [Analista de datos](https://www.coursera.org/professional-certificates/certificado-profesional-analista-de-datos-de-ibm) - Curso gratuito en coursera sobre analisis de datos certificado por IBM <br>
+
+- [harvard](https://pll.harvard.edu/catalog) - Cursos gratuitos de Harvard sobre distintas tematicas <br>
+
 - [30 Seconds of code](https://www.30secondsofcode.org/) - Bases de tutoriales, preguntas y retos de distintos niveles de aprendizaje <br>
 
 - [Dev Docs](https://devdocs.io/) - Documentacion de distintos lenguajes de programacion <br>
+
+- [JS is weird](https://jsisweird.com/) - Rarezas sobre Javascript <br>
+
+- [Neetcode](https://neetcode.io/) - Videotutoriales para practicar entrevistas y pruebas <br>
 
 ***
 
@@ -146,6 +160,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [PortSwigger](https://portswigger.net/web-security) - Laboratorio de practicas para ciberseguridad <br>
 
 - [Hack the Box](https://www.hackthebox.com/) - Retos de ciberseguridad <br>
+
+- [Adventjs](https://adventjs.dev/) - Retos de JS para aprender <br>
 
 ***
 
@@ -188,8 +204,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Google Public Data](https://www.google.com/publicdata/directory) - Estadisticas y atos publicos google <br>
 
 - [Google Data Search](https://datasetsearch.research.google.com/) - Busqueda de conjunto de datos y estadisticas google <br>
-
-- [Pokemon Api](https://pokeapi.co/) - Base de datos de Pokemon <br>
 
 - [Data NASA](https://data.nasa.gov/) - Estadisticas y Datos NASA<br>
 
@@ -251,6 +265,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - Minicurso para los fundamentos de ciencia de datos con Python<br>
 
+- [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science&utm_source=gg&utm_medium=sem&campaignid=14139152618&utm_campaign=10-IBM-Data-Science-LATAM&utm_content=B2C&adgroupid=124104460023&device=c&keyword=&matchtype=&net) - Curso en coursera sobre visualizacion de datos certificado por IBM <br>
+
+- [Dashboards](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/) - Curso en udemy sobre Dashboards usando Plotly y Dash <br>
+
 ***
 
 ## **7. Hosting**
@@ -279,31 +297,32 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Pages Github](https://pages.github.com/) <br>
 
 - [1freehosting](https://www.1freehosting.com/) <br>
+  
+- [Cloudflare](https://www.cloudflare.com) <br>
+
+- [Railway](https://railway.app/) <br>
 
 ***
 
-## **8. Desarrollo web y Banco de multimedia**
-*Templates, guias y herramientas para la edicion web, Banco de imagenes, editores y  mockups*
+## **8. Desarrollo web y movil**
+*Templates, guias y herramientas para la edicion web HTML y CSS*
+
+- [Wordpress](https://wordpress.com/) - Generar sitios web sin tanto codigo <br>
+
+- [Apphive](https://apphive.io/) - Generar aplicaciones sin tanto codigo <br>
+
+- [Lenguaje JS](https://lenguajejs.com/) - Tutoriales sobre desarrollo web y sus diversas tecnologias <br>
+
+- [CodeNation](https://teaching.codenation.com/) - Ejercicios dded HTML  y CSS <br>
+
+- [Full Stack Open](https://fullstackopen.com/es/) - Aprendizaje de distintas tecnologias para el desarrollo web <br>
+
+- [Design principles](https://principles.design/) - Tips para tener en cuenta en el diseño web <br>
 
 - [Frontend Mentor](https://www.frontendmentor.io/) - Retos variados sobre HTML, CSS, Javascript<br>
 
-- [Excalidraw](https://excalidraw.com/) - Tablero Virtual <br>
-
 - [Flipsnack](https://www.flipsnack.com/) - Creacion de catalogos online <br>
 
-- [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
-
-- [Remove Background](https://www.remove.bg/es/t/change-background) - Remueve el fondo de las fotos <br>
-
-- [Upscale](https://www.upscale.media/es) - Mejora la calidad de imagenes <br>
-
-- [Nohat](https://nohat.cc/login?redirecto=tool/findstock) - Stock de imagenes <br>
-
-- [Freepik](https://www.freepik.es/) - Stock de imagenes <br>
-
-- [Pexels](https://www.pexels.com/es-es/) - Stock de imagenes <br>
-
-- [Stock Vault](https://www.stockvault.net/) - Stock de imagenes <br>
 
 - [Kaedim3d](https://www.app.kaedim3d.com/login) - Generador de modelos 3D a partir de imagenes <br>
 
@@ -340,10 +359,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Coolors](https://coolors.co/) - Paleta de colores <br>
 
 - [My font](https://www.myfonts.com/pages/whatthefont) - Identificar el nombre de la fuente de texto <br>
-
-- [Free Icons](https://freeicons.io/) - Stock de iconos para desarrollo <br>
-
-- [Mockup tree](https://mockuptree.com/) - Stock de Mockups <br>
 
 - [Shape Dividers](https://shapedividers.com) - Generador de divisores SVG <br>
 
@@ -397,35 +412,13 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Free Frontend](https://freefrontend.com/) - Plantillas Frontend <br>
 
-- [Drawkit](https://www.drawkit.com/) - Ilustraciones gratuitas <br>
+- [Colour Contrast](https://colourcontrast.cc/) - Permite ver el contraste de los colores con sus respectivos codigos Hex <br>
 
-- [Flaticon](https://www.flaticon.com/) - Ilustraciones gratuitas <br>
+- [Ffflux](https://fffuel.co/ffflux/) - Generador de gradientes de color de fondo SVG <br>
 
-- [The noun project](https://thenounproject.com/photos/) - Stock de imagenes <br>
+- [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
-- [Wiki media](https://commons.wikimedia.org/wiki/Main_Page) - Wiki de archivos multimedia <br>
-
-- [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes <br>
-
-- [Unplash](https://unsplash.com/es) - Stock de imagenes <br>
-
-- [Unraw](https://undraw.co/) - Stock de ilustraciones <br>
-
-- [StockSnap](https://stocksnap.io/) - Stock de imagenes <br>
-
-- [Remixicon](https://remixicon.com/) - Stock de iconos <br>
-
-- [Public Domain Archive](https://www.publicdomainarchive.com/) - Stock de imagenes antiguas <br>
-
-- [Picsum](https://picsum.photos/) - Stock de imagenes <br>
-
-- [Picjumbo](https://picjumbo.com/) - Stock de imagenes <br>
-
-- [Vecteezy](https://www.vecteezy.com/free-photos) - Stock de imagenes <br>
-
-- [Openmoji](https://openmoji.org/) - Stock de emojis <br>
-
-- [New old stock](https://nos.twnsnd.co/) - Stock ded imagenes antiguas<br>
+- [Codepen](https://codepen.io/) - Proyectos de arte creados con CSS <br>
 
 ***
 
@@ -471,11 +464,15 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Not Pron](https://notpron.com/) - Juego de retos y adivinanzas varias <br>
 
+- [Interland](https://beinternetawesome.withgoogle.com/es-419_all/interland) - Sitio para aprender ciberseguridad jugando <br>
+
 ***
 
 ## **11. Distintas Herramientas**
 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring <br>
+  
+- [Excalidraw](https://excalidraw.com/) - Tablero Virtual <br>
 
 - [Tech Empower](https://www.techempower.com/benchmarks/#section=data-r21) - Analisis de los distintos Framework <br>
 
@@ -517,16 +514,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Ahmia](https://ahmia.fi/) - Buscador de servicios ocultos en la red TOR <br>
 
-- [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion <br>
-
-- [El libro Free](https://elibrofree.blogspot.com/) - Buscador de Libros <br>
-
-- [Z-Lib](https://es.z-lib.org/) - Buscador de libros <br>
-
-- [LibGen](https://libgen.is/) - Buscador de libros <br>
-
-- [12ft](https://12ft.io/) - Bypass paywall sites <br>
-
 - [Tiny Wow](https://tinywow.com/) - Convertidor de archivos y herramientas online <br>
 
 - [Convertio](https://convertio.co/es/) - Convertidor de archivos multimedia online <br>
@@ -564,5 +551,135 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Descript](https://www.descript.com/overdub) - Text-to-speech model of your voice <br>
 
 - [Anthiago](https://anthiago.com/) - Distintas herramientas, Convierte videos en texto <br>
+
+- [Shaadow](https://www.shaadow.io/) - Generador de marcas invisibles de agua en documentos <br>
+
+- [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas <br>
+
+***
+
+## **12. Libros y articulos**
+*todo lo referencte a buscadores de libros, desbloquear de articulos en linea*
+
+- [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion <br>
+
+- [El libro Free](https://elibrofree.blogspot.com/) - Buscador de Libros <br>
+
+- [Z-Lib](https://es.z-lib.org/) - Buscador de libros <br>
+
+- [LibGen](https://libgen.is/) - Buscador de libros <br>
+
+- [12ft](https://12ft.io/) - Bypass paywall sites <br>
+
+***
+
+## **13. Banco y editor de imagenes**
+*stocks multimedia y editores*
+
+- [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
+
+- [Remove Background](https://www.remove.bg/es/t/change-background) - Remueve el fondo de las fotos <br>
+
+- [Upscale](https://www.upscale.media/es) - Mejora la calidad de imagenes <br>
+
+- [Image Amigo](https://imageamigo.com/) - Diversas herramientas para imagenes <br>
+
+- [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes <br>
+
+- [Unplash](https://unsplash.com/es) - Stock de imagenes <br>
+
+- [Unraw](https://undraw.co/) - Stock de ilustraciones <br>
+
+- [StockSnap](https://stocksnap.io/) - Stock de imagenes <br>
+
+- [Remixicon](https://remixicon.com/) - Stock de iconos <br>
+
+- [Public Domain Archive](https://www.publicdomainarchive.com/) - Stock de imagenes antiguas <br>
+
+- [Picsum](https://picsum.photos/) - Stock de imagenes <br>
+
+- [Picjumbo](https://picjumbo.com/) - Stock de imagenes <br>
+
+- [Vecteezy](https://www.vecteezy.com/free-photos) - Stock de imagenes <br>
+
+- [Openmoji](https://openmoji.org/) - Stock de emojis <br>
+
+- [New old stock](https://nos.twnsnd.co/) - Stock ded imagenes antiguas<br>
+
+- [Drawkit](https://www.drawkit.com/) - Ilustraciones gratuitas <br>
+
+- [Flaticon](https://www.flaticon.com/) - Ilustraciones gratuitas <br>
+
+- [The noun project](https://thenounproject.com/photos/) - Stock de imagenes <br>
+
+- [Wiki media](https://commons.wikimedia.org/wiki/Main_Page) - Wiki de archivos multimedia <br>
+
+- [Nohat](https://nohat.cc/login?redirecto=tool/findstock) - Stock de imagenes <br>
+
+- [Freepik](https://www.freepik.es/) - Stock de imagenes <br>
+
+- [Pexels](https://www.pexels.com/es-es/) - Stock de imagenes <br>
+
+- [Stock Vault](https://www.stockvault.net/) - Stock de imagenes <br>
+
+- [Free Icons](https://freeicons.io/) - Stock de iconos para desarrollo <br>
+
+- [Mockup tree](https://mockuptree.com/) - Stock de Mockups <br>
+
+- [Jitter](https://jitter.video/) - Generador de animaciones <br>
+
+- [Icons 8](https://iconos8.es/) - Stock de iconos, ilustraciones e imagenes <br>
+
+- [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) <br>
+
+- [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis <br>
+
+- [MidJourney](https://www.midjourney.com/home/) - AI para generar imagenes, usar desde discord <br>
+
+- [SVG Repo](https://www.svgrepo.com/) - Banco de SVG vectores e imagenes <br>
+
+***
+
+## **14. Banco de API's para consumir**
+*distintas API's para usar en proyectos*
+
+- [Rapid API](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria <br>
+
+- [NASA](https://api.nasa.gov/) - Open API de la NASA <br>
+
+- [Frank Furter](https://www.frankfurter.app/) - API sobre divisas <br>
+
+- [Pokemon](https://pokeapi.co/) - API sobre todos los pokemon de todas las generaciones <br>
+
+- [Chuck Norris](https://api.chucknorris.io/) - API sobre hechos acerca de chuck norris <br>
+
+- [Rick and Morty](https://rickandmortyapi.com/) - API sobre rick and morty <br>
+
+- [Marvel](https://developer.marvel.com/) - API sobre el mundo marvel <br>
+
+- [Nomics](https://nomics.com/docs) - API para criptomonedas <br>
+
+- [Open Weaher Map](https://openweathermap.org/api) - API pronostico de clima local <br>
+
+- [JSON Place Holder](https://jsonplaceholder.typicode.com/) - API con datos falsos para distintas pruebas <br>
+
+- [Star Wars](https://swapi.dev/) - API sobre todo lo relacionado a Star Wars <br>
+
+- [Dogs](https://dog.ceo/dog-api/) - API sobre razas e imagenes de perros <br>
+
+- [Dragon Ball Super](https://dragon-ball-super-api.herokuapp.com/) - API sobre los personajes, razas y planetas de Dragon Ball Super <br>
+
+- [Unsplash](https://unsplash.com/developers) - API sobre banco de imagenes <br>
+
+- [Free To Game](https://www.freetogame.com/api-doc) - API sobre juegos F2P <br>
+
+- [Giphy](https://developers.giphy.com/) - API con acceso a gifs y calcomanias <br>
+
+- [The Cocktail DB](https://www.thecocktaildb.com/) - API sobre bebidas y cocteles <br>
+
+- [Football](https://www.api-football.com/) - API sobre equipos, puntuaciones y partidos de futbol <br>
+
+- [The Movie DB](https://developers.themoviedb.org/3) - API sobre peliculas, series y actores <br>
+
 
 ***
