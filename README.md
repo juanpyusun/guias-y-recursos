@@ -17,6 +17,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-imagenes)<br>
 14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
 15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
+16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
 
 ***
 ***
@@ -687,4 +688,31 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
 
+***
+
+## **16. Revistas digitales**
+*medios de comunicacion digitales*
+
+- [Playgroundd](https://www.playgroundweb.com/)<br>
+
+- [Vice](https://www.vice.com/es)<br>
+
+- [Quo](https://quo.eldiario.es/)<br>
+
+- [UMA divulga](https://www.umadivulga.uma.es/hemeroteca/)<br>
+
+- [Muy interesante](https://www.muyinteresante.es/)<br>
+
+- [Cuervo Blanco](http://www.cuervoblanco.com/index.html)<br>
+
+- [Jotdown](https://www.jotdown.es/)<br>
+
+- [Principia](https://principia.io/)<br>
+
+- [Genbeta](https://www.genbeta.com/)<br>
+
+- [Neoteo](https://www.neoteo.com/)<br>
+
+- [Enseñame de ciencia](https://ensedeciencia.com/)<br>
+  
 ***
