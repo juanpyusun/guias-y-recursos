@@ -17,6 +17,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
 15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
 16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
+17. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#17-sitio-de-empleos)<br>
 
 ***
 ***
@@ -126,7 +127,15 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Learn Microsoft](https://learn.microsoft.com/en-us/training/browse/?expanded=azure) - Cursos de microsoft <br>
 
--[Skills Build](https://skillsbuild.org/es) - IBM Skills Build cursos varios <br>
+- [Skills Build](https://skillsbuild.org/es) - IBM Skills Build cursos varios <br>
+
+- [Excel Exercises](https://excelexercises.com/) - Curso y ejercicios de Excel <br>
+
+- [Grow Google](https://grow.google/) - Cursos certificados con Google <br>
+
+- [Best Programming Language For me](https://www.bestprogramminglanguagefor.me/) - Explora el mejor lenguaje de programacion que se adapte a tus necesidades <br>
+
+- [Over Api](https://overapi.com/) - Cheat Sheets de varios lenguajes <br>
 
 ***
 
@@ -179,6 +188,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Malt](https://www.malt.es/) - Busqueda de consultores freelancer externos <br>
 
 - [Stack Overflow](https://stackoverflow.com/) - Foro para la consulta de dudas <br>
+
+- [Ask your code](https://askyourcode.com/) - Preguntas frecuentes sobre tecnologias <br>
 
 ***
 
@@ -351,6 +362,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Redes neuronales Platzi](https://platzi.com/cursos/redes-neuronales-tensorflow/) - Curso en platzi sobre redes neuronales <br>
 
+- [Big Book of small projects](https://inventwithpython.com/bigbookpython/) - Libro de proyectos <br>
+
 ***
 
 ## **7. Hosting**
@@ -500,6 +513,16 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
 - [Codepen](https://codepen.io/) - Proyectos de arte creados con CSS <br>
+
+- [Curso introductorio I](https://learndigital.withgoogle.com/activate/course/web-development-I) - Curso sobre HTML y CSS brindado y certificado por Google primera parte <br>
+
+- [Curso introductorio II](https://learndigital.withgoogle.com/activate/course/web-development-II) - Curso sobre HTML y CSS brindado y certificado por Google segunda parte <br>
+
+- [Fontjoy](https://fontjoy.com/) - Generador de fuentes de texto <br>
+
+- [Tools Design](https://www.toools.design/) - Generador de utilidades para paginas web <br>
+
+- [Mobbin](https://mobbin.com/browse/ios/apps) - Plantillas de apps <br>
 
 ***
 
@@ -747,6 +770,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [SVG Repo](https://www.svgrepo.com/) - Banco de SVG vectores e imagenes <br>
 
+- [Draw anyone](https://drawanyone.com/) - Dibujos animados a partir de fotos <br>
+
 ***
 
 ## **14. Banco de API's para consumir**
@@ -823,5 +848,30 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Neoteo](https://www.neoteo.com/)<br>
 
 - [Enseñame de ciencia](https://ensedeciencia.com/)<br>
-  
+
+***
+
+## **17. Sitio de empleos**
+*Busqueda de ofertas de trabajo*
+
+- [Get on Board](https://www.getonbrd.com/)<br>
+
+- [X-Team](https://x-team.com/)<br>
+
+- [Baires Dev](https://www.bairesdev.com/)<br>
+
+- [Hired](https://hired.com/)<br>
+
+- [Just Remote](https://justremote.co/)<br>
+
+- [Onstrider](https://www.onstrider.com/)<br>
+
+- [Remote Ok](https://remoteok.com/)<br>
+
+- [Toptal](https://www.toptal.com/)<br>
+
+- [Turing](https://www.turing.com/)<br>
+
+- [Working Nomads](https://www.workingnomads.com/jobs)<br>
+
 ***
