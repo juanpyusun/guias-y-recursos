@@ -123,6 +123,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Neetcode](https://neetcode.io/) - Videotutoriales para practicar entrevistas y pruebas <br>
 
+- [R4DS](https://es.r4ds.hadley.nz/) - Curso de R para ciencia de datos <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -285,6 +287,62 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Qwone](http://qwone.com/~jason/20Newsgroups/) - Website para practicar web scraping y analisis de texto con mas de 20.000 documentos <br>
 
 - [Python financial newsfeed](https://www.freecodecamp.org/news/use-python-spacy-streamlit-to-build-structured-financial-newsfeed/) - Curso para practicar web scraping <br>
+
+x- [Machine learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Videocurso sobre machine learning <br>
+
+- [Algoritmo de regresion](https://github.com/dataquestio/project-walkthroughs/tree/master/ridge_regression) - Proyecto desde cero para algoritmo de regresion <br>
+
+- [Freecodecamp curso](https://youtu.be/rfscVS0vtbw) - Videocurso para principiantes de 4 horas <br>
+
+- [Aprende a programar](https://youtu.be/fPdqGQqYt70) - Videocurso python desde cero de 9 horas <br>
+
+- [Python Fazt](https://www.youtube.com/watch?v=chPhlsHoEPo&t=7608s) - Videocurso para principiantes de 3 horas <br>
+
+- [Data Science Python](https://youtu.be/zAIWnwqHGok) - Videocurso de Data Science de 3 horas <br>
+
+- [Curso Pildoras Informaticas](https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) - Lista de reproduccion <br>
+
+- [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Libro guia para aprender Data Science <br>
+
+- [Introduction to python](https://www.udacity.com/course/introduction-to-python--ud1110) - Curso en udacity sobre conceptos basicos de Python <br>
+
+- [Swcarpentry](https://swcarpentry.github.io/python-novice-inflammation/) - Curso de python <br>
+
+- [Pandas](https://youtube.com/playlist?list=PLc_Ps3DdrcTuu4PJB_g3oUn-wpohI_mUh) - Lista de reproduccion libreria Pandas <br>
+
+- [Pandas](https://youtu.be/vmEHCJofslg) - Videocurso sobre Pandas de 1 hora <br>
+
+- [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/categorical.html) - Documentacion sobre la libreria Pandas <br>
+
+- [Pandas Groupby](https://towardsdatascience.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) - Todo lo referente a Groupby en Pandas <br>
+
+- [Pandads Groupby](https://datagy.io/pandas-groupby/) - Resumen sobre agrupacion en Pandas <br>
+
+- [Practical Business](https://pbpython.com/pandas-crosstab.html) - Explicacion sobre Crosstab <br>
+
+- [GeoJson](https://pypi.org/project/pandas-geojson/) - Documentacion sobre GeoJson, convertir coordenadas en archivos Json <br>
+
+- [Pandas Funciones](https://towardsdatascience.com/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707) - Funciones mas usadas de Pandas <br>
+
+- [Data wranggling](https://towardsdatascience.com/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4#:~:text=Including%20Dask%2C%20Modin%2C%20polars%2C,using%20on%20a%20daily%20basis) - Articulo sobre alternativas del analisis de datos distintas a Pandas <br>
+
+- [Jupyter](https://youtu.be/6Vr9ZUntCyE) - Videocuros sobre Jupyter de 15min <br>
+
+- [If name main](https://medium.com/python-blog/py-1-what-happens-if-name-main-2b14c42f15ee) - ¿para que sirve if name main? <br>
+
+- [Format string](https://sahiljain444.medium.com/format-specifiers-in-python-601df860a6a4) - Guia de formato en cadenas de caracteres <br>
+
+- [Pandas Melt](https://youtu.be/vFAZcWoAcZI) - Videocurso sobre Melt de 25min <br>
+
+- [Estadisticas con Python](https://realpython.com/python-statistics/) - Como describir tus datos <br>
+
+- [Pyscript](https://towardsdatascience.com/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f) - Usandro scripts de python en el explorador de internet <br>
+
+- [Documentar python](https://pywombat.com/articles/docstring-python) - Como documentar tu codigo de python <br>
+
+- [Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) - Ejemplos de documentacion <br>
+
+- [Pdoc3](https://pdoc3.github.io/pdoc/) - Libreria para la documentacion <br>
 
 ***
 
