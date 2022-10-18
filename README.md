@@ -259,6 +259,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Editor md](https://pandao.github.io/editor.md/en.html) - Editor de Markdown <br>
 
+- [Skill-icons](https://github.com/tandpfun/skill-icons) - Listado de iconos de Skills para archivos README.md <br>
+
 ***
 
 ## **6. Python**
