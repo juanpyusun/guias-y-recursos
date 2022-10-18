@@ -288,7 +288,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python financial newsfeed](https://www.freecodecamp.org/news/use-python-spacy-streamlit-to-build-structured-financial-newsfeed/) - Curso para practicar web scraping <br>
 
-x- [Machine learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Videocurso sobre machine learning <br>
+- [Machine learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Videocurso sobre machine learning <br>
 
 - [Algoritmo de regresion](https://github.com/dataquestio/project-walkthroughs/tree/master/ridge_regression) - Proyecto desde cero para algoritmo de regresion <br>
 
