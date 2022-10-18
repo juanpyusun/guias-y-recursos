@@ -2,21 +2,21 @@
 # **Coleccion de recursos y paginas**
 Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
 ## indice
-1. [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#1-cursos-y-sitios-de-aprendizaje)<br>
-2. [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
-3. [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#3-foros-y-sitios-de-contribucion)<br>
-4. [Datos](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#4-datos)<br>
-5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#5-git-y-github)<br>
-6. [Python](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#6-python)<br>
-7. [Hosting](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#7-hosting)<br>
-8. [Desarrollo web y movil](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#8-desarrollo-web-y-movil)<br>
-9. [SQL](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#9-sql)<br>
-10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#10-sitios-para-aprender-jugando)<br>
-11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#11-distintas-herramientas)<br>
-12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#12-libros-y-articulos)<br>
-13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#13-banco-y-editor-de-imagenes)<br>
-14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#14-banco-de-apis-para-consumir)<br>
-15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#15-herramientas-ficha-adso-6)<br>
+1. [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)<br>
+2. [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
+3. [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos#3-foros-y-sitios-de-contribucion)<br>
+4. [Datos](https://github.com/juanpyusun/guias-y-recursos#4-datos)<br>
+5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#5-git-y-github)<br>
+6. [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)<br>
+7. [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)<br>
+8. [Desarrollo web y movil](https://github.com/juanpyusun/guias-y-recursos#8-desarrollo-web-y-movil)<br>
+9. [SQL](https://github.com/juanpyusun/guias-y-recursos#9-sql)<br>
+10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)<br>
+11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)<br>
+12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#12-libros-y-articulos)<br>
+13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-imagenes)<br>
+14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
+15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
 
 ***
 ***
