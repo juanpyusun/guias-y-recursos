@@ -497,7 +497,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON <br>
 
-- [Json Editor online](https://jsoneditoronline.org/) - Editor ded archivos JSON <br>
+- [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON <br>
 
 - [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
 
