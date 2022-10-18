@@ -126,6 +126,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Learn Microsoft](https://learn.microsoft.com/en-us/training/browse/?expanded=azure) - Cursos de microsoft <br>
 
+-[Skills Build](https://skillsbuild.org/es) - IBM Skills Build cursos varios <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -345,6 +347,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Pdoc3](https://pdoc3.github.io/pdoc/) - Libreria para la documentacion <br>
 
+- [Red neuronal](https://youtu.be/iX_on3VxZzk) - Videocurso introductorio para redes neuronales 16min <br>
+
+- [Redes neuronales Platzi](https://platzi.com/cursos/redes-neuronales-tensorflow/) - Curso en platzi sobre redes neuronales <br>
+
 ***
 
 ## **7. Hosting**
@@ -519,6 +525,18 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) - Curso basico sobre SQL <br>
 
 - [Getting Started](https://colab.research.google.com/github/SamwelJane/Copy-of-SQL-Programming---Getting-Started-with-Databases/blob/master/Copy_of_SQL_Programming_Getting_Started_with_Databases.ipynb) - Notebook para aprender SQL <br>
+
+- [Repositorio](https://github.com/DataWithDanny/sql-masterclass) - SQL masterclass para ciencias de datos <br>
+
+- [SQL datacamp](https://www.datacamp.com/tracks/sql-fundamentals) - Fundamentos de SQL curso e 22 horas <br>
+
+- [SQL cheat Sheet](https://www.new.datacamp.com/cheat-sheet/sql-basics-cheat-sheet) - Hoja resumida sobre SQL <br>
+
+- [Libro 1](https://drive.google.com/file/d/1VBouhWKLU6ZxMqPna1NCooMSwuLhGRKG/view) - Getting Started with SQL <br>
+
+- [Libro 2](https://drive.google.com/file/d/1gZkePEnbzMnk4G3wYMdcTKPlu2gVDnk_/view) - SQL queries <br>
+
+- [Libro 3](https://drive.google.com/file/d/1t_ASwdsG2-J297fSP4FIJkkNeXE7reOU/view) - SQL tutorials point <br>
 
 ***
 
