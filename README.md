@@ -510,7 +510,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Shodan](https://www.shodan.io/) - Buscador de dispositivos conectados a internet <br>
 
-- [Pimeyes](ps://pimeyes.com/en) - Face Search Engine Reverse Image Search <br>
+- [Pimeyes](https://pimeyes.com/en) - Face Search Engine Reverse Image Search <br>
 
 - [Ahmia](https://ahmia.fi/) - Buscador de servicios ocultos en la red TOR <br>
 
