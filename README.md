@@ -703,6 +703,18 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [12ft](https://12ft.io/) - Bypass paywall sites <br>
 
+- [Gutenberg](https://www.gutenberg.org/) - Mas de 60.000 Libros gratuitos <br>
+
+- [Elejandria](https://www.elejandria.com/) - Libros varios <br>
+
+- [Tus libros](https://tuslibros.gratis/) - Coleccion variada de libros gratuitos <br>
+
+- [PDF-Libros](https://pdf-libros.com/) - Coleccion variada de libros en formato PDF <br>
+
+- [EPUB-Libre](https://epublibre.gratis/) - Coleccion variada de libros en formato EPUB <br>
+
+- [Open Libra](https://openlibra.com/es/collection) - Coleccion gratuita de libros <br>
+
 ***
 
 ## **13. Banco y editor de imagenes**
