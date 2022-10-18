@@ -419,8 +419,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
-- [Codepen](https://codepen.io/) - Proyectos de arte creados con CSS <br>
-
 ***
 
 ## **9. SQL**
