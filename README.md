@@ -16,6 +16,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#12-libros-y-articulos)<br>
 13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#13-banco-y-editor-de-imagenes)<br>
 14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#14-banco-de-apis-para-consumir)<br>
+15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos/edit/main/README.md#15-herramientas-ficha-adso-6)<br>
 
 ***
 ***
@@ -681,5 +682,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [The Movie DB](https://developers.themoviedb.org/3) - API sobre peliculas, series y actores <br>
 
+***
+
+## **15. Herramientas ficha ADSO-6**
+*diversas herramientas utilizadas para el desarrollo ded la ficha ADSO-6*
+
+- [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
 
 ***
