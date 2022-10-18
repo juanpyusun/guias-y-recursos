@@ -603,7 +603,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Openmoji](https://openmoji.org/) - Stock de emojis <br>
 
-- [New old stock](https://nos.twnsnd.co/) - Stock ded imagenes antiguas<br>
+- [New old stock](https://nos.twnsnd.co/) - Stock de imagenes antiguas<br>
 
 - [Drawkit](https://www.drawkit.com/) - Ilustraciones gratuitas <br>
 
