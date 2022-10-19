@@ -191,6 +191,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Ask your code](https://askyourcode.com/) - Preguntas frecuentes sobre tecnologias <br>
 
+- [Blackbox](https://www.useblackbox.io/landingPage) - Buscador avanzado de codigo <br>
+
+- [You](https://you.com/code) - Buscador avanzado de codigo <br>
+
+- [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
+
 ***
 
 ## **4. Datasets**
@@ -612,10 +618,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Regex](https://regex101.com/) - Analisis de expresiones regulares en distintos lenguajes <br>
 
-- [Blackbox](https://www.useblackbox.io/landingPage) - Buscador avanzado de codigo <br>
-
-- [You](https://you.com/code) - Buscador avanzado de codigo <br>
-
 - [Appsheet](https://about.appsheet.com/home/) - Solucion a distintas situaciones sin necesidad de usar codigo <br>
 
 - [Barcode to PC](https://barcodetopc.com/) - Convertir el celular en un lector de codigo de barras <br>
@@ -635,8 +637,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON <br>
 
 - [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
-
-- [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
 
 - [OEIS](https://oeis.org/) - Buscador de Sucesiones Y series Matematicas <br>
 
