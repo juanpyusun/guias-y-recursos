@@ -836,6 +836,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
 
+- [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados <br>
+
 ***
 
 ## **16. Revistas digitales**
