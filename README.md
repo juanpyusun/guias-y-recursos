@@ -838,6 +838,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados <br>
 
+- [Curso PSEINT](https://youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798) - Videocurso para aprender a programar y usar el programa PSEINT, desde los conceptos basicos hasta las opciones avanzadas que brinda esta herramienta <br>
+
 ***
 
 ## **16. Revistas digitales**
