@@ -520,8 +520,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
-- [Codepen](https://codepen.io/) - Proyectos de arte creados con CSS <br>
-
 - [Curso introductorio I](https://learndigital.withgoogle.com/activate/course/web-development-I) - Curso sobre HTML y CSS brindado y certificado por Google primera parte <br>
 
 - [Curso introductorio II](https://learndigital.withgoogle.com/activate/course/web-development-II) - Curso sobre HTML y CSS brindado y certificado por Google segunda parte <br>
