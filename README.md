@@ -296,6 +296,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python Web scraping](https://realpython.com/python-web-scraping-practical-introduction/) - Guia de introduccion a web scraping <br>
 
+- [Python Web Scraping bs4](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/) - Guia de web scraping con la libreria Beautifulsoup <br>
+
 - [Real Python](https://realpython.com/) - Tutoriales varios sobre Python <br>
   
 - [Career Advice](https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/) - Relato sobre el uso de web scraping para conseguir trabajo <br>
@@ -304,7 +306,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
   
 - [Spiders and crawlers](https://cfiesler.medium.com/spiders-and-crawlers-and-scrapers-oh-my-law-and-ethics-of-researchers-violating-terms-of-service-27496894f6de) - Etica y legalidad del web scraping <br>
   
-- [Scrapeth is site](https://www.scrapethissite.com/pages/) - Website para practicar web scraping <br>
+- [Scrape this site](https://www.scrapethissite.com/pages/) - Website para practicar web scraping <br>
   
 - [Qwone](http://qwone.com/~jason/20Newsgroups/) - Website para practicar web scraping y analisis de texto con mas de 20.000 documentos <br>
 
@@ -827,6 +829,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [The Movie DB](https://developers.themoviedb.org/3) - API sobre peliculas, series y actores <br>
 
+- [Exchanges](https://exchangeratesapi.io/) - API sobre conversion de monedas <br>
+
 ***
 
 ## **15. Herramientas ficha ADSO-6**
@@ -864,6 +868,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Neoteo](https://www.neoteo.com/)<br>
 
 - [Enseñame de ciencia](https://ensedeciencia.com/)<br>
+
+- [Technologynous](https://technologynous.com/)<br>
 
 ***
 
