@@ -267,6 +267,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Skill-icons](https://github.com/tandpfun/skill-icons) - Listado de iconos de Skills para archivos README.md <br>
 
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) - Tutorial sobre que es el "flujo de trabajo" en Git <br>
+
 ***
 
 ## **6. Python**
