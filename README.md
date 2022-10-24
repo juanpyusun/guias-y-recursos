@@ -275,6 +275,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) - Tutorial sobre que es el "flujo de trabajo" en Git <br>
 
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Repositorio sobre github y sus posibilidades <br>
+
 ***
 
 ## **6. Python**
