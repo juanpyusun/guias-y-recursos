@@ -137,6 +137,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Over Api](https://overapi.com/) - Cheat Sheets de varios lenguajes <br>
 
+- [Cheatography](https://cheatography.com/) - Cheat sheets de varios lenguajes <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -177,6 +179,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Hack the Box](https://www.hackthebox.com/) - Retos de ciberseguridad <br>
 
 - [Adventjs](https://adventjs.dev/) - Retos de JS para aprender <br>
+
+- [Pwn College](https://pwn.college/) - Retos para aprender ciberseguridad <br>
+
+- [We chall](https://www.wechall.net/) - Retos sobre criptografia, ingenieria inversa, estenografia, programacion y ciencias/matematica <br>
 
 ***
 
@@ -536,6 +542,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Mobbin](https://mobbin.com/browse/ios/apps) - Plantillas de apps <br>
 
+- [Scrnshts](https://scrnshts.club/) - Capturas de pantalla de varias aplicaciones para explorar diseños <br>
+
 ***
 
 ## **9. SQL**
@@ -573,6 +581,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Libro 3](https://drive.google.com/file/d/1t_ASwdsG2-J297fSP4FIJkkNeXE7reOU/view) - SQL tutorials point <br>
 
+- [SQL easy](https://www.sql-easy.com/es/) - Sitio para aprender facilmente SQL <br>
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
@@ -609,6 +619,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Not Pron](https://notpron.com/) - Juego de retos y adivinanzas varias <br>
 
 - [Interland](https://beinternetawesome.withgoogle.com/es-419_all/interland) - Sitio para aprender ciberseguridad jugando <br>
+
+- [Smash The stack](https://www.smashthestack.org/) - Juego sobre ciberseguridad <br>
 
 ***
 
@@ -693,6 +705,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shaadow](https://www.shaadow.io/) - Generador de marcas invisibles de agua en documentos <br>
 
 - [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas <br>
+
+- [Dupla](https://www.dupla.ai/) - AI para generar textos o imagenes <br>
 
 ***
 
