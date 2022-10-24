@@ -376,6 +376,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Big Book of small projects](https://inventwithpython.com/bigbookpython/) - Libro de proyectos <br>
 
+- [Machine Learning A-Z](https://github.com/joanby/machinelearning-az.git) - repositorio del Curso de Machine Learning de cero a avanzado <br>
+
 ***
 
 ## **7. Hosting**
