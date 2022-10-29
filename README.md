@@ -277,6 +277,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Repositorio sobre github y sus posibilidades <br>
 
+- [Gitignore](https://www.toptal.com/developers/gitignore) - Generador de archivos Gitignote <br>
+
 ***
 
 ## **6. Python**
