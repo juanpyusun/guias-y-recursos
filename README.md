@@ -388,6 +388,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Machine Learning A-Z](https://github.com/joanby/machinelearning-az.git) - repositorio del Curso de Machine Learning de cero a avanzado <br>
 
+- [Python charts](https://python-charts.com/) - Guia sobre librerias para graficar en python <br>
+
 ***
 
 ## **7. Hosting**
