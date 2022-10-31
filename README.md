@@ -315,6 +315,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Career Advice](https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/) - Relato sobre el uso de web scraping para conseguir trabajo <br>
 
 - [Web scraping ethics](https://research.aimultiple.com/web-scraping-ethics/) - ¿Es el web scraping legal? <br>
+
+- [To Scrape](https://toscrape.com/) - Sitio para practicar Scraping <br>
   
 - [Spiders and crawlers](https://cfiesler.medium.com/spiders-and-crawlers-and-scrapers-oh-my-law-and-ethics-of-researchers-violating-terms-of-service-27496894f6de) - Etica y legalidad del web scraping <br>
   
