@@ -139,6 +139,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Cheatography](https://cheatography.com/) - Cheat sheets de varios lenguajes <br>
 
+- [Fundacion Carlos Slim](https://aprende.org/listado-cursos) - Cursos cortos de varios saberes <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
