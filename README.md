@@ -394,6 +394,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python charts](https://python-charts.com/) - Guia sobre librerias para graficar en python <br>
 
+- [Python Institute](https://pythoninstitute.org/python-essentials-1) - Curso que abarca los conceptos basicos, consejos para scripts y debug <br>
+
 ***
 
 ## **7. Hosting**
