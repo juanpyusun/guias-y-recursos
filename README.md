@@ -141,6 +141,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Fundacion Carlos Slim](https://aprende.org/listado-cursos) - Cursos cortos de varios saberes <br>
 
+- [The programming Books](https://www.theprogrammingbooks.com/) - Coleccion de libros sobre programacion <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
