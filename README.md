@@ -874,6 +874,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Curso PSEINT](https://youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798) - Videocurso para aprender a programar y usar el programa PSEINT, desde los conceptos basicos hasta las opciones avanzadas que brinda esta herramienta <br>
 
+- [Balsamiq Mockups](https://balsamiq.com/wireframes/) - Software para generar mockups <br>
+
 ***
 
 ## **16. Revistas digitales**
