@@ -398,6 +398,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python Institute](https://pythoninstitute.org/python-essentials-1) - Curso que abarca los conceptos basicos, consejos para scripts y debug <br>
 
+- [Deepnote](https://deepnote.com/) - Para visualizar documentos Jupyter en linea <br>
+
 ***
 
 ## **7. Hosting**
