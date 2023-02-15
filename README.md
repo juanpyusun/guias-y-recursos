@@ -254,6 +254,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Data World](https://data.world/) <br>
 
+- [Hugging Face](https://huggingface.co/datasets) <br>
+
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) <br>
+
 ***
 
 ## **5. Git y Github**
