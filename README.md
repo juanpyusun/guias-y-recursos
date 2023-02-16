@@ -882,6 +882,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Balsamiq Mockups](https://balsamiq.com/wireframes/) - Software para generar mockups <br>
 
+- [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados <br>
+
 ***
 
 ## **16. Revistas digitales**
