@@ -564,6 +564,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Scrnshts](https://scrnshts.club/) - Capturas de pantalla de varias aplicaciones para explorar diseños <br>
 
+- [All the tags](https://allthetags.com/) - Explicacion de todas las etiquetas HTML<br>
+
 ***
 
 ## **9. SQL**
