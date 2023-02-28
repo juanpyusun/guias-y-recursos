@@ -605,6 +605,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [SQL easy](https://www.sql-easy.com/es/) - Sitio para aprender facilmente SQL <br>
 
+- [Online SQL Editor](https://www.programiz.com/sql/online-compiler/) - Sitio para practicar sentencias SQL <br>
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
