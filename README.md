@@ -888,6 +888,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados <br>
 
+- [Excalidraw](https://excalidraw.com/) - Pagina para diseñar interfaces de usuario <br>
+
+- [Balsamiq](https://balsamiq.com/) - Software para diseñar interfaces de usuario <br>
+
 ***
 
 ## **16. Revistas digitales**
