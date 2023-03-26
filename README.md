@@ -207,8 +207,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [You](https://you.com/code) - Buscador avanzado de codigo <br>
 
-- [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
-
 ***
 
 ## **4. Datasets**
@@ -657,8 +655,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ## **12. Distintas Herramientas**
 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring <br>
-  
-- [Excalidraw](https://excalidraw.com/) - Tablero Virtual <br>
 
 - [Tech Empower](https://www.techempower.com/benchmarks/#section=data-r21) - Analisis de los distintos Framework <br>
 
@@ -673,8 +669,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Data Viz](https://datavizproject.com/) - Distintas Visualizaciones de datos <br>
 
 - [Construct](https://www.construct.net/en) - Diseño y creacion de videojuegos en Construct <br>
-
-- [Excel formula Bot](https://excelformulabot.com/) - AI para analizar formulas de excel <br>
 
 - [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo <br>
 
@@ -716,17 +710,9 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [CryptPad](https://cryptpad.fr/) - Servicio encriptado de almacenamiento de archivos <br>
 
-- [AI Jenni](https://jenni.ai/) - AI para escritura de texto <br>
-  
 - [QuillBot](https://quillbot.com/) - Servicio de parafraseo <br>
 
-- [AI Smodin](https://smodin.io/es/escritor) - AI para generar textos <br>
-  
-- [AI Copy](https://www.copy.ai/) - AI para generar textos <br>
-
 - [Speedwrite](https://speedwrite.com/) - Generadores de texto <br>
-
-- [AI Resume](https://resumeglow.com/) - AI para generar perfiles profesionales <br>
   
 - [Descript](https://www.descript.com/overdub) - Text-to-speech model of your voice <br>
 
@@ -735,8 +721,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shaadow](https://www.shaadow.io/) - Generador de marcas invisibles de agua en documentos <br>
 
 - [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas <br>
-
-- [Dupla](https://www.dupla.ai/) - AI para generar textos o imagenes <br>
 
 ***
 
@@ -823,12 +807,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Jitter](https://jitter.video/) - Generador de animaciones <br>
 
 - [Icons 8](https://iconos8.es/) - Stock de iconos, ilustraciones e imagenes <br>
-
-- [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) <br>
-
-- [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis <br>
-
-- [MidJourney](https://www.midjourney.com/home/) - AI para generar imagenes, usar desde discord <br>
 
 - [SVG Repo](https://www.svgrepo.com/) - Banco de SVG vectores e imagenes <br>
 
@@ -930,6 +908,27 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 
 ## **18. IAs**
+*Distintas inteligencias artificales*
+
+- [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) <br>
+
+- [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis <br>
+
+- [MidJourney](https://www.midjourney.com/home/) - AI para generar imagenes, usar desde discord <br>
+
+- [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
+  
+- [Excel formula Bot](https://excelformulabot.com/) - AI para analizar formulas de excel <br>
+
+- [Dupla](https://www.dupla.ai/) - AI para generar textos o imagenes <br>
+
+- [AI Jenni](https://jenni.ai/) - AI para escritura de texto <br>
+  
+- [AI Smodin](https://smodin.io/es/escritor) - AI para generar textos <br>
+  
+- [AI Copy](https://www.copy.ai/) - AI para generar textos <br>
+
+- [AI Resume](https://resumeglow.com/) - AI para generar perfiles profesionales <br>
 
 ***
 
