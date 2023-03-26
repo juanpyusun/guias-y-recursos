@@ -9,17 +9,16 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 6.  [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)<br>
 7.  [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)<br>
 8.  [Html+CSS](https://github.com/juanpyusun/guias-y-recursos#8-HTML-CSS)<br>
-9.  [Diseño](https://github.com/juanpyusun/guias-y-recursos#9-Diseño)<br>
-10. [SQL](https://github.com/juanpyusun/guias-y-recursos#10-sql)<br>
-11. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#11-sitios-para-aprender-jugando)<br>
-12. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#12-distintas-herramientas)<br>
-13. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#13-libros-y-articulos)<br>
-14. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#14-banco-y-editor-de-imagenes)<br>
-15. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#15-banco-de-apis-para-consumir)<br>
-16. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#16-herramientas-ficha-adso-6)<br>
-17. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#17-revistas-digitales)<br>
-18. [IAS](https://github.com/juanpyusun/guias-y-recursos#18-IAs)
-19. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)<br>
+9.  [SQL](https://github.com/juanpyusun/guias-y-recursos#9-sql)<br>
+10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)<br>
+11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)<br>
+12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#12-libros-y-articulos)<br>
+13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-imagenes)<br>
+14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
+15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
+16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
+17. [IAS](https://github.com/juanpyusun/guias-y-recursos#17-IAs)
+18. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)<br>
 
 ***
 ***
@@ -404,6 +403,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Deepnote](https://deepnote.com/) - Para visualizar documentos Jupyter en linea <br>
 
+- [Python Tutor](https://pythontutor.com/) - Para visualizar pruebas de escritorio en Python, JavaScript, C, C++ y Java <br>
+
 ***
 
 ## **7. Hosting**
@@ -462,20 +463,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web <br>
 
-- [CSS Reference](https://cssreference.io/) - Guia visual de CSS <br>
-
-- [CSS Gradient](https://cssgradient.io/) - Generador de Gradientes de color de CSS <br>
-
-- [CSS Grid](https://cssgrid-generator.netlify.app/) - Generador de Grid CSS <br>
-
-- [CSS Matic](https://www.cssmatic.com/box-shadow) - Generador Box shadow CSS y otras herramientas <br>
-
-- [CSS Layout](https://csslayout.io/) -Generador de elementos CSS <br>
-
-- [Uiverse](https://uiverse.io/) - Elementos de interfaz CSS <br>
-
-- [Baseline](https://baseline.is/tools/css-photo-filters/) - Generador de filtro de fotos con CSS <br>
-
 - [Feeling Studio](https://feelingstudio.es/) - Figma tutorial y plantillas web <br>
 
 - [Designs System for Figma](https://www.designsystemsforfigma.com/) - Coleccion de plantillas Figma <br>
@@ -514,6 +501,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [HTML5 up](https://html5up.net/) - Plantillas HTML5 <br>
 
+- [HTML Reference](https://htmlreference.io/) - Guia visual de HTML <br>
+
+- [CSS Reference](https://cssreference.io/) - Guia visual de CSS <br>
+
 - [CSS Tricks](https://css-tricks.com/guides/) - Trucos y consejos CSS <br>
 
 - [CSS Hell](https://csshell.dev/) - Errores comunes con CSS <br>
@@ -532,6 +523,22 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Animista](https://animista.net/) - Generador de animaciones CSS <br>
 
+- [Pure CSS](https://purecss.io/) - Modulos responsive CSS <br>
+
+- [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
+
+- [CSS Gradient](https://cssgradient.io/) - Generador de Gradientes de color de CSS <br>
+
+- [CSS Grid](https://cssgrid-generator.netlify.app/) - Generador de Grid CSS <br>
+
+- [CSS Matic](https://www.cssmatic.com/box-shadow) - Generador Box shadow CSS y otras herramientas <br>
+
+- [CSS Layout](https://csslayout.io/) -Generador de elementos CSS <br>
+
+- [Uiverse](https://uiverse.io/) - Elementos de interfaz CSS <br>
+
+- [Baseline](https://baseline.is/tools/css-photo-filters/) - Generador de filtro de fotos con CSS <br>
+
 - [Get Bootstrap](https://getbootstrap.com/) - Generador de plantillas Bootstrap <br>
 
 - [Chart Js](https://www.chartjs.org/) - Generador de graficas en JS <br>
@@ -542,15 +549,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto <br>
 
-- [Pure CSS](https://purecss.io/) - Modulos responsive CSS <br>
 
 - [Free Frontend](https://freefrontend.com/) - Plantillas Frontend <br>
 
 - [Colour Contrast](https://colourcontrast.cc/) - Permite ver el contraste de los colores con sus respectivos codigos Hex <br>
 
 - [Ffflux](https://fffuel.co/ffflux/) - Generador de gradientes de color de fondo SVG <br>
-
-- [Grid Malven](https://grid.malven.co/) - Plantillas de Grids CSS <br>
 
 - [Curso introductorio I](https://learndigital.withgoogle.com/activate/course/web-development-I) - Curso sobre HTML y CSS brindado y certificado por Google primera parte <br>
 
@@ -564,15 +568,17 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Scrnshts](https://scrnshts.club/) - Capturas de pantalla de varias aplicaciones para explorar diseños <br>
 
-- [All the tags](https://allthetags.com/) - Explicacion de todas las etiquetas HTML<br>
+- [All the tags](https://allthetags.com/) - Explicacion de todas las etiquetas HTML <br>
+
+- [HTML Playlist](https://www.youtube.com/playlist?list=PLROIqh_5RZeB92ME1GFyeqDVOa-gL0Ybd) - Lista de reproduccion HTML del youtuber Dorian Designs <br>
+
+- [CSS Playlist](https://www.youtube.com/playlist?list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z) - Lista de reproduccion CSS del youtuber Dorian Designs <br>
+
+- [Webcode](https://webcode.tools/es) - Distintas herramientas para el diseño web <br>
 
 ***
 
-## **9. Diseño**
-
-***
-
-## **10. SQL**
+## **9. SQL**
 *Tutoriales y herramientas de SQL y otros lenguajes para base de datos*
 
 - [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger <br>
@@ -613,7 +619,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **11. Sitios para Aprender Jugando**
+## **10. Sitios para Aprender Jugando**
 *Minijuegos para aprender algunas tecnologias*
 
 - [Code Combat](https://codecombat.com/) - Sitio para aprender Python, JavaScript y C++ <br>
@@ -652,7 +658,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **12. Distintas Herramientas**
+## **11. Distintas Herramientas**
 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring <br>
 
@@ -710,8 +716,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [CryptPad](https://cryptpad.fr/) - Servicio encriptado de almacenamiento de archivos <br>
 
-- [QuillBot](https://quillbot.com/) - Servicio de parafraseo <br>
-
 - [Speedwrite](https://speedwrite.com/) - Generadores de texto <br>
   
 - [Descript](https://www.descript.com/overdub) - Text-to-speech model of your voice <br>
@@ -722,10 +726,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas <br>
 
+- [Face Check](https://facecheck.id/) - Buscar perfil redes sociales a partir de una foto <br>
+
 ***
 
-## **13. Libros y articulos**
-*todo lo referencte a buscadores de libros, desbloquear de articulos en linea*
+## **12. Libros y articulos**
+*todo lo referente a buscadores de libros, desbloquear de articulos en linea*
 
 - [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion <br>
 
@@ -751,7 +757,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **14. Banco y editor de imagenes**
+## **13. Banco y editor de imagenes**
 *stocks multimedia y editores*
 
 - [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
@@ -812,9 +818,15 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Draw anyone](https://drawanyone.com/) - Dibujos animados a partir de fotos <br>
 
+- [Adobe image](https://www.adobe.com/express/feature/image/remove-background) - Herramientas de Adobe para remover backgrounds <br>
+
+- [Design EVO](https://www.designevo.com/es/logo-maker/) - Diseño de logos <br>
+
+- [Smarth Mockups](https://smartmockups.com/) - Diseño de varias mockups productos <br>
+
 ***
 
-## **15. Banco de API's para consumir**
+## **14. Banco de API's para consumir**
 *distintas API's para usar en proyectos*
 
 - [Rapid API](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria <br>
@@ -859,7 +871,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **16. Herramientas ficha ADSO-6**
+## **15. Herramientas ficha ADSO-6**
 *diversas herramientas utilizadas para el desarrollo de la ficha ADSO-6*
 
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
@@ -878,7 +890,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **17. Revistas digitales**
+## **16. Revistas digitales**
 *medios de comunicacion digitales*
 
 - [Playgroundd](https://www.playgroundweb.com/)<br>
@@ -907,14 +919,14 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **18. IAs**
+## **17. IAs**
 *Distintas inteligencias artificales*
 
 - [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) <br>
 
 - [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis <br>
 
-- [MidJourney](https://www.midjourney.com/home/) - AI para generar imagenes, usar desde discord <br>
+- [MidJourney](https://www.midjourney.com/home/) - AI para generar imagenes, ***usar desde discord*** <br>
 
 - [Open AI](https://beta.openai.com/playground) - AI para el desarrollo de codigo <br>
   
@@ -930,9 +942,45 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [AI Resume](https://resumeglow.com/) - AI para generar perfiles profesionales <br>
 
+- [Humata](https://www.humata.ai/) - AI para analizar textos y documentos <br>
+
+- [Elicit](https://elicit.org/) - AI para investigaciones <br>
+
+- [Research Rabbit](https://www.researchrabbit.ai/) - AI para gestionar visualmente papers de investigacion <br>
+
+- [Dialogflow](https://cloud.google.com/dialogflow?hl=es-419) - Modelos para crear chat Bots <br>
+
+- [Learn Prompting](https://learnprompting.org/es/) - Sitio para aprender prompts <br>
+
+- [Answer the public](https://answerthepublic.com/) - AI para ideas sobre contenido <br>
+
+- [QuillBot](https://quillbot.com/) - AI para realizar parafraseo <br>
+
+- [Jasper](https://www.jasper.ai/) - AI para guiones de youtube <br>
+
+- [Pictory](https://pictory.ai/) - AI para creacion guion de videos <br>
+
+- [Synthesia](https://www.synthesia.io/) - AI para creacion de videos <br>
+
+- [Fras](https://www.frase.io/) - AI optimizacion para SEO <br>
+
+- [Warmbox](https://www.warmbox.ai/) - AI email marketing <br>
+
+- [Genei](https://www.genei.io/) - AI resumen y buqueda de textos <br>
+
+- [Grammarly](https://www.grammarly.com/) - AI optimizacion de la gramatica <br>
+
+- [Podcastle](https://podcastle.ai/) - AI para crear podcasts <br>
+
+- [Craiyon](https://www.craiyon.com/) - AI para crear imagenes <br>
+
+- [Fire Flies](https://fireflies.ai/) - AI asistente virtual <br>
+
+- [Murf](https://murf.ai/) - AI para locucion de audios<br>
+
 ***
 
-## **19. Sitio de empleos**
+## **18. Sitio de empleos**
 *Busqueda de ofertas de trabajo*
 
 - [Get on Board](https://www.getonbrd.com/)<br>
