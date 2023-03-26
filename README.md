@@ -1,23 +1,25 @@
 # **Coleccion de recursos y paginas**
 Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
 ## indice
-1. [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)<br>
-2. [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
-3. [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos#3-foros-y-sitios-de-contribucion)<br>
-4. [Datasets](https://github.com/juanpyusun/guias-y-recursos#4-datasets)<br>
-5. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#5-git-y-github)<br>
-6. [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)<br>
-7. [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)<br>
-8. [Desarrollo web y movil](https://github.com/juanpyusun/guias-y-recursos#8-desarrollo-web-y-movil)<br>
-9. [SQL](https://github.com/juanpyusun/guias-y-recursos#9-sql)<br>
-10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)<br>
-11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)<br>
-12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#12-libros-y-articulos)<br>
-13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-imagenes)<br>
-14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
-15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
-16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
-17. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#17-sitio-de-empleos)<br>
+1.  [Cursos y sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)<br>
+2.  [Retos y ejercicios de preparacion para pruebas](https://github.com/juanpyusun/guias-y-recursos#2-retos-y-ejercicios-de-preparacion-para-pruebas)<br>
+3.  [Foros y sitios de contribucion](https://github.com/juanpyusun/guias-y-recursos#3-foros-y-sitios-de-contribucion)<br>
+4.  [Datasets](https://github.com/juanpyusun/guias-y-recursos#4-datasets)<br>
+5.  [Git y Github](https://github.com/juanpyusun/guias-y-recursos#5-git-y-github)<br>
+6.  [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)<br>
+7.  [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)<br>
+8.  [Html+CSS](https://github.com/juanpyusun/guias-y-recursos#8-HTML-CSS)<br>
+9.  [Diseño](https://github.com/juanpyusun/guias-y-recursos#9-Diseño)<br>
+10. [SQL](https://github.com/juanpyusun/guias-y-recursos#10-sql)<br>
+11. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#11-sitios-para-aprender-jugando)<br>
+12. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#12-distintas-herramientas)<br>
+13. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#13-libros-y-articulos)<br>
+14. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#14-banco-y-editor-de-imagenes)<br>
+15. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#15-banco-de-apis-para-consumir)<br>
+16. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#16-herramientas-ficha-adso-6)<br>
+17. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#17-revistas-digitales)<br>
+18. [IAS](https://github.com/juanpyusun/guias-y-recursos#18-IAs)
+19. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)<br>
 
 ***
 ***
@@ -439,7 +441,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **8. Desarrollo web y movil**
+## **8. HTML CSS**
 *Templates, guias y herramientas para la edicion web HTML y CSS*
 
 - [Wordpress](https://wordpress.com/) - Generar sitios web sin tanto codigo <br>
@@ -568,7 +570,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **9. SQL**
+## **9. Diseño**
+
+***
+
+## **10. SQL**
 *Tutoriales y herramientas de SQL y otros lenguajes para base de datos*
 
 - [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger <br>
@@ -609,7 +615,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **10. Sitios para Aprender Jugando**
+## **11. Sitios para Aprender Jugando**
 *Minijuegos para aprender algunas tecnologias*
 
 - [Code Combat](https://codecombat.com/) - Sitio para aprender Python, JavaScript y C++ <br>
@@ -648,7 +654,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **11. Distintas Herramientas**
+## **12. Distintas Herramientas**
 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring <br>
   
@@ -734,7 +740,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **12. Libros y articulos**
+## **13. Libros y articulos**
 *todo lo referencte a buscadores de libros, desbloquear de articulos en linea*
 
 - [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion <br>
@@ -761,7 +767,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **13. Banco y editor de imagenes**
+## **14. Banco y editor de imagenes**
 *stocks multimedia y editores*
 
 - [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
@@ -830,7 +836,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **14. Banco de API's para consumir**
+## **15. Banco de API's para consumir**
 *distintas API's para usar en proyectos*
 
 - [Rapid API](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria <br>
@@ -875,7 +881,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **15. Herramientas ficha ADSO-6**
+## **16. Herramientas ficha ADSO-6**
 *diversas herramientas utilizadas para el desarrollo de la ficha ADSO-6*
 
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas <br>
@@ -894,7 +900,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **16. Revistas digitales**
+## **17. Revistas digitales**
 *medios de comunicacion digitales*
 
 - [Playgroundd](https://www.playgroundweb.com/)<br>
@@ -923,7 +929,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **17. Sitio de empleos**
+## **18. IAs**
+
+***
+
+## **19. Sitio de empleos**
 *Busqueda de ofertas de trabajo*
 
 - [Get on Board](https://www.getonbrd.com/)<br>
