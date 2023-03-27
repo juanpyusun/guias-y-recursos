@@ -144,6 +144,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [The programming Books](https://www.theprogrammingbooks.com/) - Coleccion de libros sobre programacion <br>
 
+- [Full Stack Open](https://fullstackopen.com/en/) - Bootcamp para aprndeer diversas tecnologias y ser FullStack <br>
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -286,6 +288,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Gitignore](https://www.toptal.com/developers/gitignore) - Generador de archivos Gitignote <br>
 
+- [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? <br>
+
 ***
 
 ## **6. Python**
@@ -405,6 +409,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python Tutor](https://pythontutor.com/) - Para visualizar pruebas de escritorio en Python, JavaScript, C, C++ y Java <br>
 
+- [Aprende Python](https://aprendepython.es/) - Aprende desde lo basico hasta avanzado sobre Python <br>
+
 ***
 
 ## **7. Hosting**
@@ -511,6 +517,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Neumorphism](https://neumorphism.io/#e0e0e0) - Generador de cajas CSS <br>
 
+- [Cat To CSS](https://www.cattocss.com/) - Libreria de animaciones CSS <br>
+
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Plantillas de estilos para botones <br>
 
 - [Wait Animate](https://waitanimate.wstone.uk/) - Tiempos de espera de animaciones CSS <br>
@@ -539,6 +547,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Baseline](https://baseline.is/tools/css-photo-filters/) - Generador de filtro de fotos con CSS <br>
 
+- [Finisher](https://www.finisher.co/lab/header/) - Generador fondos animados con CSS <br>
+
+- [SVG Backgrounds](https://www.svgbackgrounds.com/) - Generador De fondos formato SVG CSS <br>
+
 - [Get Bootstrap](https://getbootstrap.com/) - Generador de plantillas Bootstrap <br>
 
 - [Chart Js](https://www.chartjs.org/) - Generador de graficas en JS <br>
@@ -548,7 +560,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Font Flipper](https://fontflipper.com/upload) - Fuentes e imagenes <br>
 
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto <br>
-
 
 - [Free Frontend](https://freefrontend.com/) - Plantillas Frontend <br>
 
@@ -575,6 +586,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [CSS Playlist](https://www.youtube.com/playlist?list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z) - Lista de reproduccion CSS del youtuber Dorian Designs <br>
 
 - [Webcode](https://webcode.tools/es) - Distintas herramientas para el diseño web <br>
+
+- [CSS Battle](https://cssbattle.dev/) - Retos contra otros usuarios en CSS <br>
+
+- [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript <br> 
 
 ***
 
@@ -616,6 +631,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [SQL easy](https://www.sql-easy.com/es/) - Sitio para aprender facilmente SQL <br>
 
 - [Online SQL Editor](https://www.programiz.com/sql/online-compiler/) - Sitio para practicar sentencias SQL <br>
+
+- [SQL Mode](https://mode.com/sql-tutorial/) - Tutorial de distintos niveles para SQL <br>
+
+- [My SQLTutorial](https://www.mysqltutorial.org/) - Tutorial para SQL <br>
+
+- [Kaggle SQL](https://www.kaggle.com/learn/advanced-sql) - Aprende SQL avanzado en kaggle <br>
 
 ***
 
@@ -824,6 +845,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Smarth Mockups](https://smartmockups.com/) - Diseño de varias mockups productos <br>
 
+- [Icon-Icons](https://icon-icons.com/) - Variedad de iconos <br>
+
+- [Shapes Website](https://shapes.framer.website/) - Libreria de formas/figuras en SVG <br>
+
 ***
 
 ## **14. Banco de API's para consumir**
@@ -952,6 +977,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Learn Prompting](https://learnprompting.org/es/) - Sitio para aprender prompts <br>
 
+- [Prompts Chat](https://prompts.chat/) - Coleccion de prompts especializados <br>
+
 - [Answer the public](https://answerthepublic.com/) - AI para ideas sobre contenido <br>
 
 - [QuillBot](https://quillbot.com/) - AI para realizar parafraseo <br>
@@ -977,6 +1004,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Fire Flies](https://fireflies.ai/) - AI asistente virtual <br>
 
 - [Murf](https://murf.ai/) - AI para locucion de audios<br>
+
+- [AI To UI](https://ai2ui.co/) - AI para generar componentes de interfaz <br>
 
 ***
 
