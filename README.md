@@ -13,7 +13,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)<br>
 11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)<br>
 12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#12-libros-y-articulos)<br>
-13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-multimedia)<br>
+13. [Banco y editor de multimedia](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-multimedia)<br>
 14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
 15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
 16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
