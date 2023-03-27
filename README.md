@@ -13,12 +13,13 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)<br>
 11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)<br>
 12. [Libros y articulos](https://github.com/juanpyusun/guias-y-recursos#12-libros-y-articulos)<br>
-13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-imagenes)<br>
+13. [Banco y editor de imagenes](https://github.com/juanpyusun/guias-y-recursos#13-banco-y-editor-de-multimedia)<br>
 14. [Banco de API's para consumir](https://github.com/juanpyusun/guias-y-recursos#14-banco-de-apis-para-consumir)<br>
 15. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#15-herramientas-ficha-adso-6)<br>
 16. [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#16-revistas-digitales)<br>
 17. [IAS](https://github.com/juanpyusun/guias-y-recursos#17-IAs)
 18. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)<br>
+19. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#19-Ofimatica)<br>
 
 ***
 ***
@@ -129,8 +130,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Learn Microsoft](https://learn.microsoft.com/en-us/training/browse/?expanded=azure) - Cursos de microsoft <br>
 
 - [Skills Build](https://skillsbuild.org/es) - IBM Skills Build cursos varios <br>
-
-- [Excel Exercises](https://excelexercises.com/) - Curso y ejercicios de Excel <br>
 
 - [Grow Google](https://grow.google/) - Cursos certificados con Google <br>
 
@@ -591,6 +590,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript <br> 
 
+- [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
+
+- [Page Speed](https://pagespeed.web.dev/) - Herramienta para analizar el tiempo de carga de paginas <br>
+
+- [GT Metrix](https://gtmetrix.com/) - Herramienta para analizar el rendimiento de paginas <br>
+
 ***
 
 ## **9. SQL**
@@ -637,6 +642,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [My SQLTutorial](https://www.mysqltutorial.org/) - Tutorial para SQL <br>
 
 - [Kaggle SQL](https://www.kaggle.com/learn/advanced-sql) - Aprende SQL avanzado en kaggle <br>
+
+- [Strata Scratch](https://www.stratascratch.com/) - Sitio para practicar SQL <br>
 
 ***
 
@@ -703,8 +710,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON <br>
 
-- [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
-
 - [OEIS](https://oeis.org/) - Buscador de Sucesiones Y series Matematicas <br>
 
 - [Insecam](http://www.insecam.org/en/byrating/) - Live Camaras sin proteccion <br>
@@ -714,12 +719,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Pimeyes](https://pimeyes.com/en) - Face Search Engine Reverse Image Search <br>
 
 - [Ahmia](https://ahmia.fi/) - Buscador de servicios ocultos en la red TOR <br>
-
-- [Tiny Wow](https://tinywow.com/) - Convertidor de archivos y herramientas online <br>
-
-- [Convertio](https://convertio.co/es/) - Convertidor de archivos multimedia online <br>
-
-- [Save Tweet Videos](https://www.savetweetvid.com/) - Descarga de videos en twitter <br>
 
 - [Pc Builds](https://pc-builds.com/) - Analisis de Hardware <br>
 
@@ -743,11 +742,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Anthiago](https://anthiago.com/) - Distintas herramientas, Convierte videos en texto <br>
 
-- [Shaadow](https://www.shaadow.io/) - Generador de marcas invisibles de agua en documentos <br>
-
 - [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas <br>
 
 - [Face Check](https://facecheck.id/) - Buscar perfil redes sociales a partir de una foto <br>
+
+- [Connected Papers](https://www.connectedpapers.com/) - Buscador de papers <br>
 
 ***
 
@@ -778,7 +777,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **13. Banco y editor de imagenes**
+## **13. Banco y editor de multimedia**
 *stocks multimedia y editores*
 
 - [i love img](https://www.iloveimg.com/es) - Herramientas para edicion de imagenes <br>
@@ -848,6 +847,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Icon-Icons](https://icon-icons.com/) - Variedad de iconos <br>
 
 - [Shapes Website](https://shapes.framer.website/) - Libreria de formas/figuras en SVG <br>
+
+- [Squoosh](https://squoosh.app/) - Sitio para disminuir tamaño de imagenes sin perder calidad <br>
+
+- [Animated Drawings](https://sketch.metademolab.com/) - Sitio para animar dibujos <br>
+
+- [InVideo](https://invideo.io/) - Sitio web para edicion y creacion de videos <br>
 
 ***
 
@@ -1007,6 +1012,22 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [AI To UI](https://ai2ui.co/) - AI para generar componentes de interfaz <br>
 
+- [Tome](https://beta.tome.app/) - AI modelado 3D <br>
+
+- [Do Not Pay](https://donotpay.com/) - AI sobre leyes <br>
+
+- [Podcast Adobe](https://podcast.adobe.com/) - AI para mejorar audios de adobe <br>
+
+- [Galileo](https://www.usegalileo.ai/) - AI para generar interfaces de usuario, FIGMA incluido <br>
+
+- [Dimensions](https://www.dimensions.ai/) - AI para la investigacion de articulos <br>
+
+- [Architechtures](https://architechtures.com/) - AI para diseños arquitectonicos <br>
+
+- [Img Larger](https://imglarger.com/) - AI para agrandar y editar imagenes <br>
+
+- [Runayml](https://runwayml.com/) - AI para editar videos <br>
+
 ***
 
 ## **18. Sitio de empleos**
@@ -1031,5 +1052,26 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Turing](https://www.turing.com/)<br>
 
 - [Working Nomads](https://www.workingnomads.com/jobs)<br>
+
+***
+
+## **19. Ofimatica**
+*Office, herramientas para el dia a dia y convertidores*
+
+- [Excel Formulator](https://excelformulator.com/) - Describe una formula y se generara <br>
+
+- [Excel Exercises](https://excelexercises.com/) - Curso y ejercicios de Excel <br>
+
+- [Tiny Wow](https://tinywow.com/) - Convertidor de archivos y herramientas online <br>
+
+- [Convertio](https://convertio.co/es/) - Convertidor de archivos multimedia online <br>
+
+- [Save Tweet Videos](https://www.savetweetvid.com/) - Descarga de videos en twitter <br>
+
+- [Shaadow](https://www.shaadow.io/) - Generador de marcas invisibles de agua en documentos <br>
+
+- [Dostin Hurtado Excel](https://dostinhurtado.com/site/Categoria/cursos/excel-basico-intermedio/) - Video cursos de excel de Dostin Hurtado <br>
+
+- [El tio Tech](https://eltiotech.com/) - Video cursos de Ofimatica del Tio Tech <br>
 
 ***
