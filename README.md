@@ -144,6 +144,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [The programming Books](https://www.theprogrammingbooks.com/) - Coleccion de libros sobre programacion <br>
 
 - [Full Stack Open](https://fullstackopen.com/en/) - Bootcamp para aprndeer diversas tecnologias y ser FullStack <br>
+  
+- [Certificaciones Cibersguridad](https://pauljerimy.com/security-certification-roadmap/) - Roadmap de ciberseguridad de Paul Jerimy <br>
 
 ***
 
@@ -189,6 +191,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Pwn College](https://pwn.college/) - Retos para aprender ciberseguridad <br>
 
 - [We chall](https://www.wechall.net/) - Retos sobre criptografia, ingenieria inversa, estenografia, programacion y ciencias/matematica <br>
+
+- [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) - Pruebas para Back-End <br>
+
+- [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Pruebas para Front-End <br>
 
 ***
 
@@ -506,6 +512,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [HTML5 up](https://html5up.net/) - Plantillas HTML5 <br>
 
+- [Colorlib](https://colorlib.com/) - Plantillas HTML y wordpress <br>
+
 - [HTML Reference](https://htmlreference.io/) - Guia visual de HTML <br>
 
 - [CSS Reference](https://cssreference.io/) - Guia visual de CSS <br>
@@ -588,13 +596,23 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [CSS Battle](https://cssbattle.dev/) - Retos contra otros usuarios en CSS <br>
 
-- [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript <br> 
+- [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript <br>
+
+- [Lord Icon](https://lordicon.com/) - Coleccion de iconos <br>
 
 - [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo <br>
 
 - [Page Speed](https://pagespeed.web.dev/) - Herramienta para analizar el tiempo de carga de paginas <br>
 
 - [GT Metrix](https://gtmetrix.com/) - Herramienta para analizar el rendimiento de paginas <br>
+
+- [Tympanus](https://tympanus.net/codrops/) - Coleccion de sitios web con sus codigos HTML, CSS y JS <br>
+
+- [Nice page](https://nicepage.com/) - Generador sitios web sin codigo <br>
+
+- [Template Monster](https://www.templatemonster.com/es/) - Coleccion de plantillas <br>
+
+- [Landing](https://www.landing.love/) - Coleccion diseños web <br>
 
 ***
 
@@ -684,6 +702,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Smash The stack](https://www.smashthestack.org/) - Juego sobre ciberseguridad <br>
 
+- [Oh My Git](https://ohmygit.org/) - Juego para aprender sobre Git <br>
+
 ***
 
 ## **11. Distintas Herramientas**
@@ -707,6 +727,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo <br>
 
 - [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON <br>
+
+- [Json 2 C#](https://json2csharp.com/) - Convertidor de JSON a clases en distintos lenguajes <br>
 
 - [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON <br>
 
@@ -747,6 +769,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Face Check](https://facecheck.id/) - Buscar perfil redes sociales a partir de una foto <br>
 
 - [Connected Papers](https://www.connectedpapers.com/) - Buscador de papers <br>
+
+- [Web Hook](https://webhook.site/) - Herramienta para inspeccionar y testear http requests o emails <br>
+
+- [Privacy Tests](https://privacytests.org/) - Sitio web que analiza los exploradores web <br>
 
 ***
 
@@ -854,12 +880,34 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [InVideo](https://invideo.io/) - Sitio web para edicion y creacion de videos <br>
 
+- [InKarnate](https://inkarnate.com/) - Generador de mapas de fantasia <br>
+
+- [Th Story Shack](https://thestoryshack.com/es/) - Generador de nombres e historias <br>
+
+- [Fantasy Name](https://www.fantasynamegenerators.com/) - Generador nombres de fantasia <br>
+
+- [SVGator](https://www.svgator.com/) - Sitio web para la animacion de archivos SVG <br>
+
+- [UVRS](https://ultimatevocalremover.com/) - Sitio para separar los STEMS de una cancion, como la voz , guitarra, etc.<br>
+
+- [Auto Draw](https://www.autodraw.com/) - Generador de bibujos a partir de bosquejos <br>
+
+- [Clip Champ](https://clipchamp.com/es/) - Editor de videos online <br>
+
+- [Savee](https://savee.it/) - Coleccion diseños <br>
+
+- [Iconer](https://iconer.app/) - Coleccion iconos <br>
+
+- [Watermarker Remover](https://www.watermarkremover.io/es) - Remueve marcas de agua <br>
+
+- [Pixabay](https://pixabay.com/es/) - Coleccion de imagenes <br>
+
 ***
 
 ## **14. Banco de API's para consumir**
 *distintas API's para usar en proyectos*
 
-- [Rapid API](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria <br>
+- [Rapid](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria <br>
 
 - [NASA](https://api.nasa.gov/) - Open API de la NASA <br>
 
@@ -898,6 +946,16 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [The Movie DB](https://developers.themoviedb.org/3) - API sobre peliculas, series y actores <br>
 
 - [Exchanges](https://exchangeratesapi.io/) - API sobre conversion de monedas <br>
+
+- [Food](https://spoonacular.com/food-api) - API sobre recetas de cocina <br>
+
+- [Spotify](https://developer.spotify.com/documentation/web-api) - API sobre artistas y musica <br>
+
+- [News](https://newsapi.org/) - API para noticias y articulos <br>
+
+- [Fixer](https://fixer.io/) - API para tasa de cambio de monedas <br>
+
+- [Pexels](https://www.pexels.com/api/) - API para imagenes y videos <br>
 
 ***
 
@@ -1027,6 +1085,14 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Img Larger](https://imglarger.com/) - AI para agrandar y editar imagenes <br>
 
 - [Runayml](https://runwayml.com/) - AI para editar videos <br>
+
+- [Speechelo](https://speechelo.com/) - AI generador de audio a partir de texto <br>
+
+- [Fake You](https://fakeyou.com/) - AI generador de audio a partir de texto *(recomendado: "narrador pelis antiguas")* <br>
+
+- [Timely App](https://timelyapp.com/) - AI para gestionar tiempos <br>
+
+- [Stockai](https://www.stockai.com/) - AI Coleccion de imagenes <br>
 
 ***
 
