@@ -663,6 +663,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Strata Scratch](https://www.stratascratch.com/) - Sitio para practicar SQL <br>
 
+- [DataBase Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) - Curso de 8h sobre bases de datos <br>
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
