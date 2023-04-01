@@ -776,6 +776,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Privacy Tests](https://privacytests.org/) - Sitio web que analiza los exploradores web <br>
 
+- [Dictanote](https://dictanote.co/) - Convierte audios en texto <br>
+
 ***
 
 ## **12. Libros y articulos**
