@@ -778,6 +778,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Dictanote](https://dictanote.co/) - Convierte audios en texto <br>
 
+- [Software NASA](https://software.nasa.gov/) - Catalogo de software opensource de la NASA <br>
+
 ***
 
 ## **12. Libros y articulos**
