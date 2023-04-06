@@ -1100,6 +1100,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Stockai](https://www.stockai.com/) - AI Coleccion de imagenes <br>
 
+- [Promp Hunt](https://www.prompthunt.com/) - Visualizacion de imagenes creadas por otros usuarios en diversas IAs <br>
+
 ***
 
 ## **18. Sitio de empleos**
