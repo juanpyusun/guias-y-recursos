@@ -963,6 +963,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Pexels](https://www.pexels.com/api/) - API para imagenes y videos <br>
 
+- [Repositorios APIS](https://github.com/public-apis/public-apis) - Repositorio de APIS publicas <br>
+
 ***
 
 ## **15. Herramientas ficha ADSO-6**
