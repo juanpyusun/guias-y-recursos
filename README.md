@@ -416,6 +416,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Aprende Python](https://aprendepython.es/) - Aprende desde lo basico hasta avanzado sobre Python <br>
 
+- [Capacita para el empleo](https://capacitateparaelempleo.org/cursos/view/81) - Curso Analisis de datos <br>
+
+- [Python VScode](https://learn.microsoft.com/es-es/training/modules/python-install-vscode/) - Curso Python de mi microsoft <br>
+
 ***
 
 ## **7. Hosting**
@@ -806,6 +810,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [EPUB-Libre](https://epublibre.gratis/) - Coleccion variada de libros en formato EPUB <br>
 
 - [Open Libra](https://openlibra.com/es/collection) - Coleccion gratuita de libros <br>
+
+- [Books en github](https://github.com/EbookFoundation/free-programming-books) - Repositorio de libros gratuitos <br>
 
 ***
 
