@@ -683,6 +683,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [DataBase Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) - Curso de 8h sobre bases de datos 
 
+- [SQL tutorial](https://www.youtube.com/watch?v=DFg1V-rO6Pg) - Curso de 7h desde cero hasta avanzado del youtuber Soy Dalto
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
