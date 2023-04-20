@@ -1010,6 +1010,16 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Balsamiq](https://balsamiq.com/) - Software para diseñar interfaces de usuario 
 
+- [Marvel APP](https://marvelapp.com/) - Sitio para diseño de interfaces
+
+- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
+
+- [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
+
+- [Firefly](https://firefly.adobe.com/) - IA para generar imagenes
+
+- [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
+
 ***
 
 ## **16. Revistas digitales**
