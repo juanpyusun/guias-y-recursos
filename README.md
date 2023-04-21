@@ -151,7 +151,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Curso de Harvard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - Curso sobre Desarrollo web con Python y JavaScript de Hardvard en EDX
 
-- [Developer Android](https://developer.android.com/courses/android-basics-compose/course?hl=es-419) - Curso aspectos basicos de android
+- [Developer Android](https://developer.android.com/courses/android-basics-compose/course?hl=es-419) - Curso aspectos basicos de android con kotlin
 
 ***
 
