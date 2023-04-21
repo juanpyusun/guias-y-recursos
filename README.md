@@ -920,6 +920,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Fantasy Name](https://www.fantasynamegenerators.com/) - Generador nombres de fantasia 
 
+- [Loreteller](https://loreteller.notion.site/loreteller/Loreteller-31be2801a5db417598a73eb5b2908ecc) - Recursos creacion de personajes
+
 - [SVGator](https://www.svgator.com/) - Sitio web para la animacion de archivos SVG 
 
 - [UVRS](https://ultimatevocalremover.com/) - Sitio para separar los STEMS de una cancion, como la voz , guitarra, etc.
