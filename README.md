@@ -151,6 +151,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Curso de Harvard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - Curso sobre Desarrollo web con Python y JavaScript de Hardvard en EDX
 
+- [Developer Android](https://developer.android.com/courses/android-basics-compose/course?hl=es-419) - Curso aspectos basicos de android con kotlin
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -683,6 +685,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [DataBase Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) - Curso de 8h sobre bases de datos 
 
+- [SQL tutorial](https://www.youtube.com/watch?v=DFg1V-rO6Pg) - Curso de 7h desde cero hasta avanzado del youtuber Soy Dalto
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
@@ -916,6 +920,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Fantasy Name](https://www.fantasynamegenerators.com/) - Generador nombres de fantasia 
 
+- [Loreteller](https://loreteller.notion.site/loreteller/Loreteller-31be2801a5db417598a73eb5b2908ecc) - Recursos creacion de personajes
+
 - [SVGator](https://www.svgator.com/) - Sitio web para la animacion de archivos SVG 
 
 - [UVRS](https://ultimatevocalremover.com/) - Sitio para separar los STEMS de una cancion, como la voz , guitarra, etc.
@@ -1000,13 +1006,21 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Curso PSEINT](https://youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798) - Videocurso para aprender a programar y usar el programa PSEINT, desde los conceptos basicos hasta las opciones avanzadas que brinda esta herramienta 
 
-- [Balsamiq Mockups](https://balsamiq.com/wireframes/) - Software para generar mockups 
-
 - [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados 
 
 - [Excalidraw](https://excalidraw.com/) - Pagina para diseñar interfaces de usuario 
 
 - [Balsamiq](https://balsamiq.com/) - Software para diseñar interfaces de usuario 
+
+- [Marvel APP](https://marvelapp.com/) - Sitio para diseño de interfaces
+
+- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
+
+- [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
+
+- [Firefly](https://firefly.adobe.com/) - IA para generar imagenes
+
+- [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
 
 ***
 
