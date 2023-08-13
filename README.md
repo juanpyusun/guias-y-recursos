@@ -1369,4 +1369,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Acunetix](http://testphp.vulnweb.com/) - Buscador de vulnerabilidades en PHP y otros
 
+- [uDork](https://github.com/m3n0sd0n4ld/uDork) - Repositorio en Github
+
+- [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Repositorio en Github
+
+- [Seeker](https://github.com/thewhiteh4t/seeker) - Repositorio en Github
+
 ***
