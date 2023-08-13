@@ -20,6 +20,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 17. [IAS](https://github.com/juanpyusun/guias-y-recursos#17-IAs)
 18. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)
 19. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#19-Ofimatica)
+20. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#19-OSINT-Y-Ciberseguridad)
 
 ***
 ***
@@ -153,6 +154,28 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Developer Android](https://developer.android.com/courses/android-basics-compose/course?hl=es-419) - Curso aspectos basicos de android con kotlin
 
+- [Java Universidad Helsinski](https://java-programming.mooc.fi/) - University of Helsinki’s free massive open online course
+
+- [MOOC Helsinski](https://www.mooc.fi/en/) - Cursos abiertos de la universidad de Helsinki 
+
+- [Cursos Jetbrains](https://www.jetbrains.com/academy/) - Academia Jetbrains 
+
+- [Codegym](https://codegym.cc/) - Curso online de java
+
+- [Cursa App](https://cursa.app/es) - Cursos gratis variados y certificados
+
+- [Code Damn](https://codedamn.com/) - Generador de rutas de aprendizaje personalizadas
+
+- [Spring Boot CRUD](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln) - Tutorial sobre Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose
+
+- [Code Red](https://codered.eccouncil.org/) - Cursos de ciberseguridad 
+
+- [Huawei](https://r.huaweistatic.com/s/hwtalent/lst/learning/#/home) - Cursos Gratuitos impartidos por Huawei
+
+- [Arkde](https://www.arkde.com/) - Sitio para aprender desarrollo de videojuegos en Unreal Engine 5
+
+- [Java5cript](https://www.java5cript.com/) - Coleccion de recursos para aprender Javascript
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
@@ -201,6 +224,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) - Pruebas para Back-End 
 
 - [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Pruebas para Front-End 
+
+- [Codingbat](https://codingbat.com/java) - Ejercicios practicos de Java y Python
+
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Wiki llena de ejercicios de programacion
+
+- [Frontend Practice](https://www.frontendpractice.com/) - Pagina con retos en desarrollo web
 
 ***
 
@@ -300,6 +329,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Gitignore](https://www.toptal.com/developers/gitignore) - Generador de archivos Gitignote 
 
 - [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? 
+
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - Repositorios para aprender a usar Github 
 
 ***
 
@@ -426,6 +457,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Python VScode](https://learn.microsoft.com/es-es/training/modules/python-install-vscode/) - Curso Python de mi microsoft 
 
+- [50 APPS Python](https://github.com/qxresearch/qxresearch-event-1) - Repositorio con 50 codigos de pocas lineas en Python
+
 ***
 
 ## **7. Hosting**
@@ -457,7 +490,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
   
 - [Cloudflare](https://www.cloudflare.com) 
 
-- [Railway](https://railway.app/) 
+- [Railway](https://railway.app/)
+
+- [Replit](https://replit.com/)
+
+- [00 Web Host](https://co.000webhost.com/)
 
 ***
 
@@ -590,6 +627,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Colour Contrast](https://colourcontrast.cc/) - Permite ver el contraste de los colores con sus respectivos codigos Hex 
 
+- [ColorHUB](https://colorhub.vercel.app/select-palette) - Paleta de colores
+
+- [Color Hunt](https://colorhunt.co/) - Paleta de Colores
+
 - [Ffflux](https://fffuel.co/ffflux/) - Generador de gradientes de color de fondo SVG 
 
 - [Curso introductorio I](https://learndigital.withgoogle.com/activate/course/web-development-I) - Curso sobre HTML y CSS brindado y certificado por Google primera parte 
@@ -620,7 +661,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Bubble](https://bubble.io/) - Desarrollo web con poco conocimiento de codigo 
 
-- [Page Speed](https://pagespeed.web.dev/) - Herramienta para analizar el tiempo de carga de paginas 
+- [Page Speed](https://pagespeed.web.dev/) - Herramienta para analizar el tiempo de carga de paginas y diagnosticos en diseño web
 
 - [GT Metrix](https://gtmetrix.com/) - Herramienta para analizar el rendimiento de paginas 
 
@@ -633,6 +674,32 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Landing](https://www.landing.love/) - Coleccion diseños web 
 
 - [WesBos](https://wesbos.com/) - Tips y recursos sobr desarrollo web
+
+- [Icon Buddy](https://iconbuddy.app/) - Coleccion de iconos para proyectos
+
+- [Animatiss](https://xsgames.co/animatiss/) - Animaciones con codigo CSS
+
+- [HTML Rev](https://htmlrev.com/) - Plantillas HTML
+
+- [Templatemo](https://templatemo.com/) - Plantillas HTML
+
+- [WEB3 Templates](https://web3templates.com/) - Plantillas HTML
+
+- [Be Fonts](https://befonts.com/) - Tipografias para descargar gratuitas
+
+- [Google Fonts](https://fonts.google.com/) - Tipografias de Google para descargar
+
+- [Branding Style Guides](https://brandingstyleguides.com/) - Recursos de diseño grafico
+
+- [CSS Loaders](https://cssloaders.github.io/) - Loaders CSS para copiar su codigo
+
+- [Color Name](https://www.color-name.com/) - Buscador de colores por codigo HEX, asignacion de nombre y otros detalles
+
+- [Lenguaje HTML](https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/) - Tabla Periodica para aprender sobre las etiquetas HTML
+
+- [Style Guide Figma](https://www.figma.com/community/file/1078092050664989246) - Plantilla del Style Guide en Figma
+
+- [Shape Factory](https://shapefactory.co/) - Herramientas de diseño web
 
 ***
 
@@ -687,6 +754,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [SQL tutorial](https://www.youtube.com/watch?v=DFg1V-rO6Pg) - Curso de 7h desde cero hasta avanzado del youtuber Soy Dalto
 
+- [Oracle Databases](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) - Curso de oracle para bases de datos
+
+- [Generate Data](https://generatedata.com/) - Generador de datos para rellenar bases de datos 
+
+- [SQL Notes for Professionals](https://book.huihoo.com/goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf) - Apuntes de SQL de basico a avanzado
+
 ***
 
 ## **10. Sitios para Aprender Jugando**
@@ -730,6 +803,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [CodeDex](https://www.codedex.io/) - Juego para aprender bases de programacion y diseño web
 
+- [PYgmalion](https://blocks.pygmalion.tech/game/lab/lab.html?lang=undefined&level=3) - Para enseñarle a niños jugar
+
+- [Code PIP](https://codepip.com/) - Juegos para aprender CSS, JS, HTML
+
 ***
 
 ## **11. Distintas Herramientas**
@@ -753,6 +830,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo 
 
 - [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON 
+
+- [Json Lint](https://jsonlint.com/) - Validador JSON
+
+- [JsonPad](https://jsonpad.io/) - Almacenamiento JSON
 
 - [Json 2 C#](https://json2csharp.com/) - Convertidor de JSON a clases en distintos lenguajes 
 
@@ -805,6 +886,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Software NASA](https://software.nasa.gov/) - Catalogo de software opensource de la NASA 
 
 - [Auto Chords](https://autochords.com/) - Acordes para generar canciones de acuerdo a sentimientos/descripciones
+
+- [Busy Simulator](https://busysimulator.com/) - Generador de sonidos de aplicaciones para simular estar ocupado
+
+- [Shortwave](http://websdr.ewi.utwente.nl:8901/) - Explorador de ondas de radio
 
 ***
 
@@ -938,12 +1023,28 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Pixabay](https://pixabay.com/es/) - Coleccion de imagenes 
 
+- [World Vector Logo](https://worldvectorlogo.com/) - Descarga de logos vectoriales de distintas marcas
+
+- [Videvo](https://www.videvo.net/es/) - Banco de videos sin copyright
+
+- [Mix Kit](https://mixkit.co/) - Banco de material multimedia para usar en videos
+
+- [Free Sound](https://freesound.org/) - Banco de efectos de sonido
+
+- [Haikei](https://haikei.app/) - Editor de fondos en formato SVG o PNG
+
+- [Sketch Valley](https://sketchvalley.com/) - Banco de ilustraciones
+
 ***
 
 ## **14. Banco de API's para consumir**
 *distintas API's para usar en proyectos*
 
 - [Rapid](https://rapidapi.com/hub) - HUB con diversas API's organizadas por categoria 
+
+- [Public APIS](https://publicapis.dev/) - Coleccion de API's
+
+- [Any API](https://any-api.com/) - Coleccion de API's
 
 - [NASA](https://api.nasa.gov/) - Open API de la NASA 
 
@@ -995,6 +1096,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Repositorios APIS](https://github.com/public-apis/public-apis) - Repositorio de APIS publicas 
 
+- [Eleven Labs](https://elevenlabs.io/) - AI generadora de voz a partir de texto
+
+- [Werk 24](https://es.werk24.io/) - AI para extraer caracteristicas de dibujos de ingenieria
+
+
+
 ***
 
 ## **15. Herramientas ficha ADSO-6**
@@ -1021,6 +1128,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Firefly](https://firefly.adobe.com/) - IA para generar imagenes
 
 - [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
+
+- [SQL compiler](https://www.programiz.com/sql/online-compiler/) - Compilador Online SQL para practicas
 
 ***
 
@@ -1150,6 +1259,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Promp Hunt](https://www.prompthunt.com/) - Visualizacion de imagenes creadas por otros usuarios en diversas IAs 
 
+- [10 Web](https://10web.io/) - AI asistente para generador de sitios web
+
 ***
 
 ## **18. Sitio de empleos**
@@ -1197,5 +1308,65 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Dostin Hurtado Excel](https://dostinhurtado.com/site/Categoria/cursos/excel-basico-intermedio/) - Video cursos de excel de Dostin Hurtado 
 
 - [El tio Tech](https://eltiotech.com/) - Video cursos de Ofimatica del Tio Tech 
+
+- [Simple PDF](https://simplepdf.eu/) - Editor online de archivos PDF's gratuito 
+
+- [Formula BOT](https://formulabot.com/) - Generador de formulas de excel
+
+***
+
+## **20. OSINT Y Ciberseguridad**
+
+- [Veritrade Corp](http://business2.veritradecorp.com/) - buscador de exportadores por codigo RUC
+
+- [Bazaar](https://bazaar.abuse.ch/) - Repositorio de muestras malware, su explicacion y analisis
+
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Repositorio en Github
+
+- [MISP](https://github.com/MISP/MISP) - Repositorio en Github
+
+- [Nidhogg](https://github.com/Idov31/Nidhogg) - Repositorio en Github
+
+- [Red Eye](https://github.com/cisagov/RedEye) - Repositorio en Github
+
+- [Spider Foot](https://github.com/smicallef/spiderfoot) - Repositorio en Github
+
+- [Vuls](https://github.com/future-architect/vuls) - Repositorio en Github
+
+- [Wazuh](https://github.com/wazuh/wazuh) - Repositorio en Github
+
+- [x64dbg](https://github.com/x64dbg/x64dbg) - Repositorio en Github
+
+- [Katana](https://github.com/TebbaaX/Katana) - Repositorio en Github para hacer google dorking desde consola
+
+- [Go Pish](https://github.com/gophish/gophish) - Repositorio en Github
+
+- [OSINTagram](https://github.com/Datalux/Osintgram) - Repositorio en Github
+
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Repositorio en Github para hacer busquedas avanzadas de un username en distintas redes y paginas
+
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Repositorio en Github
+
+- [Trape](https://github.com/jofpin/trape) - Repositorio en Github
+
+- [OSINT](https://github.com/sinwindie/OSINT) - Repositorio en Github
+
+- [TWINT](https://github.com/twintproject/twint) - Repositorio en Github
+
+- [GHunt](https://github.com/mxrch/GHunt) - Repositorio en Github
+
+- [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Repositorio en Github
+
+- [Net Radar](https://github.com/XDeadHackerX/NetRadar) - Repositorio en Github
+
+- [Gmailc2](https://github.com/machine1337/gmailc2) - Repositorio en Github
+
+- [DaProfiler](https://github.com/daprofiler/DaProfiler) - Repositorio en Github para investigar por nombre y mostrar distinta informacion 
+
+- [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Repositorio en Github con una recopilacion de bypasses e inyecciones basicas
+
+- [USB Rubber Ducky](https://github.com/hak5/usbrubberducky-payloads) - Repositorio en Github
+
+- [Acunetix](http://testphp.vulnweb.com/) - Buscador de vulnerabilidades en PHP y otros
 
 ***
