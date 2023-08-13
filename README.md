@@ -20,7 +20,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 17. [IAS](https://github.com/juanpyusun/guias-y-recursos#17-IAs)
 18. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)
 19. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#19-Ofimatica)
-20. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#19-OSINT-Y-Ciberseguridad)
+20. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#20-osint-y-ciberseguridad)
 
 ***
 ***
