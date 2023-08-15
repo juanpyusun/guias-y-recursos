@@ -1375,4 +1375,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Seeker](https://github.com/thewhiteh4t/seeker) - Repositorio en Github
 
+- [Breach Forums](https://breachforums.is/) - Foro de datos leakeados
+
 ***
