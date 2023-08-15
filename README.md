@@ -701,6 +701,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Shape Factory](https://shapefactory.co/) - Herramientas de diseño web
 
+- [Generador Favicon](https://realfavicongenerator.net/) - Genera el Html del favicon subido
+
 ***
 
 ## **9. SQL**
