@@ -8,7 +8,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 5.  [Git y Github](https://github.com/juanpyusun/guias-y-recursos#5-git-y-github)
 6.  [Python](https://github.com/juanpyusun/guias-y-recursos#6-python)
 7.  [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)
-8.  [Html+CSS](https://github.com/juanpyusun/guias-y-recursos#8-HTML-CSS)
+8.  [HTML+CSS](https://github.com/juanpyusun/guias-y-recursos#8-HTML-CSS)
 9.  [SQL](https://github.com/juanpyusun/guias-y-recursos#9-sql)
 10. [Sitios para Aprender Jugando](https://github.com/juanpyusun/guias-y-recursos#10-sitios-para-aprender-jugando)
 11. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)
@@ -702,6 +702,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shape Factory](https://shapefactory.co/) - Herramientas de diseño web
 
 - [Generador Favicon](https://realfavicongenerator.net/) - Genera el Html del favicon subido
+
+- [Can I Use](https://caniuse.com/) - Herramienta para verificar la compatibilidad de elementos HTML, CSS y JS en distintos exploradores
 
 ***
 
