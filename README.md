@@ -895,6 +895,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Shortwave](http://websdr.ewi.utwente.nl:8901/) - Explorador de ondas de radio
 
+- [DNS Leak test](https://www.dnsleaktest.com/) - Prueba a VPN sobre posibles fugas de trafico
+
 ***
 
 ## **12. Libros y articulos**
