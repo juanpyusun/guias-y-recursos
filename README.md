@@ -176,6 +176,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Java5cript](https://www.java5cript.com/) - Coleccion de recursos para aprender Javascript
 
+- [Laracasts](https://laracasts.com/) - Pagina para aprender sobre Laravel (PHP)
+
 ***
 
 ## **2. Retos y ejercicios de preparacion para pruebas**
