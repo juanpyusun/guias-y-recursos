@@ -707,6 +707,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Can I Use](https://caniuse.com/) - Herramienta para verificar la compatibilidad de elementos HTML, CSS y JS en distintos exploradores
 
+- [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
+
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Analisis de contraste
+
 ***
 
 ## **9. SQL**
@@ -1130,8 +1134,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Marvel APP](https://marvelapp.com/) - Sitio para diseño de interfaces
 
 - [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
-
-- [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
 
 - [Firefly](https://firefly.adobe.com/) - IA para generar imagenes
 
