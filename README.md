@@ -1327,23 +1327,23 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ## **20. OSINT Y Ciberseguridad**
 
-- [Veritrade Corp](http://business2.veritradecorp.com/) - buscador de exportadores por codigo RUC
+- [Veritrade Corp](http://business2.veritradecorp.com/) - Buscador de exportadores por codigo RUC
 
 - [Bazaar](https://bazaar.abuse.ch/) - Repositorio de muestras malware, su explicacion y analisis
 
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Repositorio en Github
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Repositorio en Github proporciona información acerca de vulnerabilidades de seguridad y ayuda en tests de penetración "Pentesting" y el desarrollo de firmas para sistemas de detección de intrusos.
 
-- [MISP](https://github.com/MISP/MISP) - Repositorio en Github
+- [MISP](https://github.com/MISP/MISP) - Repositorio en Github Malware Information Sharing Platform, herramienta de código abierto que permite analizar, gestionar y compartir información relacionada con muestras de malware
 
-- [Nidhogg](https://github.com/Idov31/Nidhogg) - Repositorio en Github
+- [Nidhogg](https://github.com/Idov31/Nidhogg) - Repositorio en Github proporciona un rootkit todo en uno y fácil de usar con múltiples funcionalidades útiles para las interacciones del equipo rojo que se puede integrar con su marco C2 a través de un único archivo de encabezado con un uso simple.
 
-- [Red Eye](https://github.com/cisagov/RedEye) - Repositorio en Github
+- [Red Eye](https://github.com/cisagov/RedEye) - Repositorio en Github es una herramienta analítica para ayudar a los Equipos Rojos a visualizar e informar las actividades de comando y control.
 
-- [Spider Foot](https://github.com/smicallef/spiderfoot) - Repositorio en Github
+- [Spider Foot](https://github.com/smicallef/spiderfoot) - Repositorio en Github es una herramienta OSINT Se integra con casi todas las fuentes de datos disponibles y utiliza una variedad de métodos para el análisis de datos.
 
-- [Vuls](https://github.com/future-architect/vuls) - Repositorio en Github
+- [Vuls](https://github.com/future-architect/vuls) - Repositorio en Github es un escáner de vulnerabilidades basado en información de NVD, OVAL, etc.
 
-- [Wazuh](https://github.com/wazuh/wazuh) - Repositorio en Github
+- [Wazuh](https://github.com/wazuh/wazuh) - Repositorio en Github es un sistema de detección de intrusos basado en host. Realiza análisis de registro, comprobación de integridad, supervisión del registro de Windows, detección de rootkits, alertas basadas en el tiempo y respuesta activa
 
 - [x64dbg](https://github.com/x64dbg/x64dbg) - Repositorio en Github
 
