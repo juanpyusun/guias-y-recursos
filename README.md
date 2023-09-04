@@ -498,6 +498,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [00 Web Host](https://co.000webhost.com/)
 
+- [FL0](https://www.fl0.com/)
+
 ***
 
 ## **8. HTML CSS**
@@ -902,6 +904,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shortwave](http://websdr.ewi.utwente.nl:8901/) - Explorador de ondas de radio
 
 - [DNS Leak test](https://www.dnsleaktest.com/) - Prueba a VPN sobre posibles fugas de trafico
+
+- [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
+
+- [checklyhq]([checklyhq](https://www.checklyhq.com/)) - Herramientas para monitorear en despligue
+
+- [Open Status](https://www.openstatus.dev/) - Herramienta para monitorizar los servicios de un sitio web
 
 ***
 
