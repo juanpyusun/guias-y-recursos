@@ -21,6 +21,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 18. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#18-sitio-de-empleos)
 19. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#19-ofimatica)
 20. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#20-osint-y-ciberseguridad)
+21. [JavaScript](https://github.com/juanpyusun/guias-y-recursos#21-javascript)
+22. [PhP](https://github.com/juanpyusun/guias-y-recursos#22-php)
 
 ***
 ***
@@ -1394,5 +1396,14 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Seeker](https://github.com/thewhiteh4t/seeker) - Repositorio en Github
 
 - [Breach Forums](https://breachforums.is/) - Foro de datos leakeados
+
+***
+
+## **21. JAVASCRIPT**
+-[]()
+
+***
+
+## **22. PHP**
 
 ***
