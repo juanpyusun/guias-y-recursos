@@ -22,7 +22,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 19. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#19-ofimatica)
 20. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#20-osint-y-ciberseguridad)
 21. [JavaScript](https://github.com/juanpyusun/guias-y-recursos#21-javascript)
-22. [PhP](https://github.com/juanpyusun/guias-y-recursos#22-php)
+22. [PHP](https://github.com/juanpyusun/guias-y-recursos#22-php)
 
 ***
 ***
@@ -1399,11 +1399,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **21. JAVASCRIPT**
--[]()
+## **21. JavaScript**
+- []()
 
 ***
 
 ## **22. PHP**
+- []()
 
 ***
