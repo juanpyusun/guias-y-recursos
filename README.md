@@ -502,6 +502,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [FL0](https://www.fl0.com/)
 
+- [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
+
 ***
 
 ## **8. HTML CSS**
