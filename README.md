@@ -1059,6 +1059,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Sketch Valley](https://sketchvalley.com/) - Banco de ilustraciones
 
+- [Shots](https://shots.so/) - Editor de Mockups gratuito
+
 ***
 
 ## **14. Banco de API's para consumir**
