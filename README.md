@@ -776,34 +776,35 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Veritrade Corp](http://business2.veritradecorp.com/) - Buscador de exportadores por codigo RUC
 - [Bazaar](https://bazaar.abuse.ch/) - Repositorio de muestras malware, su explicacion y analisis
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Repositorio en Github proporciona información acerca de vulnerabilidades de seguridad y ayuda en tests de penetración "Pentesting" y el desarrollo de firmas para sistemas de detección de intrusos.
-- [MISP](https://github.com/MISP/MISP) - Repositorio en Github Malware Information Sharing Platform, herramienta de código abierto que permite analizar, gestionar y compartir información relacionada con muestras de malware
-- [Nidhogg](https://github.com/Idov31/Nidhogg) - Repositorio en Github proporciona un rootkit todo en uno y fácil de usar con múltiples funcionalidades útiles para las interacciones del equipo rojo que se puede integrar con su marco C2 a través de un único archivo de encabezado con un uso simple.
-- [Red Eye](https://github.com/cisagov/RedEye) - Repositorio en Github es una herramienta analítica para ayudar a los Equipos Rojos a visualizar e informar las actividades de comando y control.
-- [Spider Foot](https://github.com/smicallef/spiderfoot) - Repositorio en Github es una herramienta OSINT Se integra con casi todas las fuentes de datos disponibles y utiliza una variedad de métodos para el análisis de datos.
-- [Vuls](https://github.com/future-architect/vuls) - Repositorio en Github es un escáner de vulnerabilidades basado en información de NVD, OVAL, etc.
-- [Wazuh](https://github.com/wazuh/wazuh) - Repositorio en Github es un sistema de detección de intrusos basado en host. Realiza análisis de registro, comprobación de integridad, supervisión del registro de Windows, detección de rootkits, alertas basadas en el tiempo y respuesta activa
-- [x64dbg](https://github.com/x64dbg/x64dbg) - Repositorio en Github
-- [Katana](https://github.com/TebbaaX/Katana) - Repositorio en Github para hacer google dorking desde consola
-- [Go Pish](https://github.com/gophish/gophish) - Repositorio en Github
-- [OSINTagram](https://github.com/Datalux/Osintgram) - Repositorio en Github
-- [Sherlock](https://github.com/sherlock-project/sherlock) - Repositorio en Github para hacer busquedas avanzadas de un username en distintas redes y paginas
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Repositorio en Github
-- [Trape](https://github.com/jofpin/trape) - Repositorio en Github
-- [OSINT](https://github.com/sinwindie/OSINT) - Repositorio en Github
-- [TWINT](https://github.com/twintproject/twint) - Repositorio en Github
-- [GHunt](https://github.com/mxrch/GHunt) - Repositorio en Github
-- [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Repositorio en Github
-- [Net Radar](https://github.com/XDeadHackerX/NetRadar) - Repositorio en Github
-- [Gmailc2](https://github.com/machine1337/gmailc2) - Repositorio en Github
-- [DaProfiler](https://github.com/daprofiler/DaProfiler) - Repositorio en Github para investigar por nombre y mostrar distinta informacion 
-- [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Repositorio en Github con una recopilacion de bypasses e inyecciones basicas
-- [USB Rubber Ducky](https://github.com/hak5/usbrubberducky-payloads) - Repositorio en Github
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Repositorio proporciona información acerca de vulnerabilidades de seguridad y ayuda en tests de penetración "Pentesting" y el desarrollo de firmas para sistemas de detección de intrusos.
+- [MISP](https://github.com/MISP/MISP) - Repositorio Malware Information Sharing Platform, herramienta de código abierto que permite analizar, gestionar y compartir información relacionada con muestras de malware
+- [Nidhogg](https://github.com/Idov31/Nidhogg) - Repositorio proporciona un rootkit todo en uno y fácil de usar con múltiples funcionalidades útiles para las interacciones del equipo rojo que se puede integrar con su marco C2 a través de un único archivo de encabezado con un uso simple.
+- [Red Eye](https://github.com/cisagov/RedEye) - Repositorio herramienta analítica para ayudar a los Equipos Rojos a visualizar e informar las actividades de comando y control.
+- [Spider Foot](https://github.com/smicallef/spiderfoot) - Repositorio herramienta OSINT Se integra con casi todas las fuentes de datos disponibles y utiliza una variedad de métodos para el análisis de datos.
+- [Vuls](https://github.com/future-architect/vuls) - Repositorio escáner de vulnerabilidades basado en información de NVD, OVAL, etc.
+- [Wazuh](https://github.com/wazuh/wazuh) - Repositorio sistema de detección de intrusos basado en host. Realiza análisis de registro, comprobación de integridad, supervisión del registro de Windows, detección de rootkits, alertas basadas en el tiempo y respuesta activa
+- [x64dbg](https://github.com/x64dbg/x64dbg) - Repositorio
+- [Katana](https://github.com/TebbaaX/Katana) - Repositorio para hacer google dorking desde consola
+- [Go Pish](https://github.com/gophish/gophish) - Repositorio
+- [OSINTagram](https://github.com/Datalux/Osintgram) - Repositorio
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Repositorio para hacer busquedas avanzadas de un username en distintas redes y paginas
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Repositorio
+- [Trape](https://github.com/jofpin/trape) - Repositorio
+- [OSINT](https://github.com/sinwindie/OSINT) - Repositorio
+- [TWINT](https://github.com/twintproject/twint) - Repositorio
+- [GHunt](https://github.com/mxrch/GHunt) - Repositorio
+- [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Repositorio
+- [Net Radar](https://github.com/XDeadHackerX/NetRadar) - Repositorio
+- [Gmailc2](https://github.com/machine1337/gmailc2) - Repositorio
+- [DaProfiler](https://github.com/daprofiler/DaProfiler) - Repositorio para investigar por nombre y mostrar distinta informacion 
+- [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - Repositorio con una recopilacion de bypasses e inyecciones basicas
+- [USB Rubber Ducky](https://github.com/hak5/usbrubberducky-payloads) - Repositorio
 - [Acunetix](http://testphp.vulnweb.com/) - Buscador de vulnerabilidades en PHP y otros
-- [uDork](https://github.com/m3n0sd0n4ld/uDork) - Repositorio en Github
-- [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Repositorio en Github
-- [Seeker](https://github.com/thewhiteh4t/seeker) - Repositorio en Github
+- [uDork](https://github.com/m3n0sd0n4ld/uDork) -
+- [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) -
+- [Seeker](https://github.com/thewhiteh4t/seeker) -
 - [Breach Forums](https://breachforums.is/) - Foro de datos leakeados
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Repositorio Software para ingenieria inversa de la NSA
 
 ***
 
