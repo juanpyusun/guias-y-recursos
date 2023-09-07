@@ -403,58 +403,34 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 *Tutoriales y herramientas de SQL y otros lenguajes para base de datos*
 
 - [SQL Injection](https://youtu.be/C-FiImhUviM) - Video curso sobre SQL Injection usando el laboratorio PortSwigger 
-
 - [DB Diagram](https://dbdiagram.io/home) - Diagramas sobre bases de datos relacionales 
-
 - [SQL curso](https://youtu.be/HXV3zeQKqGY) - Videocurso para principiantes de 4 horas 
-
 - [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - Tutorial sobre SQL 
-
 - [Introduction SQL](https://www.coursera.org/learn/intro-sql?ranMID=40328&ranEAID=d2gvurItCFk&ranSiteID=d2gvurItCFk-UV_YKtenJ0UIVqqvZtdJtg&siteID=d2gvurItCFk-UV_YKtenJ0UIVqqvZtdJtg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=d2gvurItCFk) - Curso en coursera sobre SQL 
-
 - [SQL completo](https://youtu.be/uUdKAYl-F7g) - Videocurso completo de 2 horas 
-
 - [SQL bolt](https://sqlbolt.com/) - Curso completo 
-
 - [SQL course](https://www.sqlcourse.com/) - Curso basico y avanzado 
-
 - [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) - Curso basico sobre SQL 
-
 - [Getting Started](https://colab.research.google.com/github/SamwelJane/Copy-of-SQL-Programming---Getting-Started-with-Databases/blob/master/Copy_of_SQL_Programming_Getting_Started_with_Databases.ipynb) - Notebook para aprender SQL 
-
 - [Repositorio](https://github.com/DataWithDanny/sql-masterclass) - SQL masterclass para ciencias de datos 
-
 - [SQL datacamp](https://www.datacamp.com/tracks/sql-fundamentals) - Fundamentos de SQL curso e 22 horas 
-
 - [SQL cheat Sheet](https://www.new.datacamp.com/cheat-sheet/sql-basics-cheat-sheet) - Hoja resumida sobre SQL 
-
 - [Libro 1](https://drive.google.com/file/d/1VBouhWKLU6ZxMqPna1NCooMSwuLhGRKG/view) - Getting Started with SQL 
-
 - [Libro 2](https://drive.google.com/file/d/1gZkePEnbzMnk4G3wYMdcTKPlu2gVDnk_/view) - SQL queries 
-
 - [Libro 3](https://drive.google.com/file/d/1t_ASwdsG2-J297fSP4FIJkkNeXE7reOU/view) - SQL tutorials point 
-
 - [SQL easy](https://www.sql-easy.com/es/) - Sitio para aprender facilmente SQL 
-
 - [Online SQL Editor](https://www.programiz.com/sql/online-compiler/) - Sitio para practicar sentencias SQL 
-
 - [SQL Mode](https://mode.com/sql-tutorial/) - Tutorial de distintos niveles para SQL 
-
 - [My SQLTutorial](https://www.mysqltutorial.org/) - Tutorial para SQL 
-
 - [Kaggle SQL](https://www.kaggle.com/learn/advanced-sql) - Aprende SQL avanzado en kaggle 
-
 - [Strata Scratch](https://www.stratascratch.com/) - Sitio para practicar SQL 
-
 - [DataBase Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) - Curso de 8h sobre bases de datos 
-
 - [SQL tutorial](https://www.youtube.com/watch?v=DFg1V-rO6Pg) - Curso de 7h desde cero hasta avanzado del youtuber Soy Dalto
-
 - [Oracle Databases](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) - Curso de oracle para bases de datos
-
 - [Generate Data](https://generatedata.com/) - Generador de datos para rellenar bases de datos 
-
 - [SQL Notes for Professionals](https://book.huihoo.com/goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf) - Apuntes de SQL de basico a avanzado
+- [SQL Fiddle](http://sqlfiddle.com/)
+- [Oracle Free Tier](https://www.oracle.com/cloud/free/)
 
 ***
 
