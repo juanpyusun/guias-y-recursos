@@ -124,8 +124,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 - [Dev Docs](https://devdocs.io/) - Documentacion de distintos lenguajes de programacion 
 
-- [JS is weird](https://jsisweird.com/) - Rarezas sobre Javascript 
-
 - [Neetcode](https://neetcode.io/) - Videotutoriales para practicar entrevistas y pruebas 
 
 - [R4DS](https://es.r4ds.hadley.nz/) - Curso de R para ciencia de datos 
@@ -175,8 +173,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Huawei](https://r.huaweistatic.com/s/hwtalent/lst/learning/#/home) - Cursos Gratuitos impartidos por Huawei
 
 - [Arkde](https://www.arkde.com/) - Sitio para aprender desarrollo de videojuegos en Unreal Engine 5
-
-- [Java5cript](https://www.java5cript.com/) - Coleccion de recursos para aprender Javascript
 
 - [Laracasts](https://laracasts.com/) - Pagina para aprender sobre Laravel (PHP)
 
@@ -1404,7 +1400,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 
 ## **21. JavaScript**
-- []()
+- [W3 School](https://www.w3schools.com/js/default.asp) - Tutorial de JS en W3
+
+- [JS is weird](https://jsisweird.com/) - Rarezas sobre Javascript 
+
+- [Java5cript](https://www.java5cript.com/) - Coleccion de recursos para aprender Javascript
 
 ***
 
