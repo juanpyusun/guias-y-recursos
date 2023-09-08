@@ -396,6 +396,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Can I Use](https://caniuse.com/) - Herramienta para verificar la compatibilidad de elementos HTML, CSS y JS en distintos exploradores
 - [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Analisis de contraste
+- [OKLCH](https://oklch.com/) - Generador de colores con 4 especificaciones CSS
 
 ***
 
