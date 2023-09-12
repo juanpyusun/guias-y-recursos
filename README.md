@@ -50,7 +50,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias
 - [W3Schools](https://www.w3schools.com) - Tutoriales y documentacion
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Guia de desarrollo web
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Editores de codigo en linea
 - [Te lo explico con gatitos](https://teloexplicocongatitos.com/) - Tutoriales y explicaciones amenas sobre distintas tecnologias
 - [The Algorithms](https://the-algorithms.com/es) - Tutoriales sobre distintos algoritmos escritos en distintos lenguajes
 - [30 Seconds of code](https://www.30secondsofcode.org/) - Bases de tutoriales, preguntas y retos de distintos niveles de aprendizaje 
@@ -59,6 +58,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Over Api](https://overapi.com/) - Cheat Sheets de varios lenguajes 
 - [Cheatography](https://cheatography.com/) - Cheat sheets de varios lenguajes 
 - [Quick Ref](https://quickref.me/) - Cheat sheets de varios lenguajes
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Editores de codigo en linea
+- [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
 
 ### **Bootcamps, cursos online gratuitos y de pago**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
@@ -524,7 +525,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Replit](https://replit.com/)
 - [00 Web Host](https://co.000webhost.com/)
 - [FL0](https://www.fl0.com/)
-- [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
 - [Planet Scale](https://planetscale.com/) - Hosting gratuito y de pago para bases de datos
 
 ***
