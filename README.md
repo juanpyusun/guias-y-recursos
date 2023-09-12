@@ -3,51 +3,54 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ## indice
 1. [Sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)
-    1. [Guias]()
-    2. [Bootcamps y cursos online]()
-    3. [Retos y ejercicios]()
-    4. [Foros]()
-    5. [Aprender jugando]()
-    6. [Buscadores de libros y articulos]()
-    7. [Revistas digitales]()
+    - [Guias](https://github.com/juanpyusun/guias-y-recursos#guias)
+    - [Bootcamps y cursos online](https://github.com/juanpyusun/guias-y-recursos#bootcamps-cursos-online-gratuitos-y-de-pago)
+    - [Retos y ejercicios](https://github.com/juanpyusun/guias-y-recursos#retos-y-ejercicios-de-preparacion-para-pruebas)
+    - [Foros](https://github.com/juanpyusun/guias-y-recursos#foros-y-sitios-de-contribucion)
+    - [Aprender jugando](https://github.com/juanpyusun/guias-y-recursos#sitios-para-aprender-jugando)
+    - [Buscadores de libros y articulos](https://github.com/juanpyusun/guias-y-recursos#buscadores-de-libros-y-articulos)
+    - [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#revistas-digitales)
 
 2. [Datos](https://github.com/juanpyusun/guias-y-recursos#2-datos)
-   1. [Datasets](https://github.com/juanpyusun/guias-y-recursos#datasets)
-   2. [APIs](https://github.com/juanpyusun/guias-y-recursos#banco-de-apis-para-consumir)
+    - [Datasets](https://github.com/juanpyusun/guias-y-recursos#datasets)
+    - [APIs](https://github.com/juanpyusun/guias-y-recursos#banco-de-apis-para-consumir)
 
 3. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#3-git-y-github)
 
 4. [SQL](https://github.com/juanpyusun/guias-y-recursos#4-sql)
 
 5. [Desarrollo web](https://github.com/juanpyusun/guias-y-recursos#5-desarrollo-web)
-   1. [Tips y tutoriales]()
-   2. [HTML](https://github.com/juanpyusun/guias-y-recursos#8-HTML-CSS)
-   3. [CSS]()
-   4. [Banco de Imagenes]()
-   5. [Banco de iconos]()
-   6. [Editores multimedia]()
-   7. [Herramientas de testeo]()
-   8. [Hosting](https://github.com/juanpyusun/guias-y-recursos#7-hosting)
+   - [Guias y retos](https://github.com/juanpyusun/guias-y-recursos#guias-y-retos)
+   - [Herramientas Diseño](https://github.com/juanpyusun/guias-y-recursos#herramientas-dise%C3%B1o)
+   - [Herramientas CSS](https://github.com/juanpyusun/guias-y-recursos#herramientas-css)
+   - [Generadores de colores](https://github.com/juanpyusun/guias-y-recursos#generadores-de-colores)
+   - [Banco de multimedia](https://github.com/juanpyusun/guias-y-recursos#banco-de-multimedia)
+   - [Banco de iconos](https://github.com/juanpyusun/guias-y-recursos#banco-de-iconos)
+   - [Fuentes de texto](https://github.com/juanpyusun/guias-y-recursos#fuentes-de-texto)
+   - [Editores multimedia](https://github.com/juanpyusun/guias-y-recursos#editores-multimedia)
+   - [Herramientas de testeo](https://github.com/juanpyusun/guias-y-recursos#herramientas-de-testeo-y-desarrollo)
+   - [Hosting](https://github.com/juanpyusun/guias-y-recursos#hosting)
 
-6. [Desarrollo movil]()
+6. [Desarrollo movil](https://github.com/juanpyusun/guias-y-recursos#6-desarrollo-movil)
 
-7.  [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#11-distintas-herramientas)
+7. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#7-distintas-herramientas)
    
-8.  [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#8-herramientas-ficha-adso-6)
+8. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#8-herramientas-ficha-adso-6)
 
-9.  [IAS](https://github.com/juanpyusun/guias-y-recursos#9-IAs)
+9. [IAS](https://github.com/juanpyusun/guias-y-recursos#9-IAs)
 
-10. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#10-sitio-de-empleos)
+10. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#10-sitios-de-empleos)
 
 11. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#11-ofimatica)
 
 12. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#12-osint-y-ciberseguridad)
 
-13. [Lenguajes de programacion]()
-    1. [JavaScript]()
-    2. [PHP]()
-    3. [Python]()
-    4. [Java]()
+13. [Lenguajes de programacion](https://github.com/juanpyusun/guias-y-recursos#13-lenguajes-de-programaci%C3%B3n)
+    - [JavaScript](https://github.com/juanpyusun/guias-y-recursos#javascript)
+    - [PHP](https://github.com/juanpyusun/guias-y-recursos#php)
+    - [Python](https://github.com/juanpyusun/guias-y-recursos#python)
+    - [Java](https://github.com/juanpyusun/guias-y-recursos#java)
+    - [C#](https://github.com/juanpyusun/guias-y-recursos#c)
 
 ***
 ***
@@ -181,7 +184,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [PYgmalion](https://blocks.pygmalion.tech/game/lab/lab.html?lang=undefined&level=3) - Para enseñarle a niños jugar
 - [Code PIP](https://codepip.com/) - Juegos para aprender CSS, JS, HTML
 
-- ### **Buscadores de libros y articulos**
+### **Buscadores de libros y articulos**
 *todo lo referente a buscadores de libros, desbloquear de articulos en linea*
 - [Sci-Hub](https://sci-hub.se/) - Buscador de articulos cientificos e investigacion 
 - [El libro Free](https://elibrofree.blogspot.com/) - Buscador de Libros 
@@ -472,7 +475,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Be Fonts](https://befonts.com/) - Tipografias para descargar gratuitas
 - [Google Fonts](https://fonts.google.com/) - Tipografias de Google para descargar
 
-### **Herramientas multimedia**
+### **Editores multimedia**
 *editores de imagenes, animaciones, videos, audio*
 - [Flipsnack](https://www.flipsnack.com/) - Creacion de catalogos online 
 - [Kaedim3d](https://www.app.kaedim3d.com/login) - Generador de modelos 3D a partir de imagenes 
@@ -593,7 +596,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 ***
 
-## **7. Herramientas ficha ADSO-6**
+## **8. Herramientas ficha ADSO-6**
 *diversas herramientas utilizadas para el desarrollo de la ficha ADSO-6*
 - [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas 
 - [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados 
@@ -610,7 +613,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 ***
 
-## **8. IAs**
+## **9. IAs**
 *Distintas inteligencias artificales*
 - [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) 
 - [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis 
@@ -663,7 +666,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 
 ***
 
-## **9. Sitio de empleos**
+## **10. Sitios de empleos**
 *Busqueda de ofertas de trabajo*
 - [Get on Board](https://www.getonbrd.com/)
 - [X-Team](https://x-team.com/)
@@ -680,9 +683,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 ***
 
-## **10. Ofimatica**
+## **11. Ofimatica**
 *Office, herramientas para el dia a dia y convertidores*
-
 - [Excel Formulator](https://excelformulator.com/) - Describe una formula y se generara 
 - [Excel Exercises](https://excelexercises.com/) - Curso y ejercicios de Excel 
 - [Tiny Wow](https://tinywow.com/) - Convertidor de archivos y herramientas online 
@@ -697,7 +699,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 ***
 
-## **11. OSINT Y Ciberseguridad**
+## **12. OSINT Y Ciberseguridad**
 *Herramientas de hacking y pentesting*
 - [Certificaciones Cibersguridad](https://pauljerimy.com/security-certification-roadmap/) - Roadmap de ciberseguridad de Paul Jerimy
 - [PortSwigger](https://portswigger.net/web-security) - Laboratorio de practicas para ciberseguridad
@@ -739,7 +741,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ***
 ***
 
-## **12. LENGUAJES DE PROGRAMACIÓN**
+## **13. LENGUAJES DE PROGRAMACIÓN**
 ### **JavaScript**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion JavaScript*
 - [Lenguaje JS](https://lenguajejs.com/) - Tutoriales sobre desarrollo web y sus diversas tecnologias 
