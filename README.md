@@ -10,15 +10,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
     - [Aprender jugando](https://github.com/juanpyusun/guias-y-recursos#sitios-para-aprender-jugando)
     - [Buscadores de libros y articulos](https://github.com/juanpyusun/guias-y-recursos#buscadores-de-libros-y-articulos)
     - [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#revistas-digitales)
-
 2. [Datos](https://github.com/juanpyusun/guias-y-recursos#2-datos)
     - [Datasets](https://github.com/juanpyusun/guias-y-recursos#datasets)
     - [APIs](https://github.com/juanpyusun/guias-y-recursos#banco-de-apis-para-consumir)
-
 3. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#3-git-y-github)
-
 4. [SQL](https://github.com/juanpyusun/guias-y-recursos#4-sql)
-
 5. [Desarrollo web](https://github.com/juanpyusun/guias-y-recursos#5-desarrollo-web)
    - [Guias y retos](https://github.com/juanpyusun/guias-y-recursos#guias-y-retos)
    - [Herramientas Diseño](https://github.com/juanpyusun/guias-y-recursos#herramientas-dise%C3%B1o)
@@ -30,21 +26,13 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
    - [Editores multimedia](https://github.com/juanpyusun/guias-y-recursos#editores-multimedia)
    - [Herramientas de testeo](https://github.com/juanpyusun/guias-y-recursos#herramientas-de-testeo-y-desarrollo)
    - [Hosting](https://github.com/juanpyusun/guias-y-recursos#hosting)
-
 6. [Desarrollo movil](https://github.com/juanpyusun/guias-y-recursos#6-desarrollo-movil)
-
 7. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#7-distintas-herramientas)
-   
 8. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#8-herramientas-ficha-adso-6)
-
 9. [IAS](https://github.com/juanpyusun/guias-y-recursos#9-IAs)
-
 10. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#10-sitios-de-empleos)
-
 11. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#11-ofimatica)
-
 12. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#12-osint-y-ciberseguridad)
-
 13. [Lenguajes de programacion](https://github.com/juanpyusun/guias-y-recursos#13-lenguajes-de-programaci%C3%B3n)
     - [JavaScript](https://github.com/juanpyusun/guias-y-recursos#javascript)
     - [PHP](https://github.com/juanpyusun/guias-y-recursos#php)
@@ -537,6 +525,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [00 Web Host](https://co.000webhost.com/)
 - [FL0](https://www.fl0.com/)
 - [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
+- [Planet Scale](https://planetscale.com/) - Hosting gratuito y de pago para bases de datos
 
 ***
 ***
