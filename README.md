@@ -340,7 +340,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [CSS Playlist](https://www.youtube.com/playlist?list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z) - Lista de reproduccion CSS del youtuber Dorian Designs 
 - [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript 
 - [Lenguaje HTML](https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/) - Tabla Periodica para aprender sobre las etiquetas HTML
-
+- [Web Dev](https://web.dev/learn/) - Aprende Tecnologias Web con Chrome
 
 ### **Herramientas Diseño**
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web
@@ -375,7 +375,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shape Factory](https://shapefactory.co/) - Herramientas de diseño web
 - [Generador Favicon](https://realfavicongenerator.net/) - Genera el favicon de la imagen subida
 - [Savee](https://savee.it/) - Coleccion diseños 
-- [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring 
+- [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring
+- [Web Dev Componentes](https://web.dev/patterns/components/) - Coleccion de componentes basicos
 
 ### **Herramientas CSS**
 - [Ui Buttons](https://ui-buttons.web.app/) - Generador de diseño de botones 
