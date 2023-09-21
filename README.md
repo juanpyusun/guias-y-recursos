@@ -25,7 +25,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
    - [Fuentes de texto](https://github.com/juanpyusun/guias-y-recursos#fuentes-de-texto)
    - [Editores multimedia](https://github.com/juanpyusun/guias-y-recursos#editores-multimedia)
    - [Herramientas de testeo](https://github.com/juanpyusun/guias-y-recursos#herramientas-de-testeo-y-desarrollo)
-   - [Hosting](https://github.com/juanpyusun/guias-y-recursos#hosting)
+   - [Hosting y dominios](https://github.com/juanpyusun/guias-y-recursos#hosting-y-dominios)
 6. [Desarrollo movil](https://github.com/juanpyusun/guias-y-recursos#6-desarrollo-movil)
 7. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#7-distintas-herramientas)
 8. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#8-herramientas-ficha-adso-6)
@@ -506,7 +506,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [checklyhq]([checklyhq](https://www.checklyhq.com/)) - Herramientas para monitorear en despligue
 - [Open Status](https://www.openstatus.dev/) - Herramienta para monitorizar los servicios de un sitio web
 
-### **Hosting**
+### **Hosting y dominios**
 *sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
 - [Wordpress](https://wordpress.com/) - Generar sitios web sin tanto codigo 
 - [Heroku](https://www.heroku.com/) 
@@ -527,6 +527,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [00 Web Host](https://co.000webhost.com/)
 - [FL0](https://www.fl0.com/)
 - [Planet Scale](https://planetscale.com/) - Hosting gratuito y de pago para bases de datos
+- [Colombia Hosting](https://www.colombiahosting.com.co/)
+- [Go Daddy](https://www.godaddy.com/es)
 
 ***
 ***
