@@ -60,6 +60,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Quick Ref](https://quickref.me/) - Cheat sheets de varios lenguajes
 - [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Editores de codigo en linea
 - [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
+- [Visu Algo](https://visualgo.net/en) - Visualizacion de estructuras de datos
 
 ### **Bootcamps, cursos online gratuitos y de pago**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
@@ -139,6 +140,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Wiki llena de ejercicios de programacion
 - [Frontend Practice](https://www.frontendpractice.com/) - Pagina con retos en desarrollo web
 - [Tech Interview Hanbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) - Tecnicas y patrones de ejercicios para pruebas de entrevistas
+- [Project Learn](https://projectlearn.io/) - Aprendizaje con retos de distintas tecnologias
 
 ### **Foros y sitios de contribucion**
 *¿Tienes alguna inquietud? de seguro alguien mas ya la resolvio, pregunta en estos sitios*
@@ -172,6 +174,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [CodeDex](https://www.codedex.io/) - Juego para aprender bases de programacion y diseño web
 - [PYgmalion](https://blocks.pygmalion.tech/game/lab/lab.html?lang=undefined&level=3) - Para enseñarle a niños jugar
 - [Code PIP](https://codepip.com/) - Juegos para aprender CSS, JS, HTML
+- [BashCrawl](https://gitlab.com/slackermedia/bashcrawl) - Juego para aprender CLI de linux
+- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - Juego para aprender CLI
+- [The Command Line Murders](https://github.com/veltman/clmystery) - Aventura para aprender CLI
+- [CSS Speedrun](https://css-speedrun.netlify.app/) - Juego para aprender CSS
 
 ### **Buscadores de libros y articulos**
 *todo lo referente a buscadores de libros, desbloquear de articulos en linea*
@@ -203,6 +209,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Neoteo](https://www.neoteo.com/)
 - [Enseñame de ciencia](https://ensedeciencia.com/)
 - [Technologynous](https://technologynous.com/)
+- [Byte Byte Go](https://blog.bytebytego.com/)
+- [Sons Of Hierarchies](https://sonsofhierarchies.com/)
 
 ***
 ***
@@ -266,6 +274,9 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Repositorios APIS](https://github.com/public-apis/public-apis) - Repositorio de APIS publicas 
 - [Eleven Labs](https://elevenlabs.io/) - AI generadora de voz a partir de texto
 - [Werk 24](https://es.werk24.io/) - AI para extraer caracteristicas de dibujos de ingenieria
+- [Count API](https://countapi.xyz/) - Contadores para trackear visitas de paginas
+- [Yahoo API](https://developer.yahoo.com/api/) - APIs de Yahoo
+- [Temp Mail API](https://temp-mail.org/en/api) - API para testear flujo de registros de correos temporales
 
 ***
 ***
@@ -321,6 +332,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [SQL Notes for Professionals](https://book.huihoo.com/goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf) - Apuntes de SQL de basico a avanzado
 - [SQL Fiddle](http://sqlfiddle.com/)
 - [Oracle Free Tier](https://www.oracle.com/cloud/free/)
+- [Date Lemur](https://datalemur.com/) - Practicar SQL y ciencia de datos
+- [Learn SQL](https://learnsql.com/blog/illustrated-guide-sql-outer-join/) - Guia visual para aprender Joins con camisas y pantalones de colores
+- [DB Fiddle](https://www.db-fiddle.com/) - Editor en linea SQL
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Retos de SQL
 
 ***
 ***
@@ -341,6 +356,13 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Code Well](https://www.codewell.cc/) - Mejora tus habilidades en HTML, CSS, JavaScript 
 - [Lenguaje HTML](https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/) - Tabla Periodica para aprender sobre las etiquetas HTML
 - [Web Dev](https://web.dev/learn/) - Aprende Tecnologias Web con Chrome
+- [UXcel](https://uxcel.com/) - Sitio para aprender UX
+- [UXTools](https://uxtools.co/) - Curso sobre UX
+- [Laws UX](https://lawsofux.com/) - Coleccion de buenas practicas UX
+- [Kickass UX](https://www.kickassux.com/) - Aprendizaje de tecnicas UX
+- [Learn UX](https://learnux.io/) - Videocursos para aprender UI y UX
+- [Design Better](https://www.designbetter.co/) - Buenas practicas para el diseño
+- [100 Days of CSS](https://100dayscss.com/) - Retos para aprender CSS
 
 ### **Herramientas Diseño**
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web
@@ -377,6 +399,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Savee](https://savee.it/) - Coleccion diseños 
 - [Jhipster](https://www.jhipster.tech/) - Generador Gratuito de aplicaciones y microservicios en Angular, React y Spring
 - [Web Dev Componentes](https://web.dev/patterns/components/) - Coleccion de componentes basicos
+- [Floating UI](https://floating-ui.com/) - Coleccion de componentes flotantes con codigo HTML, CSS y JS
+- [100L5](https://10015.io/) - Conjunto de herramientas de diseño
 
 ### **Herramientas CSS**
 - [Ui Buttons](https://ui-buttons.web.app/) - Generador de diseño de botones 
@@ -408,6 +432,9 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [CSS Battle](https://cssbattle.dev/) - Retos contra otros usuarios en CSS 
 - [Animatiss](https://xsgames.co/animatiss/) - Animaciones con codigo CSS
 - [CSS Loaders](https://cssloaders.github.io/) - Loaders CSS para copiar su codigo
+- [Water CSS](https://watercss.kognise.dev/) - Libreria de estilos CSS
+- [Skeleton CSS](https://getskeleton.com/) - Libreria de estilos CSS
+- [Layout CSS](https://layout.bradwoods.io/) - Generador de Layouts con CSS
 
 ### **Generadores de colores**
 - [ColorHUB](https://colorhub.vercel.app/select-palette) - Paleta de colores
@@ -494,6 +521,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Watermarker Remover](https://www.watermarkremover.io/es) - Remueve marcas de agua 
 - [Haikei](https://haikei.app/) - Editor de fondos en formato SVG o PNG
 - [Shots](https://shots.so/) - Editor de Mockups gratuito
+- [Story Set](https://storyset.com/) - Generador de ilustraciones personalizadas
 
 ### **Herramientas de testeo y desarrollo**
 - [Meta Tags](https://metatags.io/) - Generador de Meta Tags 
@@ -505,6 +533,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Privacy Tests](https://privacytests.org/) - Sitio web que analiza los exploradores web 
 - [checklyhq]([checklyhq](https://www.checklyhq.com/)) - Herramientas para monitorear en despligue
 - [Open Status](https://www.openstatus.dev/) - Herramienta para monitorizar los servicios de un sitio web
+- [JAM](https://chrome.google.com/webstore/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci) - Extension Chrome para generar reportes de error detallados
+- [Google Search Console Tool](https://search.google.com/search-console/about) - Herramienta de google que brinda infor sobre el trafico de un sitio
 
 ### **Hosting y dominios**
 *sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
@@ -539,16 +569,14 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Mobbin](https://mobbin.com/browse/ios/apps) - Plantillas de apps 
 - [Scrnshts](https://scrnshts.club/) - Capturas de pantalla de varias aplicaciones para explorar diseños 
 - [Appsheet](https://about.appsheet.com/home/) - Solucion a distintas situaciones sin necesidad de usar codigo 
+- [Learn Mobile](https://learnmobile.design/) - Guia de aprendizaje diseño movil
 
 ***
 ***
 
 ## **7. Distintas Herramientas**
-
-
 - [Tech Empower](https://www.techempower.com/benchmarks/#section=data-r21) - Analisis de los distintos Framework con estadisticas
 - [Regex](https://regex101.com/) - Analisis de expresiones regulares en distintos lenguajes 
-
 - [Barcode to PC](https://barcodetopc.com/) - Convertir el celular en un lector de codigo de barras 
 - [Notion](https://www.notion.so) - Manejo de proyectos 
 - [Data Viz](https://datavizproject.com/) - Distintas Visualizaciones de datos 
@@ -558,7 +586,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Json Lint](https://jsonlint.com/) - Validador JSON
 - [JsonPad](https://jsonpad.io/) - Almacenamiento JSON
 - [Json 2 C#](https://json2csharp.com/) - Convertidor de JSON a clases en distintos lenguajes 
-- [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON 
+- [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON
+- [Quick Type](https://quicktype.io/) - Tipar respuestas JSON a otros lenguajes
 - [OEIS](https://oeis.org/) - Buscador de Sucesiones Y series Matematicas 
 - [Insecam](http://www.insecam.org/en/byrating/) - Live Camaras sin proteccion 
 - [Shodan](https://www.shodan.io/) - Buscador de dispositivos conectados a internet 
@@ -566,6 +595,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Ahmia](https://ahmia.fi/) - Buscador de servicios ocultos en la red TOR 
 - [Pc Builds](https://pc-builds.com/) - Analisis de Hardware 
 - [Virus Total](https://www.virustotal.com) - Antivirus Online 
+- [URL Scan](https://urlscan.io/) - Analiza Links sospechosos
 - [Zoho](https://www.zoho.com/es-xl/) - Plataforma para la gestion de negocios con Dominio propio 
 - [Ninite](https://ninite.com/) - Multiple Instalador de software 
 - [Power Automate](https://powerautomate.microsoft.com/es-es/) - Automatizacion de servicios de Microsoft 
@@ -584,6 +614,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Shortwave](http://websdr.ewi.utwente.nl:8901/) - Explorador de ondas de radio
 - [DNS Leak test](https://www.dnsleaktest.com/) - Prueba a VPN sobre posibles fugas de trafico
 - [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
+- [What 3 woords](https://what3words.com/) - Proyecto que divide el mapa en cuadros 3mx3m y cada bloque se identifica con 3 palabras en español
+- [Get Data Recovery](https://www.runtime.org/data-recovery-software.htm) - Herramienta de pago para recuperar datos eliminados
+- [Test Disk](https://www.cgsecurity.org/wiki/TestDisk_Descargar) - Herramienta gratuita para recuperar datos eliminados
+- [Recuva](https://www.ccleaner.com/es-es/recuva) - Herramienta de CCleaner para recuperar datos eliminados
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) - Herramienta para analizar la huella digital
+- [Grabify](https://grabify.link/) - Link para tomar la IP de quien entra
 
 ***
 ***
@@ -655,6 +691,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Mixo](https://www.mixo.io/) - AI asistente para startups
 - [Promp Hunt](https://www.prompthunt.com/) - Visualizacion de imagenes creadas por otros usuarios en diversas IAs 
 - [10 Web](https://10web.io/) - AI asistente para generador de sitios web
+- [Flux](https://www.flux.ai/) - AI para generar circuitos electronicos
+- [Gamma](https://gamma.app/) - AI generadora de contenidos para presentaciones
 
 ***
 
@@ -729,6 +767,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Breach Forums](https://breachforums.is/) - Foro de datos leakeados
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Repositorio Software para ingenieria inversa de la NSA
 - [Code Red](https://codered.eccouncil.org/) - Cursos de ciberseguridad
+- [Hack Heck](https://hackcheck.io/ip-lookup) - Analiza si una IP ha estado involucrada en filtraciones de datos
 
 ***
 ***
@@ -748,8 +787,11 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [ApexCharts](https://apexcharts.com/)
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [Chart Js](https://www.chartjs.org/) - Generador de graficas en JS 
-- [Splid JS](https://splidejs.com/) - Galeria de  Carruseles de imagenes en JS
+- [Splide JS](https://splidejs.com/) - Galeria de  Carruseles de imagenes en JS
 - [ScrollMagic](https://scrollmagic.io/)
+- [Toastify JS](https://apvarun.github.io/toastify-js/) - Mejores alertas JS
+- [Sweet Alert](https://sweetalert2.github.io/) - Mejores alertas JS
+- [Atropos JS](https://atroposjs.com/) - Generador elementos 3D con JS
 - [10 JavaScript Projects in 1 Hour - Coding Challenge](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [10 JavaScript Projects in 10 Hours - Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4)
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -910,7 +952,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 ### **C#**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion C#*
 - [Do Factory](https://dofactory.com/net/design-patterns) - Patrones de desarrollo C# y tutoriales 
-
 
 ***
 ***
