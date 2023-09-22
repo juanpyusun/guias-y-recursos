@@ -943,6 +943,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Capacita para el empleo](https://capacitateparaelempleo.org/cursos/view/81) - Curso Analisis de datos 
 - [Python VScode](https://learn.microsoft.com/es-es/training/modules/python-install-vscode/) - Curso Python de mi Microsoft 
 - [50 APPS Python](https://github.com/qxresearch/qxresearch-event-1) - Repositorio con 50 codigos de pocas lineas en Python
+- [Automate The Boring Stuff](https://automatetheboringstuff.com/)
 
 ### **Java**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion Java*
