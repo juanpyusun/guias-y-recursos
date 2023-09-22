@@ -483,7 +483,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Free Icons](https://freeicons.io/) - Stock de iconos para desarrollo 
 - [Icons 8](https://iconos8.es/) - Stock de iconos, ilustraciones e imagenes
 - [Icon-Icons](https://icon-icons.com/) - Variedad de iconos 
-- [Iconer](https://iconer.app/) - Coleccion iconos 
+- [Iconer](https://iconer.app/) - Coleccion iconos
+- [Tabler Icons](https://tabler-icons.io/) - Coleccion gratuita y open source de iconos
 
 ### **Fuentes de texto**
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto 
