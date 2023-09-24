@@ -323,7 +323,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Repositorios para aprender a usar Github 
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -363,7 +363,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [DB Fiddle](https://www.db-fiddle.com/) - Editor en linea SQL
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Retos de SQL
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -621,7 +621,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Deno](https://deno.com/)
 - [Supabase](https://supabase.com/)
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -634,7 +634,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Learn Mobile](https://learnmobile.design/) - Guia de aprendizaje diseño movil
 - [App Screens](https://appscreens.com/) - Generador de capturas de pantallas para apps 
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -685,7 +685,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Symbolab](https://es.symbolab.com/) - Libreria online matematicas
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Libreria online matematicas
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -703,7 +703,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
 - [SQL compiler](https://www.programiz.com/sql/online-compiler/) - Compilador Online SQL para practicas
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -765,7 +765,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Clip Drop](https://clipdrop.co/) - AI para editar fotos
 - [Ideogram](https://ideogram.ai/login) - AI generadora de logos
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -783,7 +783,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Remote Rocketship](https://www.remoterocketship.com/)
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -800,7 +800,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Simple PDF](https://simplepdf.eu/) - Editor online de archivos PDF's gratuito 
 - [Formula BOT](https://formulabot.com/) - Generador de formulas de excel
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -849,7 +849,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Full Hunt](https://fullhunt.io/) - Descubrir area de ataque
 - [Grey Noise](https://www.greynoise.io/)
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
@@ -1036,6 +1036,6 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion C#*
 - [Do Factory](https://dofactory.com/net/design-patterns) - Patrones de desarrollo C# y tutoriales 
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
