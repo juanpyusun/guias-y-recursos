@@ -1,50 +1,53 @@
 # **Coleccion de recursos y paginas**
-Esta es una recopilacion de recursos encontrados en redes, videos y distintos sitios de aprendizaje :book: :book: :book:
+Este repositorio alberga una extensa colección de enlaces que conectan con cursos, herramientas y recursos cuidadosamente seleccionados, abarcando una diversa gama de intereses que incluyen desde lenguajes de programación hasta editores de imágenes y herramientas de inteligencia artificial. Ya sea que su objetivo sea ampliar sus habilidades técnicas, mejorar sus creaciones multimedia o adentrarse en el emocionante mundo de la inteligencia artificial, encontrará aquí una amplia variedad de recursos que serán de gran utilidad en su viaje. Le invitamos a explorar esta valiosa biblioteca digital y descubrir todo lo que el vasto mundo del conocimiento tiene para ofrecer. :book: :computer: :artificial_satellite:"
 
-## indice
-1. [Sitios de aprendizaje](https://github.com/juanpyusun/guias-y-recursos#1-cursos-y-sitios-de-aprendizaje)
-    - [Guias](https://github.com/juanpyusun/guias-y-recursos#guias)
-    - [Bootcamps y cursos online](https://github.com/juanpyusun/guias-y-recursos#bootcamps-cursos-online-gratuitos-y-de-pago)
-    - [Retos y ejercicios](https://github.com/juanpyusun/guias-y-recursos#retos-y-ejercicios-de-preparacion-para-pruebas)
-    - [Foros](https://github.com/juanpyusun/guias-y-recursos#foros-y-sitios-de-contribucion)
-    - [Aprender jugando](https://github.com/juanpyusun/guias-y-recursos#sitios-para-aprender-jugando)
-    - [Buscadores de libros y articulos](https://github.com/juanpyusun/guias-y-recursos#buscadores-de-libros-y-articulos)
-    - [Revistas digitales](https://github.com/juanpyusun/guias-y-recursos#revistas-digitales)
-2. [Datos](https://github.com/juanpyusun/guias-y-recursos#2-datos)
-    - [Datasets](https://github.com/juanpyusun/guias-y-recursos#datasets)
-    - [APIs](https://github.com/juanpyusun/guias-y-recursos#banco-de-apis-para-consumir)
-3. [Git y Github](https://github.com/juanpyusun/guias-y-recursos#3-git-y-github)
-4. [SQL](https://github.com/juanpyusun/guias-y-recursos#4-sql)
-5. [Desarrollo web](https://github.com/juanpyusun/guias-y-recursos#5-desarrollo-web)
-   - [Guias y retos](https://github.com/juanpyusun/guias-y-recursos#guias-y-retos)
-   - [Herramientas Diseño](https://github.com/juanpyusun/guias-y-recursos#herramientas-dise%C3%B1o)
-   - [Herramientas CSS](https://github.com/juanpyusun/guias-y-recursos#herramientas-css)
-   - [Generadores de colores](https://github.com/juanpyusun/guias-y-recursos#generadores-de-colores)
-   - [Banco de multimedia](https://github.com/juanpyusun/guias-y-recursos#banco-de-multimedia)
-   - [Banco de iconos](https://github.com/juanpyusun/guias-y-recursos#banco-de-iconos)
-   - [Fuentes de texto](https://github.com/juanpyusun/guias-y-recursos#fuentes-de-texto)
-   - [Editores multimedia](https://github.com/juanpyusun/guias-y-recursos#editores-multimedia)
-   - [Herramientas de testeo](https://github.com/juanpyusun/guias-y-recursos#herramientas-de-testeo-y-desarrollo)
-   - [Hosting y dominios](https://github.com/juanpyusun/guias-y-recursos#hosting-y-dominios)
-6. [Desarrollo movil](https://github.com/juanpyusun/guias-y-recursos#6-desarrollo-movil)
-7. [Distintas Herramientas](https://github.com/juanpyusun/guias-y-recursos#7-distintas-herramientas)
-8. [Herramientas ficha ADSO-6](https://github.com/juanpyusun/guias-y-recursos#8-herramientas-ficha-adso-6)
-9. [IAS](https://github.com/juanpyusun/guias-y-recursos#9-IAs)
-10. [Sitio de empleos](https://github.com/juanpyusun/guias-y-recursos#10-sitios-de-empleos)
-11. [Ofimatica](https://github.com/juanpyusun/guias-y-recursos#11-ofimatica)
-12. [OSINT Y Ciberseguridad](https://github.com/juanpyusun/guias-y-recursos#12-osint-y-ciberseguridad)
-13. [Lenguajes de programacion](https://github.com/juanpyusun/guias-y-recursos#13-lenguajes-de-programaci%C3%B3n)
-    - [JavaScript](https://github.com/juanpyusun/guias-y-recursos#javascript)
-    - [PHP](https://github.com/juanpyusun/guias-y-recursos#php)
-    - [Python](https://github.com/juanpyusun/guias-y-recursos#python)
-    - [Java](https://github.com/juanpyusun/guias-y-recursos#java)
-    - [C#](https://github.com/juanpyusun/guias-y-recursos#c)
+## **Indice**
+- [**Coleccion de recursos y paginas**](#coleccion-de-recursos-y-paginas)
+  - [**Indice**](#indice)
+  - [**1. Sitios de Aprendizaje**](#1-sitios-de-aprendizaje)
+    - [**Guias y herramientas de desarrollo**](#guias-y-herramientas-de-desarrollo)
+    - [**Herramientas de desarrollo**](#herramientas-de-desarrollo)
+    - [**Bootcamps, cursos online gratuitos y de pago**](#bootcamps-cursos-online-gratuitos-y-de-pago)
+    - [**Retos y ejercicios de preparacion para pruebas**](#retos-y-ejercicios-de-preparacion-para-pruebas)
+    - [**Foros y sitios de contribucion**](#foros-y-sitios-de-contribucion)
+    - [**Sitios para Aprender Jugando**](#sitios-para-aprender-jugando)
+    - [**Buscadores de libros y articulos**](#buscadores-de-libros-y-articulos)
+    - [**Revistas digitales**](#revistas-digitales)
+  - [**2. Datos**](#2-datos)
+    - [**Datasets**](#datasets)
+    - [**Banco de API's para consumir**](#banco-de-apis-para-consumir)
+  - [**3. Git y Github**](#3-git-y-github)
+  - [**4. SQL**](#4-sql)
+  - [**5. Desarrollo Web**](#5-desarrollo-web)
+    - [**Guias y retos**](#guias-y-retos)
+    - [**Herramientas Diseño**](#herramientas-diseño)
+    - [**Herramientas CSS**](#herramientas-css)
+    - [**Generadores de colores**](#generadores-de-colores)
+    - [**Banco de multimedia**](#banco-de-multimedia)
+    - [**Banco de iconos**](#banco-de-iconos)
+    - [**Tipografias**](#tipografias)
+    - [**Editores multimedia**](#editores-multimedia)
+    - [**Herramientas de testeo web**](#herramientas-de-testeo-web)
+    - [**Hosting y dominios**](#hosting-y-dominios)
+  - [**6. Desarrollo Movil**](#6-desarrollo-movil)
+  - [**7. Distintas Herramientas**](#7-distintas-herramientas)
+  - [**8. Herramientas ficha ADSO-6**](#8-herramientas-ficha-adso-6)
+  - [**9. IAs**](#9-ias)
+  - [**10. Sitios de empleos**](#10-sitios-de-empleos)
+  - [**11. Ofimatica**](#11-ofimatica)
+  - [**12. OSINT Y Ciberseguridad**](#12-osint-y-ciberseguridad)
+  - [**13. Lenguajes de programacion**](#13-lenguajes-de-programacion)
+    - [**JavaScript**](#javascript)
+    - [**PHP**](#php)
+    - [**Python**](#python)
+    - [**Java**](#java)
+    - [**C#**](#c)
 
 ***
 ***
 
 ## **1. Sitios de Aprendizaje**
-### **Guias**
+### **Guias y herramientas de desarrollo**
 *Mapas visuales, guias de estudio, herramientas de aprendizaje*
 - [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa visual sobre tutoriales de distintas tecnologias
 - [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias
@@ -58,9 +61,22 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Over Api](https://overapi.com/) - Cheat Sheets de varios lenguajes 
 - [Cheatography](https://cheatography.com/) - Cheat sheets de varios lenguajes 
 - [Quick Ref](https://quickref.me/) - Cheat sheets de varios lenguajes
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Editores de codigo en linea
-- [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
 - [Visu Algo](https://visualgo.net/en) - Visualizacion de estructuras de datos
+- [Xpather](http://xpather.com/) - Sitio para aprender sobre XPath
+
+### **Herramientas de desarrollo**
+*Herramientas varias de aprendizaje y desarrollo*
+- [Free For Matter](https://www.freeformatter.com/) - Diversas herramientas online
+- [Codi](https://codi.link/) - Editor en linea HTML + CSS + JS
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Editores de codigo en linea
+- [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo 
+- [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON 
+- [Json Lint](https://jsonlint.com/) - Validador JSON
+- [JsonPad](https://jsonpad.io/) - Almacenamiento JSON
+- [Json 2 C#](https://json2csharp.com/) - Convertidor de JSON a clases en distintos lenguajes 
+- [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON
+- [Quick Type](https://quicktype.io/) - Tipar respuestas JSON a otros lenguajes
+- [Free For Dev](https://free-for.dev/) - Coleccion de diversas herramientas
 
 ### **Bootcamps, cursos online gratuitos y de pago**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
@@ -178,6 +194,13 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - Juego para aprender CLI
 - [The Command Line Murders](https://github.com/veltman/clmystery) - Aventura para aprender CLI
 - [CSS Speedrun](https://css-speedrun.netlify.app/) - Juego para aprender CSS
+- [Sql PD](https://sqlpd.com/) - Aprender resolviendo misterios SQL
+- [Shape Method](https://shape.method.ac/) - Jugando con tipografias
+- [Designer Eye](https://www.supremo.co.uk/designers-eye/) - Juego para determinar el centro de una figura
+- [Pixact](https://pixact.ly/) - Juego para determinar tamaño de pixeles
+- [Bezier Game](https://bezier.method.ac/) - Juego para perfeccionar Pen tool
+- [Color Method](https://color.method.ac/) - Juego para adivinar un color en especifico
+- [Cant Unsee](https://cantunsee.space/) - Juego para seleccionar el diseño mas adecuado
 
 ### **Buscadores de libros y articulos**
 *todo lo referente a buscadores de libros, desbloquear de articulos en linea*
@@ -212,6 +235,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Byte Byte Go](https://blog.bytebytego.com/)
 - [Sons Of Hierarchies](https://sonsofhierarchies.com/)
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -278,6 +302,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Yahoo API](https://developer.yahoo.com/api/) - APIs de Yahoo
 - [Temp Mail API](https://temp-mail.org/en/api) - API para testear flujo de registros de correos temporales
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -298,6 +323,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Repositorios para aprender a usar Github 
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -337,6 +363,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [DB Fiddle](https://www.db-fiddle.com/) - Editor en linea SQL
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Retos de SQL
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -401,7 +428,16 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Web Dev Componentes](https://web.dev/patterns/components/) - Coleccion de componentes basicos
 - [Floating UI](https://floating-ui.com/) - Coleccion de componentes flotantes con codigo HTML, CSS y JS
 - [100L5](https://10015.io/) - Conjunto de herramientas de diseño
-
+- [Cofolios](https://www.cofolios.com/) - Coleccion de portafolios de distintons diseñadores
+- [Bestfolios](https://www.bestfolios.com/) - Coleccion de portafolios de distintos diseñadores
+- [Dribbble](https://dribbble.com/) - Coleccion de diseños
+- [Designspiration](https://www.designspiration.com/) - Coleccion de diseños
+- [Abduzeedo](https://abduzeedo.com/) - Blog de diseños minimalistas
+- [Gumroad](https://jesscheese.gumroad.com/l/cfqvh) - Coleccion de herramientas UI/UX
+- [Collect UI](https://collectui.com/) - Coleccion de diseños UI
+- [Behance](https://www.behance.net/) - Coleccion de diseños UI
+- [Relume](https://www.relume.io/) - Ayuda para construir diseños web
+  
 ### **Herramientas CSS**
 - [Ui Buttons](https://ui-buttons.web.app/) - Generador de diseño de botones 
 - [Shape Dividers](https://shapedividers.com) - Generador de divisores SVG 
@@ -435,6 +471,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Water CSS](https://watercss.kognise.dev/) - Libreria de estilos CSS
 - [Skeleton CSS](https://getskeleton.com/) - Libreria de estilos CSS
 - [Layout CSS](https://layout.bradwoods.io/) - Generador de Layouts con CSS
+- [Hype 4 Academy](https://hype4.academy/tools) - Generador de elements especiales
+- [UI Ball](https://uiball.com/loaders/) - Generador de loaders
 
 ### **Generadores de colores**
 - [ColorHUB](https://colorhub.vercel.app/select-palette) - Paleta de colores
@@ -446,6 +484,9 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Color Name](https://www.color-name.com/) - Buscador de colores por codigo HEX, asignacion de nombre y otros detalles
 - [Contrast-Ratio](https://contrast-ratio.com/#%23eeff00-on-%23000000) - Analisis de contraste
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Analisis de contraste
+- [Happy Hues](https://www.happyhues.co/) - Conjunto de paletas de colores en contexto
+- [Colors Muzli](https://colors.muz.li/) - Paleta de colores en contexto
+- [Huemint](https://huemint.com/) - Paleta de colores con ayuda de machine learning
 
 ### **Banco de multimedia**
 - [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes 
@@ -465,7 +506,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Freepik](https://www.freepik.es/) - Stock de imagenes 
 - [Pexels](https://www.pexels.com/es-es/) - Stock de imagenes 
 - [Stock Vault](https://www.stockvault.net/) - Stock de imagenes 
-- [SVG Repo](https://www.svgrepo.com/) - Banco de SVG vectores e imagenes 
 - [Mockup tree](https://mockuptree.com/) - Stock de Mockups 
 - [Pixabay](https://pixabay.com/es/) - Coleccion de imagenes 
 - [World Vector Logo](https://worldvectorlogo.com/) - Descarga de logos vectoriales de distintas marcas
@@ -474,6 +514,8 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Mix Kit](https://mixkit.co/) - Banco de material multimedia para usar en videos
 - [Free Sound](https://freesound.org/) - Banco de efectos de sonido
 - [Sketch Valley](https://sketchvalley.com/) - Banco de ilustraciones
+- [Use Animations](https://useanimations.com/) - Generador SVG de animaciones
+- [Patter Monster](https://es.pattern.monster/) - Generador de patrones visuales
 
 ### **Banco de iconos**
 - [Lord Icon](https://lordicon.com/) - Coleccion de iconos 
@@ -485,13 +527,23 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Icon-Icons](https://icon-icons.com/) - Variedad de iconos 
 - [Iconer](https://iconer.app/) - Coleccion iconos
 - [Tabler Icons](https://tabler-icons.io/) - Coleccion gratuita y open source de iconos
+- [SVG Repo](https://www.svgrepo.com/) - Banco de iconos en SVG
+- [Unicorn Icons](https://unicornicons.com/) - Banco de iconos animados
+- [Nerd Fonts](https://www.nerdfonts.com/)
+- [Mage Icons](https://mageicons.com/)
+- [Iconsax](https://iconsax.io/)
+- [Feather Icons](https://feathericons.com/)
+- [Icon Scout](https://iconscout.com/)
 
-### **Fuentes de texto**
+### **Tipografias**
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto 
 - [My font](https://www.myfonts.com/pages/whatthefont) - Identificar el nombre de la fuente de texto 
 - [Fontjoy](https://fontjoy.com/) - Generador de fuentes de texto 
 - [Be Fonts](https://befonts.com/) - Tipografias para descargar gratuitas
 - [Google Fonts](https://fonts.google.com/) - Tipografias de Google para descargar
+- [Fontesk](https://fontesk.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Urban Fonts](https://www.urbanfonts.com/)
 
 ### **Editores multimedia**
 *editores de imagenes, animaciones, videos, audio*
@@ -514,6 +566,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Th Story Shack](https://thestoryshack.com/es/) - Generador de nombres e historias 
 - [Fantasy Name](https://www.fantasynamegenerators.com/) - Generador nombres de fantasia 
 - [Loreteller](https://loreteller.notion.site/loreteller/Loreteller-31be2801a5db417598a73eb5b2908ecc) - Recursos creacion de personajes
+- [Pocket Bard](https://www.pocketbard.app/) - Reproductor de audios y caracteristicas adicionales
 - [SVGator](https://www.svgator.com/) - Sitio web para la animacion de archivos SVG 
 - [UVRS](https://ultimatevocalremover.com/) - Sitio para separar los STEMS de una cancion, como la voz , guitarra, etc.
 - [Auto Draw](https://www.autodraw.com/) - Generador de dibujos a partir de bosquejos 
@@ -523,8 +576,12 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Haikei](https://haikei.app/) - Editor de fondos en formato SVG o PNG
 - [Shots](https://shots.so/) - Editor de Mockups gratuito
 - [Story Set](https://storyset.com/) - Generador de ilustraciones personalizadas
+- [Get Loaf](https://getloaf.io/) - Generador de ilustraciones personalizadas
+- [Ira Design](https://iradesign.io/) - Generador de ilustraciones personalizadas
+- [Landing Space](https://landing.space/) - Editor de imagenes similar a canvas
+- [Wix Studio](https://es.wix.com/studio)
 
-### **Herramientas de testeo y desarrollo**
+### **Herramientas de testeo web**
 - [Meta Tags](https://metatags.io/) - Generador de Meta Tags 
 - [Page Speed](https://pagespeed.web.dev/) - Herramienta para analizar el tiempo de carga de paginas y diagnosticos en diseño web
 - [GT Metrix](https://gtmetrix.com/) - Herramienta para analizar el rendimiento de paginas 
@@ -536,6 +593,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Open Status](https://www.openstatus.dev/) - Herramienta para monitorizar los servicios de un sitio web
 - [JAM](https://chrome.google.com/webstore/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci) - Extension Chrome para generar reportes de error detallados
 - [Google Search Console Tool](https://search.google.com/search-console/about) - Herramienta de google que brinda infor sobre el trafico de un sitio
+- [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
 
 ### **Hosting y dominios**
 *sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
@@ -560,7 +618,10 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Planet Scale](https://planetscale.com/) - Hosting gratuito y de pago para bases de datos
 - [Colombia Hosting](https://www.colombiahosting.com.co/)
 - [Go Daddy](https://www.godaddy.com/es)
+- [Deno](https://deno.com/)
+- [Supabase](https://supabase.com/)
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -571,7 +632,9 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Scrnshts](https://scrnshts.club/) - Capturas de pantalla de varias aplicaciones para explorar diseños 
 - [Appsheet](https://about.appsheet.com/home/) - Solucion a distintas situaciones sin necesidad de usar codigo 
 - [Learn Mobile](https://learnmobile.design/) - Guia de aprendizaje diseño movil
+- [App Screens](https://appscreens.com/) - Generador de capturas de pantallas para apps 
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -582,13 +645,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Notion](https://www.notion.so) - Manejo de proyectos 
 - [Data Viz](https://datavizproject.com/) - Distintas Visualizaciones de datos 
 - [Construct](https://www.construct.net/en) - Diseño y creacion de videojuegos en Construct 
-- [Refactoring](https://refactoring.guru/es) - Refactorizacion de codigo 
-- [Json Crack](https://jsoncrack.com/) - Visualizador de archivos JSON 
-- [Json Lint](https://jsonlint.com/) - Validador JSON
-- [JsonPad](https://jsonpad.io/) - Almacenamiento JSON
-- [Json 2 C#](https://json2csharp.com/) - Convertidor de JSON a clases en distintos lenguajes 
-- [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON
-- [Quick Type](https://quicktype.io/) - Tipar respuestas JSON a otros lenguajes
 - [OEIS](https://oeis.org/) - Buscador de Sucesiones Y series Matematicas 
 - [Insecam](http://www.insecam.org/en/byrating/) - Live Camaras sin proteccion 
 - [Shodan](https://www.shodan.io/) - Buscador de dispositivos conectados a internet 
@@ -606,22 +662,30 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Speedwrite](https://speedwrite.com/) - Generadores de texto 
 - [Descript](https://www.descript.com/overdub) - Text-to-speech model of your voice 
 - [Anthiago](https://anthiago.com/) - Distintas herramientas, Convierte videos en texto 
-- [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas 
-- [Face Check](https://facecheck.id/) - Buscar perfil redes sociales a partir de una foto 
+- [Airtable](https://www.airtable.com) - Organizador de contenido online para distintas plataformas  
 - [Connected Papers](https://www.connectedpapers.com/) - Buscador de papers 
 - [Dictanote](https://dictanote.co/) - Convierte audios en texto 
 - [Software NASA](https://software.nasa.gov/) - Catalogo de software opensource de la NASA 
 - [Busy Simulator](https://busysimulator.com/) - Generador de sonidos de aplicaciones para simular estar ocupado
 - [Shortwave](http://websdr.ewi.utwente.nl:8901/) - Explorador de ondas de radio
 - [DNS Leak test](https://www.dnsleaktest.com/) - Prueba a VPN sobre posibles fugas de trafico
-- [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
 - [What 3 woords](https://what3words.com/) - Proyecto que divide el mapa en cuadros 3mx3m y cada bloque se identifica con 3 palabras en español
 - [Get Data Recovery](https://www.runtime.org/data-recovery-software.htm) - Herramienta de pago para recuperar datos eliminados
 - [Test Disk](https://www.cgsecurity.org/wiki/TestDisk_Descargar) - Herramienta gratuita para recuperar datos eliminados
 - [Recuva](https://www.ccleaner.com/es-es/recuva) - Herramienta de CCleaner para recuperar datos eliminados
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Herramienta para analizar la huella digital
 - [Grabify](https://grabify.link/) - Link para tomar la IP de quien entra
+- [Cognalys](https://cognalys.com/) — Verificación gratuita de números de teléfono móvil a través de un método innovador y confiable en lugar de utilizar una pasarela de SMS. 10 intentos gratuitos y 15 verificaciones al día.
+- [numverify](https://numverify.com/) — Validación global de números de teléfono y búsqueda mediante una API JSON. 250 solicitudes de API al mes.
+- [veriphone](https://veriphone.io/) — Verificación global de números de teléfono de forma gratuita mediante una API JSON rápida y confiable. 1000 solicitudes al mes.
+- [SMS Receive Free](https://smsreceivefree.com/) - Plataforma con numeros virtuales desechables para recibir SMS
+- [HTTPSMS](https://sandbox.httpsms.com) - Plataforma para enviar y recibir SMS gratuitos
+- [Comp Sci Lib](https://www.compscilib.com/) - Libreria online matematicas
+- [Matrix Calc](https://matrixcalc.org/) - Libreria online matematicas
+- [Symbolab](https://es.symbolab.com/) - Libreria online matematicas
+- [Wolfram Alpha](https://www.wolframalpha.com/) - Libreria online matematicas
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -639,6 +703,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
 - [SQL compiler](https://www.programiz.com/sql/online-compiler/) - Compilador Online SQL para practicas
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -694,7 +759,14 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [10 Web](https://10web.io/) - AI asistente para generador de sitios web
 - [Flux](https://www.flux.ai/) - AI para generar circuitos electronicos
 - [Gamma](https://gamma.app/) - AI generadora de contenidos para presentaciones
+- [JSON Data AI](https://www.jsondataai.com/) - AI generadora de datos JSON para pruebas
+- [PixCap](https://pixcap.com/) - Ilustraciones gratuitas y de pago generadas por IA
+- [Recraft](https://app.recraft.ai/community) - AI Generadora de arte vectorizado
+- [Clip Drop](https://clipdrop.co/) - AI para editar fotos
+- [Ideogram](https://ideogram.ai/login) - AI generadora de logos
 
+**[⬆️ Regreso al indice](##indice)**
+***
 ***
 
 ## **10. Sitios de empleos**
@@ -711,6 +783,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Remote Rocketship](https://www.remoterocketship.com/)
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -727,6 +800,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Simple PDF](https://simplepdf.eu/) - Editor online de archivos PDF's gratuito 
 - [Formula BOT](https://formulabot.com/) - Generador de formulas de excel
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
@@ -769,11 +843,17 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Repositorio Software para ingenieria inversa de la NSA
 - [Code Red](https://codered.eccouncil.org/) - Cursos de ciberseguridad
 - [Hack Heck](https://hackcheck.io/ip-lookup) - Analiza si una IP ha estado involucrada en filtraciones de datos
+- [Face Check](https://facecheck.id/) - Buscar perfil redes sociales a partir de una foto
+- [DNS Dumpster](https://dnsdumpster.com/) - Herramienta de investigación de dominios GRATUITA que puede descubrir hosts relacionados con un dominio. Encontrar hosts visibles desde la perspectiva de un atacante es una parte importante del proceso de evaluación de seguridad.
+- [CVE](https://cve.mitre.org/index.html) - Listado publico de vulnerabilidades
+- [Full Hunt](https://fullhunt.io/) - Descubrir area de ataque
+- [Grey Noise](https://www.greynoise.io/)
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
 
-## **13. LENGUAJES DE PROGRAMACIÓN**
+## **13. Lenguajes de programacion**
 ### **JavaScript**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion JavaScript*
 - [Lenguaje JS](https://lenguajejs.com/) - Tutoriales sobre desarrollo web y sus diversas tecnologias 
@@ -832,6 +912,7 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 - [JavaScript Projects Playlist - Florin Pop](https://www.youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth)
 - [JavaScript Projects Playlist - Zlad Mohamed](https://www.youtube.com/playlist?list=PLJoT4UFj-n7nL9D2ZCBRismDxN_oHQBl8)
 - [JavaScript Projects Playlist - Code With Hossein](https://www.youtube.com/playlist?list=PL5a_Yttx9bWXapYCTkqh-jTOKuNkE20KZ)
+- [UI Shadcn](https://ui.shadcn.com/) - Creacion de componentes en React
 
 ### **PHP**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion PHP*
@@ -955,5 +1036,6 @@ Esta es una recopilacion de recursos encontrados en redes, videos y distintos si
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion C#*
 - [Do Factory](https://dofactory.com/net/design-patterns) - Patrones de desarrollo C# y tutoriales 
 
+**[⬆️ Regreso al indice](##indice)**
 ***
 ***
