@@ -235,7 +235,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Byte Byte Go](https://blog.bytebytego.com/)
 - [Sons Of Hierarchies](https://sonsofhierarchies.com/)
 
-**[⬆️ Regreso al indice](##indice)**
+**[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
