@@ -31,13 +31,13 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
     - [**Hosting y dominios**](#hosting-y-dominios)
   - [**6. Desarrollo Movil**](#6-desarrollo-movil)
   - [**7. Distintas Herramientas**](#7-distintas-herramientas)
-  - [**8. Herramientas ficha ADSO-6**](#8-herramientas-ficha-adso-6)
-  - [**9. IAs**](#9-ias)
-  - [**10. Sitios de empleos**](#10-sitios-de-empleos)
-  - [**11. Ofimatica**](#11-ofimatica)
-  - [**12. OSINT Y Ciberseguridad**](#12-osint-y-ciberseguridad)
-  - [**13. Lenguajes de programacion**](#13-lenguajes-de-programacion)
+  - [**8. IAs**](#8-ias)
+  - [**9. Sitios de empleos**](#9-sitios-de-empleos)
+  - [**10. Ofimatica**](#10-ofimatica)
+  - [**11. OSINT Y Ciberseguridad**](#11-osint-y-ciberseguridad)
+  - [**12. Lenguajes de programacion**](#12-lenguajes-de-programacion)
     - [**JavaScript**](#javascript)
+      - [**React**](#react)
     - [**PHP**](#php)
     - [**Python**](#python)
     - [**Java**](#java)
@@ -63,6 +63,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Quick Ref](https://quickref.me/) - Cheat sheets de varios lenguajes
 - [Visu Algo](https://visualgo.net/en) - Visualizacion de estructuras de datos
 - [Xpather](http://xpather.com/) - Sitio para aprender sobre XPath
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Guias en distintos lenguajes de programacion
+- [One Day One Language](https://github.com/mouredev/one-day-one-language) - Guias y videotutoriales basicos de varios lenguajes de programacion
 
 ### **Herramientas de desarrollo**
 *Herramientas varias de aprendizaje y desarrollo*
@@ -77,6 +79,10 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Json Editor online](https://jsoneditoronline.org/) - Editor de archivos JSON
 - [Quick Type](https://quicktype.io/) - Tipar respuestas JSON a otros lenguajes
 - [Free For Dev](https://free-for.dev/) - Coleccion de diversas herramientas
+- [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas 
+- [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados 
+- [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados
+- [Dev Toys](https://devtoys.app/) - App para distintas herramientas Dev de windows
 
 ### **Bootcamps, cursos online gratuitos y de pago**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
@@ -157,6 +163,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Frontend Practice](https://www.frontendpractice.com/) - Pagina con retos en desarrollo web
 - [Tech Interview Hanbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) - Tecnicas y patrones de ejercicios para pruebas de entrevistas
 - [Project Learn](https://projectlearn.io/) - Aprendizaje con retos de distintas tecnologias
+- [Goodbrief](https://goodbrief.io/) - Generador de pruebas tecnicas
 
 ### **Foros y sitios de contribucion**
 *¿Tienes alguna inquietud? de seguro alguien mas ya la resolvio, pregunta en estos sitios*
@@ -170,7 +177,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 ### **Sitios para Aprender Jugando**
 *Minijuegos para aprender algunas tecnologias*
 - [Code Combat](https://codecombat.com/) - Sitio para aprender Python, JavaScript y C++ 
-- [CheckiO](https://checkio.org) - Sitio para aprender Python y JavaScript 
+- [Checkio](https://checkio.org) - Sitio para aprender Python y JavaScript 
 - [Schemaverse](https://schemaverse.com) - Sitio para aprender PostgreSQL 
 - [Code Monkey](https://codemonkey.com) - Sitio para el aprendizaje de lenguajes de programacion para niños 
 - [Scratch](https://scratch.mit.edu/) - Lenguaje de programacion facil de entender y crear aplicaciones animadas para niños 
@@ -201,6 +208,11 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Bezier Game](https://bezier.method.ac/) - Juego para perfeccionar Pen tool
 - [Color Method](https://color.method.ac/) - Juego para adivinar un color en especifico
 - [Cant Unsee](https://cantunsee.space/) - Juego para seleccionar el diseño mas adecuado
+- [Figma Ninja](https://www.figma.com/community/file/769694576496801916/figma-ninja-speed-up-your-figma-skills) - Juego en Figma para aprender los conceptos basicos de Figma
+- [Crypto Zombies](https://cryptozombies.io/es/) - Juego para aprender a programar Ethereum
+- [JS Robot](https://lab.reaal.me/jsrobot/) - Juego para aprender JS
+- [Elevator Saga](https://play.elevatorsaga.com/) - Juego para aprender JS
+- [Warrior JS](https://warriorjs.com/) - Juego para aprender JS
 
 ### **Buscadores de libros y articulos**
 *todo lo referente a buscadores de libros, desbloquear de articulos en linea*
@@ -301,6 +313,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Count API](https://countapi.xyz/) - Contadores para trackear visitas de paginas
 - [Yahoo API](https://developer.yahoo.com/api/) - APIs de Yahoo
 - [Temp Mail API](https://temp-mail.org/en/api) - API para testear flujo de registros de correos temporales
+- [Fake Store API](https://fakestoreapi.com/) - API de datos falsos para un E-commerce
 
 **[⬆️ Regreso al indice](##indice)**
 ***
@@ -322,6 +335,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Gitignore](https://www.toptal.com/developers/gitignore) - Generador de archivos Gitignote 
 - [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Repositorios para aprender a usar Github 
+- [Beginners Guide](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control) - Articulo guia basica sobre GIT
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -384,12 +398,18 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Lenguaje HTML](https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/) - Tabla Periodica para aprender sobre las etiquetas HTML
 - [Web Dev](https://web.dev/learn/) - Aprende Tecnologias Web con Chrome
 - [UXcel](https://uxcel.com/) - Sitio para aprender UX
-- [UXTools](https://uxtools.co/) - Curso sobre UX
+- [UXTools](https://uxtools.co/) - Curso sobre UX, tiene una seccion de Retos para practicas
 - [Laws UX](https://lawsofux.com/) - Coleccion de buenas practicas UX
 - [Kickass UX](https://www.kickassux.com/) - Aprendizaje de tecnicas UX
 - [Learn UX](https://learnux.io/) - Videocursos para aprender UI y UX
 - [Design Better](https://www.designbetter.co/) - Buenas practicas para el diseño
 - [100 Days of CSS](https://100dayscss.com/) - Retos para aprender CSS
+- [Flux Academy](https://www.flux-academy.com/) - Academia de diseño web
+- [Bezier Curves](https://blog.richardekwonye.com/bezier-curves) - Articulo sobre animacion y SVG
+- [UX Challenges](https://www.uxchallenge.co/) - Generador de retos UX
+- [Imprint](https://imprint.li/100days/index.php/100-days-product-design/) - Retos para 100 dias de Diseño de productos UX
+- [Product Design Interview](https://productdesigninterview.com/) - Libros sobre UX
+- [Frontend Developer](https://github.com/mrcodedev/frontend-developer-resources) - Guia para aprender desarrollo web
 
 ### **Herramientas Diseño**
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web
@@ -437,7 +457,11 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Collect UI](https://collectui.com/) - Coleccion de diseños UI
 - [Behance](https://www.behance.net/) - Coleccion de diseños UI
 - [Relume](https://www.relume.io/) - Ayuda para construir diseños web
-  
+- [Check List](https://www.checklist.design/) - Check list sobre diseños
+- [Design System Check List](https://www.designsystemchecklist.com/) - Check list sobre diseños Opensource
+- [Balsamiq](https://balsamiq.com/) - Software para diseñar interfaces de usuario
+- [Marvel APP](https://marvelapp.com/) - Sitio para diseño de interfaces
+
 ### **Herramientas CSS**
 - [Ui Buttons](https://ui-buttons.web.app/) - Generador de diseño de botones 
 - [Shape Dividers](https://shapedividers.com) - Generador de divisores SVG 
@@ -473,6 +497,11 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Layout CSS](https://layout.bradwoods.io/) - Generador de Layouts con CSS
 - [Hype 4 Academy](https://hype4.academy/tools) - Generador de elements especiales
 - [UI Ball](https://uiball.com/loaders/) - Generador de loaders
+- [CSS-Loaders](https://css-loaders.com/) - Generador de loaders
+- [CSS atrr Function](https://www.codewithshripal.com/playground/css/use-cases-of-attr-function) - Ejemplo de como usar la funcion atrr
+- [Login Form animation](https://codesandbox.io/s/login-form-animation-jpdrxt) - Ejemplo de como usar animaciones en un formulario
+- [CSS-Selectors](https://fffuel.co/css-selectors/) - Selectores CSS
+- [Selectors info](https://selectors.info/) - Descripcion sobre distintas lineas aleatorias de CSS con selectores
 
 ### **Generadores de colores**
 - [ColorHUB](https://colorhub.vercel.app/select-palette) - Paleta de colores
@@ -487,6 +516,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Happy Hues](https://www.happyhues.co/) - Conjunto de paletas de colores en contexto
 - [Colors Muzli](https://colors.muz.li/) - Paleta de colores en contexto
 - [Huemint](https://huemint.com/) - Paleta de colores con ayuda de machine learning
+- [My Color Space](https://mycolor.space/) - Selecciona colores a partir de un color dominante
+- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores  
 
 ### **Banco de multimedia**
 - [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes 
@@ -684,30 +715,14 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Matrix Calc](https://matrixcalc.org/) - Libreria online matematicas
 - [Symbolab](https://es.symbolab.com/) - Libreria online matematicas
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Libreria online matematicas
+- [Excalidraw](https://excalidraw.com/) - Tablero virtual
+- [Idroo](https://app.idroo.com/) - Tablero virtual
 
 **[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
-## **8. Herramientas ficha ADSO-6**
-*diversas herramientas utilizadas para el desarrollo de la ficha ADSO-6*
-- [Miro](https://miro.com/app/dashboard/) - Herramienta para la creacion de diagramas de flujo (flowchart) y otros diagramas 
-- [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados 
-- [Curso PSEINT](https://youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798) - Videocurso para aprender a programar y usar el programa PSEINT, desde los conceptos basicos hasta las opciones avanzadas que brinda esta herramienta 
-- [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados 
-- [Excalidraw](https://excalidraw.com/) - Pagina para diseñar interfaces de usuario 
-- [Balsamiq](https://balsamiq.com/) - Software para diseñar interfaces de usuario 
-- [Marvel APP](https://marvelapp.com/) - Sitio para diseño de interfaces
-- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
-- [Firefly](https://firefly.adobe.com/) - IA para generar imagenes
-- [Figma](https://www.figma.com/) - Sitio para diseño de interfaces
-- [SQL compiler](https://www.programiz.com/sql/online-compiler/) - Compilador Online SQL para practicas
-
-**[⬆️ Regreso al indice](#indice)**
-***
-***
-
-## **9. IAs**
+## **8. IAs**
 *Distintas inteligencias artificales*
 - [Stable-Difussion](https://github.com/cmdr2/stable-diffusion-ui) - AI para generar imagenes (requiere tarjeta de grafica dedicada) 
 - [Dall-e-2](https://openai.com/dall-e-2/) - AI para generar imagenes online, creditos limitados gratis 
@@ -764,12 +779,17 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Recraft](https://app.recraft.ai/community) - AI Generadora de arte vectorizado
 - [Clip Drop](https://clipdrop.co/) - AI para editar fotos
 - [Ideogram](https://ideogram.ai/login) - AI generadora de logos
+- [Bing Create](https://www.bing.com/create) - AI generadora de imagenes y logos
+- [Looka](https://looka.com/) - AI generadora de logos
+- [Foro Prompt](https://foroprompt.com/) - Coleccion de prompts para IAs
+- [Firefly](https://firefly.adobe.com/) - AI para generar imagenes
+- [Vanna](https://vanna.ai/) - AI que se entrena sobre tu base de datos genera consultas personalizadas
 
 **[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
-## **10. Sitios de empleos**
+## **9. Sitios de empleos**
 *Busqueda de ofertas de trabajo*
 - [Get on Board](https://www.getonbrd.com/)
 - [X-Team](https://x-team.com/)
@@ -787,7 +807,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 ***
 ***
 
-## **11. Ofimatica**
+## **10. Ofimatica**
 *Office, herramientas para el dia a dia y convertidores*
 - [Excel Formulator](https://excelformulator.com/) - Describe una formula y se generara 
 - [Excel Exercises](https://excelexercises.com/) - Curso y ejercicios de Excel 
@@ -804,7 +824,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 ***
 ***
 
-## **12. OSINT Y Ciberseguridad**
+## **11. OSINT Y Ciberseguridad**
 *Herramientas de hacking y pentesting*
 - [Certificaciones Cibersguridad](https://pauljerimy.com/security-certification-roadmap/) - Roadmap de ciberseguridad de Paul Jerimy
 - [PortSwigger](https://portswigger.net/web-security) - Laboratorio de practicas para ciberseguridad
@@ -848,12 +868,23 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [CVE](https://cve.mitre.org/index.html) - Listado publico de vulnerabilidades
 - [Full Hunt](https://fullhunt.io/) - Descubrir area de ataque
 - [Grey Noise](https://www.greynoise.io/)
+- [Open Door](https://github.com/stanislav-web/OpenDoor) - Scanner de puntos de acceso
+- [SSRF Exploit](https://github.com/errorfiathck/ssrf-exploit) - Exploit para Server-side request forgery
+- [90 Days of Cybersecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Guia de 90 dias para aprender ciberseguridad
+- [Telegram Get Remote IP](https://github.com/n0a/telegram-get-remote-ip) - Adquirir IP  del interlocutor de un mensaje por telegram
+- [Xss Vibes](https://github.com/faiyazahmad07/xss_vibes) - Herramienta para automatizar XSS
+- [Session Hijacking](https://github.com/doyensec/Session-Hijacking-Visual-Exploitation) - Inserccion maliciosa JS
+- [Ethical Hacker](https://skillsforall.com/course/ethical-hacker?courseLang=en-US) - Curso  de CISCO sobre hacking etico
+- [OSINT TOOLS](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists/blob/main/OSINTTOOLS.png) - Resumen sobre algunas herramientas OSINT
+- [Ethical Hacking Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Laboratorios para aprener Hacking Etico
+- [Non Typical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - Guia sobre distintas tecnias OSINT
+- [GitSint](https://github.com/N0rz3/GitSint) - Informacion sobre una cuenta de Github
 
 **[⬆️ Regreso al indice](#indice)**
 ***
 ***
 
-## **13. Lenguajes de programacion**
+## **12. Lenguajes de programacion**
 ### **JavaScript**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion JavaScript*
 - [Lenguaje JS](https://lenguajejs.com/) - Tutoriales sobre desarrollo web y sus diversas tecnologias 
@@ -912,7 +943,11 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [JavaScript Projects Playlist - Florin Pop](https://www.youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth)
 - [JavaScript Projects Playlist - Zlad Mohamed](https://www.youtube.com/playlist?list=PLJoT4UFj-n7nL9D2ZCBRismDxN_oHQBl8)
 - [JavaScript Projects Playlist - Code With Hossein](https://www.youtube.com/playlist?list=PL5a_Yttx9bWXapYCTkqh-jTOKuNkE20KZ)
+- [JavaScript 30](https://javascript30.com/) - 30 days de proyectos JS
+
+#### **React**
 - [UI Shadcn](https://ui.shadcn.com/) - Creacion de componentes en React
+- [MUI](https://mui.com/) - React UI tools
 
 ### **PHP**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion PHP*
@@ -1026,6 +1061,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Python VScode](https://learn.microsoft.com/es-es/training/modules/python-install-vscode/) - Curso Python de mi Microsoft 
 - [50 APPS Python](https://github.com/qxresearch/qxresearch-event-1) - Repositorio con 50 codigos de pocas lineas en Python
 - [Automate The Boring Stuff](https://automatetheboringstuff.com/)
+- [Beginner Python ](https://learn.microsoft.com/es-es/training/paths/beginner-python/) - Curso de Microsoft
 
 ### **Java**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion Java*
