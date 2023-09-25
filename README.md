@@ -1062,6 +1062,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [50 APPS Python](https://github.com/qxresearch/qxresearch-event-1) - Repositorio con 50 codigos de pocas lineas en Python
 - [Automate The Boring Stuff](https://automatetheboringstuff.com/)
 - [Beginner Python ](https://learn.microsoft.com/es-es/training/paths/beginner-python/) - Curso de Microsoft
+- [Superfastpython](https://superfastpython.com) - Sitio dedicado a la programación concurrente en Python (Multiprocessing, Threading y Asyncio)
+- [Polars](https://pola-rs.github.io/polars-book/user-guide/) - Documentación de Polars
 
 ### **Java**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion Java*
