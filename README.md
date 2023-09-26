@@ -517,7 +517,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Colors Muzli](https://colors.muz.li/) - Paleta de colores en contexto
 - [Huemint](https://huemint.com/) - Paleta de colores con ayuda de machine learning
 - [My Color Space](https://mycolor.space/) - Selecciona colores a partir de un color dominante
-- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores  
+- [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
+- [Colour Palette Generator](https://www.colourpalettegenerator.com/) - Paleta de colores
 
 ### **Banco de multimedia**
 - [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes 
