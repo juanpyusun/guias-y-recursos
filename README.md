@@ -5,7 +5,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [**Coleccion de recursos y paginas**](#coleccion-de-recursos-y-paginas)
   - [**Indice**](#indice)
   - [**1. Sitios de Aprendizaje**](#1-sitios-de-aprendizaje)
-    - [**Guias y herramientas de desarrollo**](#guias-y-herramientas-de-desarrollo)
+    - [**Guias de estudio**](#guias-de-estudio)
     - [**Herramientas de desarrollo**](#herramientas-de-desarrollo)
     - [**Bootcamps, cursos online gratuitos y de pago**](#bootcamps-cursos-online-gratuitos-y-de-pago)
     - [**Retos y ejercicios de preparacion para pruebas**](#retos-y-ejercicios-de-preparacion-para-pruebas)
@@ -47,7 +47,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 ***
 
 ## **1. Sitios de Aprendizaje**
-### **Guias y herramientas de desarrollo**
+### **Guias de estudio**
 *Mapas visuales, guias de estudio, herramientas de aprendizaje*
 - [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa visual sobre tutoriales de distintas tecnologias
 - [Roadmap](https://roadmap.sh/) - Mapa conceptual sobre el camino que seguir para aprender tecnologias
@@ -65,6 +65,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Xpather](http://xpather.com/) - Sitio para aprender sobre XPath
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Guias en distintos lenguajes de programacion
 - [One Day One Language](https://github.com/mouredev/one-day-one-language) - Guias y videotutoriales basicos de varios lenguajes de programacion
+- [Tuts Make](https://www.tutsmake.com/) - Tutoriales de distintos lenguajes de programacion
 
 ### **Herramientas de desarrollo**
 *Herramientas varias de aprendizaje y desarrollo*
