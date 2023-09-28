@@ -84,6 +84,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [PSEINT](https://pseint.sourceforge.net/) - Herramienta para la creacion de Pseudocodigo y a partir de el generar un diagrama de flujo, ademas permite ejecutarlo y probar los resultados 
 - [DIA](http://dia-installer.de/index.html.es) - Software para dibujar diagramas estructurados
 - [Dev Toys](https://devtoys.app/) - App para distintas herramientas Dev de windows
+- [Bcrypt Generator](https://bcrypt-generator.com/) - Encriptador y desencriptador Bcrypt
 
 ### **Bootcamps, cursos online gratuitos y de pago**
 *Sitios con cursos varios y recursos para el aprendizaje de programacion y desarrollo de software*
