@@ -654,6 +654,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Go Daddy](https://www.godaddy.com/es)
 - [Deno](https://deno.com/)
 - [Supabase](https://supabase.com/)
+- [FLY](https://fly.io/)
 
 **[⬆️ Regreso al indice](#indice)**
 ***
