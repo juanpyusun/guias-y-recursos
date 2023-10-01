@@ -39,6 +39,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
     - [**JavaScript**](#javascript)
       - [**React**](#react)
     - [**PHP**](#php)
+      - [**Laravel**](#laravel)   
     - [**Python**](#python)
     - [**Java**](#java)
     - [**C#**](#c)
@@ -986,6 +987,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Object Oriented PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 - [PHP OOP Basics Full Course](https://www.youtube.com/playlist?list=PLY3j36HMSHNUfTDnDbW6JI06IrkkdWCnk)
 - [Advanced PHP](https://www.youtube.com/playlist?list=PLu4-mSyb4l4SlKcO51aLtyiuOmlEuojvZ)
+
+#### **Laravel**
 - [Laravel From Scratch 2022 | 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY&ab_channel=TraversyMedia)
 - [Get Started With Laravel | FREE COURSE](https://www.youtube.com/watch?v=AGE3wRKljkw&ab_channel=EnvatoTuts%2B)
 - [React + Laravel Full-stack Application | Build and Deploy](https://www.youtube.com/watch?v=qJq9ZMB2Was&ab_channel=TheCodeholic)
@@ -999,7 +1002,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia)
 - [Laravel 8 tutorial - what is laravel | Introduction](https://www.youtube.com/watch?v=0urHFBFHsLc&list=PL8p2I9GklV46dciS4GDzBFHBi0JVIbnzT&ab_channel=CodeStepByStep)
 - [Laravel 9 Tutorial for Beginners | How to Learn Laravel 9 | Complete Laravel 9 Tutorial in 2022](https://www.youtube.com/watch?v=2mqsVzgsV_c&ab_channel=CodeWithDary)
-- [Laracasts](https://laracasts.com/) - Pagina para aprender sobre Laravel (PHP)
+- [Laracasts](https://laracasts.com/) - Pagina para aprender sobre Laravel
 
 ### **Python**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion Python*
