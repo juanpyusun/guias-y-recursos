@@ -413,6 +413,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Imprint](https://imprint.li/100days/index.php/100-days-product-design/) - Retos para 100 dias de Diseño de productos UX
 - [Product Design Interview](https://productdesigninterview.com/) - Libros sobre UX
 - [Frontend Developer](https://github.com/mrcodedev/frontend-developer-resources) - Guia para aprender desarrollo web
+- [Open Graph Protocol](https://ogp.me/) - Metadatos para la etiqueta Head que se puedan ver en otras redes sociales adecuadamente el contenido
 
 ### **Herramientas Diseño**
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web
