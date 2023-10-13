@@ -957,6 +957,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 
 ### **PHP**
 *Documentacion, cursos y ayudas sobre el lenguaje de programacion PHP*
+- [PHP The Right Way](https://phptherightway.com/) - Aprender PHP de la manera correcta
+- [The PHP League](https://github.com/thephpleague) - Repositorio de codigos PHP con buenas practicas
 - [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_)
 - [Curso completo de PHP desde cero a experto](https://www.youtube.com/playlist?list=PLH_tVOsiVGzmnl7ImSmhIw5qb9Sy5KJRE)
 - [Curso PHP 8 y MySQL 8 desde cero](https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUSqWuyoGJMZL6xldXw6hIg)
