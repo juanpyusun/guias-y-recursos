@@ -524,6 +524,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [My Color Space](https://mycolor.space/) - Selecciona colores a partir de un color dominante
 - [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
 - [Colour Palette Generator](https://www.colourpalettegenerator.com/) - Paleta de colores
+- [UI Colors](https://uicolors.app/create) - Generador aleatorio de colores con muestra de interfaces y elementos
 
 ### **Banco de multimedia**
 - [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes 
