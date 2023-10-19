@@ -168,6 +168,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Tech Interview Hanbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) - Tecnicas y patrones de ejercicios para pruebas de entrevistas
 - [Project Learn](https://projectlearn.io/) - Aprendizaje con retos de distintas tecnologias
 - [Goodbrief](https://goodbrief.io/) - Generador de pruebas tecnicas
+- [Code Signal](https://codesignal.com/) - Pruebas tecnicas y otros recursos
 
 ### **Foros y sitios de contribucion**
 *¿Tienes alguna inquietud? de seguro alguien mas ya la resolvio, pregunta en estos sitios*
