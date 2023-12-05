@@ -1094,7 +1094,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [DartPad](https://dartpad.dev/) - Editor online de Dart y Flutter
 
 #### **Flutter**
-- [FlutterGems](https://fluttergems.dev/packages/flame/) - Juegos realizados con la libreria Flame de Flutter
+- [Flutter Gems](https://fluttergems.dev/) - Coleccion de funcionalidades en Flutter
+- [Flutter Gems Games](https://fluttergems.dev/packages/flame/) - Juegos realizados con la libreria Flame de Flutter
 
 
 **[⬆️ Regreso al indice](#indice)**
