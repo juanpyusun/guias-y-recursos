@@ -575,6 +575,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Iconsax](https://iconsax.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Icon Scout](https://iconscout.com/)
+- [Game Icons](https://game-icons.net/)
 
 ### **Tipografias**
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto 
