@@ -177,7 +177,6 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Malt](https://www.malt.es/) - Busqueda de consultores freelancer externos 
 - [Stack Overflow](https://stackoverflow.com/) - Foro para la consulta de dudas 
 - [Ask your code](https://askyourcode.com/) - Preguntas frecuentes sobre tecnologias 
-- [Blackbox](https://www.useblackbox.io/landingPage) - Buscador avanzado de codigo 
 - [You](https://you.com/code) - Buscador avanzado de codigo 
 
 ### **Sitios para Aprender Jugando**
@@ -219,6 +218,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [JS Robot](https://lab.reaal.me/jsrobot/) - Juego para aprender JS
 - [Elevator Saga](https://play.elevatorsaga.com/) - Juego para aprender JS
 - [Warrior JS](https://warriorjs.com/) - Juego para aprender JS
+- [Nand Game](https://nandgame.com/) - Juego para crear tu propio computador desde los componentes electronicos basicos
+- [Vim Adventures](https://vim-adventures.com/) - Juego para aprender el Editor de codigo VIM
 
 ### **Buscadores de libros y articulos**
 *todo lo referente a buscadores de libros, desbloquear de articulos en linea*
@@ -252,6 +253,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Technologynous](https://technologynous.com/)
 - [Byte Byte Go](https://blog.bytebytego.com/)
 - [Sons Of Hierarchies](https://sonsofhierarchies.com/)
+- [Hash Mode](https://hashnode.com/) - Blog de desarrolladores sobre temas de la actualidad
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -341,7 +343,9 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Gitignore](https://www.toptal.com/developers/gitignore) - Generador de archivos Gitignote 
 - [Git explorer](https://gitexplorer.com/) - ¿No recuerdas el comando adecuado para git? 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Repositorios para aprender a usar Github 
-- [Beginners Guide](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control) - Articulo guia basica sobre GIT
+- [Beginners Guide](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control) - Articulo guia basica sobre git
+- [Git Sim](https://github.com/initialcommit-com/git-sim) - Simulador visual de comandos git
+- [Plantillas Readme](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -382,6 +386,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Learn SQL](https://learnsql.com/blog/illustrated-guide-sql-outer-join/) - Guia visual para aprender Joins con camisas y pantalones de colores
 - [DB Fiddle](https://www.db-fiddle.com/) - Editor en linea SQL
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Retos de SQL
+- [SQL Flow](https://sqlflow.gudusoft.com/#/) - Visualizador sentencias SQL
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -417,6 +422,9 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Product Design Interview](https://productdesigninterview.com/) - Libros sobre UX
 - [Frontend Developer](https://github.com/mrcodedev/frontend-developer-resources) - Guia para aprender desarrollo web
 - [Open Graph Protocol](https://ogp.me/) - Metadatos para la etiqueta Head que se puedan ver en otras redes sociales adecuadamente el contenido
+- [Saas Landing Page](https://saaslandingpage.com/) - Recopilacion de landing pages
+- [Lapa](https://www.lapa.ninja/) - Recopilacion de landing pages
+- [Landing Folio](https://www.landingfolio.com/) - Recopilacion de landing pages
 
 ### **Herramientas Diseño**
 - [Admin lte](https://adminlte.io/) - Plantillas de diseño web
@@ -528,6 +536,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Color Adobe](https://color.adobe.com/es/create/color-wheel) - Rueda de colores
 - [Colour Palette Generator](https://www.colourpalettegenerator.com/) - Paleta de colores
 - [UI Colors](https://uicolors.app/create) - Generador aleatorio de colores con muestra de interfaces y elementos
+- [Color Magic](https://colormagic.app/)
 
 ### **Banco de multimedia**
 - [Visual Hunt](https://visualhunt.com/) - Stock y buscador de imagenes 
@@ -557,6 +566,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Sketch Valley](https://sketchvalley.com/) - Banco de ilustraciones
 - [Use Animations](https://useanimations.com/) - Generador SVG de animaciones
 - [Patter Monster](https://es.pattern.monster/) - Generador de patrones visuales
+- [Get Yarn](https://getyarn.io/) - Escribe una frase y se generara un listado de escenas de peliculas o series diciendo esa frase
 
 ### **Banco de iconos**
 - [Lord Icon](https://lordicon.com/) - Coleccion de iconos 
@@ -576,6 +586,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Feather Icons](https://feathericons.com/)
 - [Icon Scout](https://iconscout.com/)
 - [Game Icons](https://game-icons.net/)
+- [Flaticon](https://www.flaticon.es/)
+- [Yes Icon](https://yesicon.app/?lang=es)
 
 ### **Tipografias**
 - [Font Pair](https://www.fontpair.co/) - Distintas fuentes de texto 
@@ -636,6 +648,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [JAM](https://chrome.google.com/webstore/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci) - Extension Chrome para generar reportes de error detallados
 - [Google Search Console Tool](https://search.google.com/search-console/about) - Herramienta de google que brinda infor sobre el trafico de un sitio
 - [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
+- [Blacklight](https://themarkup.org/series/blacklight) - Inspector de privacidad
+- [Web Check](https://web-check.xyz/) - Inspector de paginas web sobre seguridad, rendimiento y otros
 
 ### **Hosting y dominios**
 *sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
@@ -664,6 +678,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Supabase](https://supabase.com/)
 - [FLY](https://fly.io/)
 - [Koyeb](https://www.koyeb.com/)
+- [Firebase](https://firebase.google.com/)
+- [Fleek](https://fleek.co/)
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -730,6 +746,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Libreria online matematicas
 - [Excalidraw](https://excalidraw.com/) - Tablero virtual
 - [Idroo](https://app.idroo.com/) - Tablero virtual
+- [Regex Vis](https://regex-vis.com/) - Visualizador de sentencia ReGex
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -797,6 +814,12 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Foro Prompt](https://foroprompt.com/) - Coleccion de prompts para IAs
 - [Firefly](https://firefly.adobe.com/) - AI para generar imagenes
 - [Vanna](https://vanna.ai/) - AI que se entrena sobre tu base de datos genera consultas personalizadas
+- [Blackbox](https://www.useblackbox.io/landingPage) - Buscador avanzado de codigo  y generador de codigo con IA
+- [Comic Factory](https://aicomicfactory.com/) - Generador de comics con IA
+- [Chat Dev](https://chatdev.toscl.com/) - Simuladora de ciudad/empresa con IA
+- [V0](https://v0.dev/) - Generador de paginas con IA
+- [Clone UI](https://clone-ui.design/) - Generador de elementos web con IA
+- [Ideogram](https://ideogram.ai/login) - Generador IA de imagenes con texto 
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -832,6 +855,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [El tio Tech](https://eltiotech.com/) - Video cursos de Ofimatica del Tio Tech 
 - [Simple PDF](https://simplepdf.eu/) - Editor online de archivos PDF's gratuito 
 - [Formula BOT](https://formulabot.com/) - Generador de formulas de excel
+- [Novypro](https://www.novypro.com/) - Recoleccion de diseños de dashboards 
 
 **[⬆️ Regreso al indice](#indice)**
 ***
@@ -892,6 +916,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Ethical Hacking Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Laboratorios para aprener Hacking Etico
 - [Non Typical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - Guia sobre distintas tecnias OSINT
 - [GitSint](https://github.com/N0rz3/GitSint) - Informacion sobre una cuenta de Github
+- [Zaproxy](https://www.zaproxy.org/) - Auditor de paginas web
 
 **[⬆️ Regreso al indice](#indice)**
 ***
