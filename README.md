@@ -284,7 +284,8 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Data Gov Colombia](https://www.datos.gov.co/) 
 - [Data World](https://data.world/) 
 - [Hugging Face](https://huggingface.co/datasets) 
-- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) 
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+- [AdventureWorks sample databases](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 
 ### **Banco de API's para consumir**
 *distintas API's para usar en proyectos*
