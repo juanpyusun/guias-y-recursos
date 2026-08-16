@@ -776,6 +776,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [QuillBot](https://quillbot.com/) - AI para realizar parafraseo 
 - [Jasper](https://www.jasper.ai/) - AI para guiones de youtube 
 - [Pictory](https://pictory.ai/) - AI para creacion guion de videos 
+- [videos.social](https://videos.social/?utm_source=juanpyusun-guias-y-recursos&utm_medium=directory&utm_campaign=listing-wave-d) - Convierte blogs, PDFs y prompts en videos faceless editables. Empieza gratis — 1 render incluido. 
 - [Synthesia](https://www.synthesia.io/) - AI para creacion de videos 
 - [Fras](https://www.frase.io/) - AI optimizacion para SEO 
 - [Warmbox](https://www.warmbox.ai/) - AI email marketing 
