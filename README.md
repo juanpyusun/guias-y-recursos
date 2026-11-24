@@ -652,6 +652,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Uptimer Robot](https://uptimerobot.com/) - Monitoreador de paginas web
 - [Blacklight](https://themarkup.org/series/blacklight) - Inspector de privacidad
 - [Web Check](https://web-check.xyz/) - Inspector de paginas web sobre seguridad, rendimiento y otros
+- [Agent QA](https://github.com/vostride/agent-qa) - Herramienta de QA con código fuente disponible para escribir y ejecutar pruebas web y móviles en lenguaje natural
 
 ### **Hosting y dominios**
 *sitios web para el despliegue de servicios web con microservicios gratuitos limitados y de pago*
