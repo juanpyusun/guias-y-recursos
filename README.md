@@ -884,6 +884,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Katana](https://github.com/TebbaaX/Katana) - Repositorio para hacer google dorking desde consola
 - [Go Pish](https://github.com/gophish/gophish) - Repositorio
 - [OSINTagram](https://github.com/Datalux/Osintgram) - Repositorio
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform: 50 specialist agents over MCP driving 50+ offensive tools across web, API, Active Directory, Kubernetes and cloud, with proof of exploitation and a privacy gateway that keeps real values off the model.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Repositorio para hacer busquedas avanzadas de un username en distintas redes y paginas
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Repositorio
 - [Trape](https://github.com/jofpin/trape) - Repositorio
