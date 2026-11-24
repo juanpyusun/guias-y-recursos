@@ -775,6 +775,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Prompts Chat](https://prompts.chat/) - Coleccion de prompts especializados 
 - [Answer the public](https://answerthepublic.com/) - AI para ideas sobre contenido 
 - [QuillBot](https://quillbot.com/) - AI para realizar parafraseo 
+- [HumanPen](https://humanpen.net/) - Reescritura de documentos con IA; servicio de pago por créditos con 100 créditos gratis al registrarse.
 - [Jasper](https://www.jasper.ai/) - AI para guiones de youtube 
 - [Pictory](https://pictory.ai/) - AI para creacion guion de videos 
 - [Synthesia](https://www.synthesia.io/) - AI para creacion de videos 
