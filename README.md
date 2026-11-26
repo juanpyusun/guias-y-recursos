@@ -389,6 +389,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [DB Fiddle](https://www.db-fiddle.com/) - Editor en linea SQL
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Retos de SQL
 - [SQL Flow](https://sqlflow.gudusoft.com/#/) - Visualizador sentencias SQL
+- [SQL Formatter](https://bestlatestapps.com/tools/sql-formatter/) - Formateador gratuito de consultas SQL en el navegador para PostgreSQL, MySQL, SQLite y SQL Server, sin registro
 
 **[⬆️ Regreso al indice](#indice)**
 ***
