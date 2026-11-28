@@ -170,6 +170,7 @@ Este repositorio alberga una extensa colección de enlaces que conectan con curs
 - [Project Learn](https://projectlearn.io/) - Aprendizaje con retos de distintas tecnologias
 - [Goodbrief](https://goodbrief.io/) - Generador de pruebas tecnicas
 - [Code Signal](https://codesignal.com/) - Pruebas tecnicas y otros recursos
+- [Aethel](https://aethel.pro/es/practica-de-entrevista-con-ia) - Práctica de entrevistas con IA en español, gratis y sin cuenta: elija rol y nivel, responda y reciba una comprobación rápida de cada respuesta
 
 ### **Foros y sitios de contribucion**
 *¿Tienes alguna inquietud? de seguro alguien mas ya la resolvio, pregunta en estos sitios*
